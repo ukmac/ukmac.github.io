@@ -78,15 +78,17 @@ author:
 
 footer:
   links:
+    - label: "Telford, UK"
+      icon: "fa fa-map-marker"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ukmac"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ukmac"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/ukmac"
 
 defaults:
   # _posts

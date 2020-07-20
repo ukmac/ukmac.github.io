@@ -4,7 +4,7 @@ title: Add attachments in PowerApps
 permalink: https://ukmac.net/2019/08/add-attachments-in-powerapps/index.html
 post_id: 868
 categories: 
-- Quote
+
 - PowerApps
 ---
 

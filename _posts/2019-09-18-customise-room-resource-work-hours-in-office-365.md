@@ -5,7 +5,7 @@ permalink: https://ukmac.net/2019/09/customise-room-resource-work-hours-in-offic
 post_id: 889
 categories: 
 - Office 365
-- Quote
+
 - Powershell
 ---
 

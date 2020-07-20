@@ -1,0 +1,14 @@
+---
+layout: post
+title: Infinite Loop - Lovely Relaxing Game for iOS
+permalink: https://ukmac.net/2015/06/inifinite-loop-lovely-relaxing-game-for-ios/index.html
+post_id: 137
+categories: 
+- Apps
+---
+
+[Infinite Loop](http://loopgame.co) is my latest go to iPhone game for instant gratification or the gamers equivalent of meditation. Jonas Lekevicious has created a beautiful puzzle game that requires no instructions and is suitable for young and old. Whats more he has created an 
+[iPhone](https://itunes.apple.com/us/app/infinite-loop/id977028266?mt=8) and 
+[Android](https://play.google.com/store/apps/details?id=com.balysv.loop) version so everyone can play.
+
+Grab it now its free to play.

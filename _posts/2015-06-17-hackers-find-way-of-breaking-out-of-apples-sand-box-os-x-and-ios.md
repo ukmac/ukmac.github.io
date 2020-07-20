@@ -4,7 +4,7 @@ title: Hackers find way of breaking out of Apple's sand box ( OS X and iOS )
 permalink: https://ukmac.net/2015/06/hackers-find-way-of-breaking-out-of-apples-sand-box-os-x-and-ios/index.html
 post_id: 114
 categories: 
-- Apple Miscellany
+- Apple
 - Security
 ---
 

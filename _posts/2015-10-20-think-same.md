@@ -4,7 +4,6 @@ title: Think Same !
 permalink: https://ukmac.net/2015/10/think-same/index.html
 post_id: 166
 categories: 
-- Funny Videos
 - Videos
 ---
 

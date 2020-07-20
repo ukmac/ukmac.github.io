@@ -4,7 +4,7 @@ title: Edge Insider - New Tab for Enterprise
 permalink: https://ukmac.net/2019/10/edge-insider-new-tab-for-enterprise/index.html
 post_id: 894
 categories: 
-- Edge Insider
+- Microsoft
 ---
 
 The latest Edge Insider release includes a new feature for users to configure the default new tab to include the Recommended and Recent sections from the default Office.com landing page.

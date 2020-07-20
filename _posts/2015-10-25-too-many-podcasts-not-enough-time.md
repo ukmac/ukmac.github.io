@@ -4,7 +4,7 @@ title: Too Many Podcasts, Not Enough Time
 permalink: https://ukmac.net/2015/10/too-many-podcasts-not-enough-time/index.html
 post_id: 195
 categories: 
-- Apple Miscellany
+- Apple
 ---
 
 This article ( 

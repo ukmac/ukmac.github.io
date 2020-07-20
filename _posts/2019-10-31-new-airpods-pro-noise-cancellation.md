@@ -7,7 +7,6 @@ categories:
 - Apple Music
 ---
 
->Ryan Block on AirPods Pro vs. Bose QuietComfort 35 Headphones https://twitter.com/ryan/status/1189643522418151424
-
+[Ryan Block on AirPods Pro vs. Bose QuietComfort 35 Headphones](https://twitter.com/ryan/status/1189643522418151424)
 
 Have to say I am impressed too. Loving them !

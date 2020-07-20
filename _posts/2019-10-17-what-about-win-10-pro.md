@@ -8,27 +8,10 @@ categories:
 - Microsoft
 ---
 
-wp:paragraphSo I just came across another one of Microsofts seemingly arbitrary limitations in using policies to manage Windows 10. This one is another example where there is a policy setting that only works if you have Windows 10 Enterprise or Education editions and not for Pro.
-
-/wp:paragraph
-
-
-wp:paragraph
+So I just came across another one of Microsofts seemingly arbitrary limitations in using policies to manage Windows 10. This one is another example where there is a policy setting that only works if you have Windows 10 Enterprise or Education editions and not for Pro.
 
 If you want a policy to lock down the Windows Store to only show applications in your organisations Store then you are going to be out of luck...
 
-/wp:paragraph
-
-
-wp:preformatted
-
 [https://docs.microsoft.com/en-us/microsoft-store/manage-access-to-private-store](https://docs.microsoft.com/en-us/microsoft-store/manage-access-to-private-store)
 
-/wp:preformatted
-
-
-wp:paragraph
-
 If anyone knows a way to block the Windows Store for Pro editions I would be interested to hear from you.
-
-/wp:paragraph

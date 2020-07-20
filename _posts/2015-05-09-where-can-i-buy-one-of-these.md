@@ -7,7 +7,6 @@ categories:
 - Pictures
 ---
 
-[caption id="" align="alignnone" width="1224"]
-[![](http://i.imgur.com/SGO1q.jpg)](https://www.pinterest.com/pin/322148179569722698/) iMac Desk Lamp[/caption]
+[![](http://i.imgur.com/SGO1q.jpg)](https://www.pinterest.com/pin/322148179569722698/) iMac Desk Lamp
 
 This is so cool... Would love this for my desk.

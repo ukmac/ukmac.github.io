@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Apple Clothing Collection from the 80's
 permalink: https://ukmac.net/2015/05/apple-clothing-collection-from-the-80s/index.html
 post_id: 63

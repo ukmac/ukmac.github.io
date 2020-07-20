@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Steve Jobs and Bill Gates - Walt Mossberg Interview
 permalink: https://ukmac.net/2015/05/steve-jobs-and-bill-gates-walt-mossberg-interview/index.html
 post_id: 37

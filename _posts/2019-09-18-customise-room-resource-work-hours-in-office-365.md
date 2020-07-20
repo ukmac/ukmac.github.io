@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Customise Room Resource work hours in Office 365
 permalink: https://ukmac.net/2019/09/customise-room-resource-work-hours-in-office-365/index.html
 post_id: 889

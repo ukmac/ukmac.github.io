@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: CarPlay in iOS 13
 permalink: https://ukmac.net/2019/08/carplay-in-ios-13/index.html
 post_id: 880

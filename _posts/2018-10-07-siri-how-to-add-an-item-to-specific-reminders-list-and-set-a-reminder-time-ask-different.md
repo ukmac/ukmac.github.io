@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Siri: How to add an item to specific Reminders list AND set a reminder time? - Ask Different
+
+title: How to add an item to specific Reminders list AND set a reminder time? - Ask Different
 permalink: https://ukmac.net/2018/10/siri-how-to-add-an-item-to-specific-reminders-list-and-set-a-reminder-time-ask-different/index.html
 post_id: 739
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Privacy Policy
 permalink: https://ukmac.net/privacy-policy/index.html
 post_id: 256

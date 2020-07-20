@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Calls To 0800 Numbers Free From Mobiles Starting 1st July (UK)
 permalink: https://ukmac.net/2015/06/calls-to-0800-numbers-free-from-mobiles-starting-1st-july-uk/index.html
 post_id: 121

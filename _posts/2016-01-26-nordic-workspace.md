@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Nordic Workspace
 permalink: https://ukmac.net/2016/01/nordic-workspace/index.html
 post_id: 246

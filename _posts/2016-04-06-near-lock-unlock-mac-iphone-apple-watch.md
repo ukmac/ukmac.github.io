@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Near Lock - Unlock your Mac with your iPhone or Apple Watch
 permalink: https://ukmac.net/2016/04/near-lock-unlock-mac-iphone-apple-watch/index.html
 post_id: 388

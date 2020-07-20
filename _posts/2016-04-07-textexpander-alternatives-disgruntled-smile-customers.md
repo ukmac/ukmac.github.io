@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: TextExpander Alternatives for Disgruntled Smile Customers
 permalink: https://ukmac.net/2016/04/textexpander-alternatives-disgruntled-smile-customers/index.html
 post_id: 399

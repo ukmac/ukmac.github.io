@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Gorgeous Tiny Office
 permalink: https://ukmac.net/2015/05/gorgeous-tiny-office/index.html
 post_id: 77

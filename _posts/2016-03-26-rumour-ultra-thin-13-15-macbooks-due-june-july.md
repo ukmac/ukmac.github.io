@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Rumour - Ultra-thin 13" and 15" MacBooks due in June-July
 permalink: https://ukmac.net/2016/03/rumour-ultra-thin-13-15-macbooks-due-june-july/index.html
 post_id: 299

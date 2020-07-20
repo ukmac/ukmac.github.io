@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "For You" Disappearing from iTunes after recent update
+
+title: "For You Disappearing from iTunes after recent update"
 permalink: https://ukmac.net/2015/07/for-you-disappearing-from-itunes-after-recent-update/index.html
 post_id: 142
 categories: 

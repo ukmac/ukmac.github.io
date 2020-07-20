@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Serious Screen Real Estate
 permalink: https://ukmac.net/2015/05/serious-screen-real-estate/index.html
 post_id: 48

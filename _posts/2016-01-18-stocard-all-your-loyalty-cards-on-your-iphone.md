@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Stocard - All your loyalty cards on your iPhone
 permalink: https://ukmac.net/2016/01/stocard-all-your-loyalty-cards-on-your-iphone/index.html
 post_id: 240

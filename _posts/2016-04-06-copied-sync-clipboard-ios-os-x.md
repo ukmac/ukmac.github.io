@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Copied - Sync your clipboard for iOS and OS X
 permalink: https://ukmac.net/2016/04/copied-sync-clipboard-ios-os-x/index.html
 post_id: 316

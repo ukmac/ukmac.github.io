@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Extreme Minimalist Mac Desk
 permalink: https://ukmac.net/2015/05/extreme-minimalist-mac-desk/index.html
 post_id: 54

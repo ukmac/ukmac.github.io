@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Louisiana declares emergency over cyberattacks targeting schools
 permalink: https://ukmac.net/2019/07/louisiana-declares-emergency-over-cyberattacks-targeting-schools/index.html
 post_id: 815

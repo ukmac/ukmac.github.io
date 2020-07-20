@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How Much Do You Think A Top Grossing App in Mac App Store Makes Its Author ?
 permalink: https://ukmac.net/2015/05/how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/index.html
 post_id: 57

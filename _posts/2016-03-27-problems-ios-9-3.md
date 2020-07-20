@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: More Problems with iOS 9.3 ?
 permalink: https://ukmac.net/2016/03/problems-ios-9-3/index.html
 post_id: 306

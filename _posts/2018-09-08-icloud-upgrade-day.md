@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: iCloud Upgrade Day..
 permalink: https://ukmac.net/2018/09/icloud-upgrade-day/index.html
 post_id: 735

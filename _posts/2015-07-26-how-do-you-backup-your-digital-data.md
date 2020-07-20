@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How do you backup your digital data ?
 permalink: https://ukmac.net/2015/07/how-do-you-backup-your-digital-data/index.html
 post_id: 146

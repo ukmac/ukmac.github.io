@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: What about Win 10 Pro ?
 permalink: https://ukmac.net/2019/10/what-about-win-10-pro/index.html
 post_id: 897

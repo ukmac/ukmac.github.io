@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: On How I Lost Then Found Trackpad Options in El Capitan
 permalink: https://ukmac.net/2016/04/on-how-i-lost-then-found-trackpad-options-in-el-capitan/index.html
 post_id: 433

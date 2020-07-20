@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Edge Insider - New Tab for Enterprise
 permalink: https://ukmac.net/2019/10/edge-insider-new-tab-for-enterprise/index.html
 post_id: 894

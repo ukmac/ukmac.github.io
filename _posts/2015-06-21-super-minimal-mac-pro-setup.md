@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Super Minimal Mac Pro Setup
 permalink: https://ukmac.net/2015/06/super-minimal-mac-pro-setup/index.html
 post_id: 131

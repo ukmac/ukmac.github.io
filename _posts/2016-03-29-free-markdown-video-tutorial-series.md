@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Free Markdown Video Tutorial Series
 permalink: https://ukmac.net/2016/03/free-markdown-video-tutorial-series/index.html
 post_id: 326

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Kickstarter - Pixo magnetic Tablet Mount
 permalink: https://ukmac.net/2016/04/kickstarter-pixo-magnetic-tablet-mount/index.html
 post_id: 393

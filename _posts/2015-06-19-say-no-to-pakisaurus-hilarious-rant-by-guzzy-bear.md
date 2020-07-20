@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Say no to Pakisaurus - Hilarious Rant by Guzzy Bear
 permalink: https://ukmac.net/2015/06/say-no-to-pakisaurus-hilarious-rant-by-guzzy-bear/index.html
 post_id: 124

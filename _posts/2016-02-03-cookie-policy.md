@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Cookie Policy
 permalink: https://ukmac.net/cookie-policy/index.html
 post_id: 263

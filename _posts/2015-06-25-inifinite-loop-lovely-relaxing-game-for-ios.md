@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Infinite Loop - Lovely Relaxing Game for iOS
 permalink: https://ukmac.net/2015/06/inifinite-loop-lovely-relaxing-game-for-ios/index.html
 post_id: 137

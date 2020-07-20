@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Setting Lock Screen Wallpaper with InTune
 permalink: https://ukmac.net/2019/09/setting-lock-screen-wallpaper-with-intune/index.html
 post_id: 886

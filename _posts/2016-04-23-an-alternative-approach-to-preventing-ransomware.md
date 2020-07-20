@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: An Alternative Approach to Preventing Ransomware ?
 permalink: https://ukmac.net/2016/04/an-alternative-approach-to-preventing-ransomware/index.html
 post_id: 508

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Swapping Between Hardware and On Screen Keyboards on iOS
 permalink: https://ukmac.net/2016/04/swapping-between-hardware-and-on-screen-keyboards-on-ios/index.html
 post_id: 332

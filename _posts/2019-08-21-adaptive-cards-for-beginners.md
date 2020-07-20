@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Adaptive Cards for Beginners
 permalink: https://ukmac.net/2019/08/adaptive-cards-for-beginners/index.html
 post_id: 871

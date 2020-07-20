@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Fresh Background Wallpapers for your Mac
 permalink: https://ukmac.net/2016/02/fresh-background-wallpapers-for-your-mac/index.html
 post_id: 283

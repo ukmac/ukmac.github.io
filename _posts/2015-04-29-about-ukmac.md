@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: About
 permalink: https://ukmac.net/about-ukmac/index.html
 post_id: 11

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: New Apple TV Starts Shipping Next Week
 permalink: https://ukmac.net/2015/10/new-apple-tv-starts-shipping-next-week/index.html
 post_id: 168

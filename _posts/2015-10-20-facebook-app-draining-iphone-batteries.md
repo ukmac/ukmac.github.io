@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Facebook App Draining iPhone Batteries
 permalink: https://ukmac.net/2015/10/facebook-app-draining-iphone-batteries/index.html
 post_id: 173

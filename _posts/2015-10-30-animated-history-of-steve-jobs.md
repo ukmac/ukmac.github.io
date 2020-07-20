@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Animated History Of Steve Jobs
 permalink: https://ukmac.net/2015/10/animated-history-of-steve-jobs/index.html
 post_id: 212

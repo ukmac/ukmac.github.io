@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Minimal Desk with iMac
 permalink: https://ukmac.net/2015/05/minimal-desk-with-imac/index.html
 post_id: 92

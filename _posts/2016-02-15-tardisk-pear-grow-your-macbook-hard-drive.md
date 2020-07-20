@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: TarDisk Pear - Grow your MacBook Hard drive !
 permalink: https://ukmac.net/2016/02/tardisk-pear-grow-your-macbook-hard-drive/index.html
 post_id: 271

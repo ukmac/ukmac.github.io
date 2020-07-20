@@ -16,6 +16,7 @@ Fortunately there is a Powershell command to modify this to suit your room requi
 First connect to Exchange PowershellSet-MailboxCalendarConfiguration -Identity <SMTPRoomResource> -WorkingHoursStartTime 00:00:00 -WorkingHoursEndTime 23:59:59
 
 This is for an individual room resource. Alternatively if all your rooms have the same availability schedule you can change all at once with the command below
-``` Powershell
+
+```Powershell
 Get-MailBox | where {$_.ResourceType -eq "Room"} | Set-MailboxCalendarConfiguration -WorkingHoursStartTime 00:00:00 -WorkingHoursEndTime 23:59:59
 ``` 

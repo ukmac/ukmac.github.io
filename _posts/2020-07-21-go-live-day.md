@@ -5,7 +5,9 @@ categories:
 tags:
   - 
 ---
-UKMac.net is now live on Github Pages !
+![](/assets/images/jekyll.svg)
+
+[UKMac.net](https://ukmac/net) is now live on [Github Pages](https://pages.github.com) !
 
 If you are lucky enough to be reading this post today (21st July 2020) then you may have received warnings that the page is not secure from your browser. This should clear itself within the next 24 hours as [Github Pages](https://pages.github.com) sets up https on my custom domain.
 

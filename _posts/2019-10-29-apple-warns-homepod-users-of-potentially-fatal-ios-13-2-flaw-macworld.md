@@ -1,10 +1,8 @@
 ---
-
-title: Apple warns HomePod users of potentially fatal iOS 13.2 flaw | Macworld
+title: Apple warns HomePod users of potentially fatal iOS 13.2 flaw
 permalink: https://ukmac.net/2019/10/apple-warns-homepod-users-of-potentially-fatal-ios-13-2-flaw-macworld/index.html
-post_id: 900
 categories: 
-- Apple Miscellany
+- Apple
 - Apple Music
 ---
 

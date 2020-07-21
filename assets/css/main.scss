@@ -10,6 +10,8 @@ $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $sans-serif: Menlo, Monaco, Consolas, "Courier New", monospace!default;
 
+$header-font: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$header-font-family: $header-font !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -35,3 +37,49 @@ $sans-serif: Menlo, Monaco, Consolas, "Courier New", monospace!default;
   }
 }
 
+.archive__item {
+  position: relative;
+
+  a {
+    position: relative;
+    z-index: 10;
+    text-decoration: none;
+  }
+
+  a[rel="permalink"] {
+    position: static;
+    text-decoration: none;
+  }
+}
+
+.archive__subtitle {
+  margin: 1em 0 0;
+  padding-bottom: 0.5em;
+  font-size: $type-size-3;
+  color: $muted-text-color;
+
+  + .list__item .archive__item-title {
+    margin-top: 0.5em;
+  }
+}
+
+.archive__item-title {
+  margin-bottom: 0.75em;
+  font-family: $header-font-family;
+  line-height: initial;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-bottom: solid 1px #969896;
+
+  a[rel="permalink"]::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+  a + a {
+    opacity: 0.5;
+  }
+}

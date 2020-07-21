@@ -4,6 +4,12 @@
 @charset "utf-8";
 
 $background-color: #1d1f21!default;
+$info-color: #91a8e3!default;
+$link-color: mix(#000, $info-color, 20%) !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-visited: mix(#fff, $link-color, 15%) !default;
+$sans-serif: Menlo, Monaco, Consolas, "Courier New", monospace!default;
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -28,3 +34,4 @@ $background-color: #1d1f21!default;
     }
   }
 }
+

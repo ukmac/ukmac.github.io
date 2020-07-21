@@ -2,6 +2,7 @@
 title: "Jekyll Go Live Day"
 categories:
   - blog
+  - Jekyll
 tags:
   - 
 ---

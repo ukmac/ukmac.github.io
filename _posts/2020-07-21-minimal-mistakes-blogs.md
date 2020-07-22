@@ -3,8 +3,7 @@ title: "Minimal Mistakes Blogs"
 categories:
   - blog
   - Jekyll
-tags:
-  - 
+toc: true
 ---
 Now I have got a barebones Jekyll site running, DNS sorted and old Wordpress posts migrated its time to do a bit of personalisation. Like a lot of Jekyll blogs I have started with the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes) which is a nice starting point.
 

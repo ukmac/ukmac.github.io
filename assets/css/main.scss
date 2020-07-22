@@ -8,10 +8,12 @@ $info-color: #91a8e3!default;
 $link-color: mix(#000, $info-color, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
-$sans-serif: Menlo, Monaco, Consolas, "Courier New", monospace!default;
+$sans-serif: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 $header-font: "Quicksand", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $header-font-family: $header-font !default;
+
+$github-color: #fff !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -69,10 +71,10 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0 0 0.5em;
+  margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
+  /*font-weight: bold; */
 }
 
 
@@ -94,5 +96,162 @@ h6 {
   }
   a + a {
     opacity: 0.5;
+  }
+}
+
+.site-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-item-align: center;
+  align-self: center;
+  font-weight: bold;
+  font-size: $type-size-3;        
+    // z-index: 20;
+}
+
+.site-subtitle {
+  display: block;
+  font-size: $type-size-8;
+  font-weight: normal;
+}
+
+.toc {
+  font-family: $sans-serif-narrow;
+  color: $gray;
+  background-color: $background-color;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  -webkit-box-shadow: $box-shadow;
+  box-shadow: $box-shadow;
+
+  .nav__title {
+    color: #fff;
+    font-size: $type-size-6;
+    background: $link-color;
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+  }
+
+  // Scrollspy marks toc items as .active when they are in focus
+  .active a {
+    @include yiq-contrasted($active-color);
+  }
+}
+
+.toc__menu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style: none;
+  font-size: $type-size-4;
+
+  @include breakpoint($large) {
+    font-size: $type-size-5;
+  }
+
+  a {
+    display: block;
+    padding: 0.25rem 0.75rem;
+    color: $muted-text-color;
+    font-weight: bold;
+    line-height: 1.5;
+    border-bottom: 1px solid $border-color;
+
+    &:hover {
+      color: $text-color;
+    }
+  }
+
+  li ul > li a {
+    padding-left: 1.25rem;
+    font-weight: normal;
+  }
+
+  li ul li ul > li a {
+    padding-left: 1.75rem;
+  }
+
+  li ul li ul li ul > li a {
+    padding-left: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-left: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-left: 3.25rem
+  }
+}
+
+.masthead {
+  position: relative;
+  border-bottom: 1px solid $border-color;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.15s;
+  animation-delay: 0.15s;
+  z-index: 20;
+  background-color: #000;
+
+  &__inner-wrap {
+    @include clearfix;
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    max-width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $max-width;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.greedy-nav {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-height: $nav-height;
+  background: #000;
+
+  a {
+    display: block;
+    margin: 0 1rem;
+    color: $masthead-link-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
+
+    &.site-logo {
+      margin-left: 0;
+      margin-right: 0.5rem;
+    }
+
+    &.site-title {
+      margin-left: 0;
+    }
   }
 }

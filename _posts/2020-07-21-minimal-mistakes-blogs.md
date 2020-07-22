@@ -20,5 +20,6 @@ As a non-expert in the field of web development I know what I want to do and rou
 ## Nice Minimal Mistakes Themes
 
 - [Azure Citadel](https://azurecitadel.com/)
-- [The Haksoat](https://haksoat.github.io/activities/2019-04-10-create-blog-jekyll/)  
+- [The Haksoat](https://haksoat.github.io/activities/2019-04-10-create-blog-jekyll/)
+- [Solomon Victorino](https://solomonvictorino.com/)  
 

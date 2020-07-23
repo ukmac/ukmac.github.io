@@ -19,6 +19,7 @@ email: scott@ukmac.net
 description: >- # this means to ignore newlines until "baseurl:"
   UKMac.net is Scott Paterson's Blog about Apple, Microsoft, Enterprise IT amongst other things.
 baseurl: /
+url: https://ukmac.net
 twitter_username: ukmac
 github_username: ukmac
 minimal_mistakes_skin: dark

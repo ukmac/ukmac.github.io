@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Customise the Office 365 encryption Message
-permalink: https://ukmac.net/2019/12/customise-the-office-365-encryption-message/index.html
 post_id: 907
 categories: 
 - Office 365

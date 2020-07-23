@@ -1,8 +1,5 @@
 ---
-
 title: A huge pile of new Teams features !
-permalink: https://ukmac.net/2019/11/a-huge-pile-of-new-teams-features/index.html
-post_id: 903
 categories: 
 - Teams
 ---

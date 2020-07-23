@@ -1,7 +1,6 @@
 ---
 
 title: Cablox Cable Organiser
-permalink: https://ukmac.net/2015/05/cablox-cable-organiser/index.html
 post_id: 86
 categories: 
 - Mac Setups

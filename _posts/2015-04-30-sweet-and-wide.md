@@ -1,7 +1,6 @@
 ---
 
 title: Sweet and Wide...
-permalink: https://ukmac.net/2015/04/sweet-and-wide/index.html
 post_id: 21
 categories: 
 - Mac Setups

@@ -1,7 +1,6 @@
 ---
 
 title: Monosnap - Free Screen Capture for Images and Video
-permalink: https://ukmac.net/2016/04/mono-snap-free-screen-capture-images-video/index.html
 post_id: 420
 categories: 
 - Apps

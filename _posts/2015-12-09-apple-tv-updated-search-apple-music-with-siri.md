@@ -1,7 +1,6 @@
 ---
 
 title: Apple TV Updated - Search Apple Music with Siri
-permalink: https://ukmac.net/2015/12/apple-tv-updated-search-apple-music-with-siri/index.html
 post_id: 223
 categories: 
 - Apple Music

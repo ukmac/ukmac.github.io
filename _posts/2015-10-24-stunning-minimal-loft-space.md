@@ -1,7 +1,6 @@
 ---
 
 title: Stunning Minimal Loft Space
-permalink: https://ukmac.net/2015/10/stunning-minimal-loft-space/index.html
 post_id: 179
 categories: 
 - Mac Setups

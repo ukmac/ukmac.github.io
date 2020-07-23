@@ -1,7 +1,6 @@
 ---
 
 title: Amazon Removes Apple TV From Store
-permalink: https://ukmac.net/2015/10/amazon-removes-apple-tv-from-store/index.html
 post_id: 207
 categories: 
 - Apple TV

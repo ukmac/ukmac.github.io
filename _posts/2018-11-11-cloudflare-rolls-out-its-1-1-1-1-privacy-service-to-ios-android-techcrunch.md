@@ -1,7 +1,6 @@
 ---
 
 title: Cloudflare rolls out its 1.1.1.1 privacy service to iOS, Android
-permalink: https://ukmac.net/2018/11/cloudflare-rolls-out-its-1-1-1-1-privacy-service-to-ios-android-techcrunch/index.html
 post_id: 741
 categories: 
 - Security

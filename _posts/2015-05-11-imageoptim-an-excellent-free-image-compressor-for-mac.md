@@ -1,7 +1,6 @@
 ---
 
 title: ImageOptim - An Excellent Free Image Compressor for Mac
-permalink: https://ukmac.net/2015/05/imageoptim-an-excellent-free-image-compressor-for-mac/index.html
 post_id: 67
 categories: 
 - Apps

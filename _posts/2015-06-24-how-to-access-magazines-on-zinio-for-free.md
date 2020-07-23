@@ -1,7 +1,6 @@
 ---
 
 title: How to Access Magazines on Zinio for Free
-permalink: https://ukmac.net/2015/06/how-to-access-magazines-on-zinio-for-free/index.html
 post_id: 112
 categories: 
 - Apps

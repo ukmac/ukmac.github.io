@@ -1,7 +1,6 @@
 ---
 
 title: New Apple Force Touch Table
-permalink: https://ukmac.net/2015/10/new-apple-force-touch-table/index.html
 post_id: 203
 categories: 
 - Apple

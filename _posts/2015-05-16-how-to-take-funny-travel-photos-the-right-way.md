@@ -1,7 +1,6 @@
 ---
 
 title: How to Take Funny Travel Photos - The Right Way
-permalink: https://ukmac.net/2015/05/how-to-take-funny-travel-photos-the-right-way/index.html
 post_id: 96
 categories: 
 - Photography

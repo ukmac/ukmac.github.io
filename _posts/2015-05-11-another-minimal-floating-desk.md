@@ -1,7 +1,6 @@
 ---
 
 title: Another Minimal Floating Desk
-permalink: https://ukmac.net/2015/05/another-minimal-floating-desk/index.html
 post_id: 70
 categories: 
 - Mac Setups

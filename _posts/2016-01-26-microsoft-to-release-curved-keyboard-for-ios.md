@@ -1,7 +1,6 @@
 ---
 
 title: Microsoft to release curved keyboard for iOS
-permalink: https://ukmac.net/2016/01/microsoft-to-release-curved-keyboard-for-ios/index.html
 post_id: 251
 categories: 
 - iOS

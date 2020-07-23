@@ -1,7 +1,6 @@
 ---
 
 title: Game of the day - 2 Cars
-permalink: https://ukmac.net/2016/04/game-day-2-cars/index.html
 post_id: 343
 categories: 
 - Apps

@@ -1,7 +1,6 @@
 ---
 
 title: Your time is limited...
-permalink: https://ukmac.net/2015/05/your-time-is-limited/index.html
 post_id: 33
 categories: 
 - Pictures

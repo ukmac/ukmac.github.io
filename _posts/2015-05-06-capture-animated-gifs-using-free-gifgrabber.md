@@ -1,7 +1,6 @@
 ---
 
 title: Capture Animated GIFs using free GifGrabber
-permalink: https://ukmac.net/2015/05/capture-animated-gifs-using-free-gifgrabber/index.html
 post_id: 28
 categories: 
 - Apps

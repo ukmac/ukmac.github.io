@@ -1,7 +1,6 @@
 ---
 
 title: Spoof Letters Published In Metro Newspaper
-permalink: https://ukmac.net/2016/04/spoof-letters-published-metro-newspaper/index.html
 post_id: 415
 categories: 
 - Humour

@@ -1,7 +1,6 @@
 ---
 
 title: CassetteBoy Vs The Snooper's Charter
-permalink: https://ukmac.net/2016/04/cassetteboy-vs-snoopers-charter/index.html
 post_id: 407
 categories: 
 - Videos

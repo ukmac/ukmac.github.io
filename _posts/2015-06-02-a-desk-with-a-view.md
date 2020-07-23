@@ -1,7 +1,6 @@
 ---
 
 title: A Minimal Desk With A View
-permalink: https://ukmac.net/2015/06/a-desk-with-a-view/index.html
 post_id: 106
 categories: 
 - Mac Setups

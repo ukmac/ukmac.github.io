@@ -1,7 +1,6 @@
 ---
 
 title: Dual Screen Wallpapers for Macs
-permalink: https://ukmac.net/2015/10/dual-screen-wallpapers-for-macs/index.html
 post_id: 185
 categories: 
 - Apple

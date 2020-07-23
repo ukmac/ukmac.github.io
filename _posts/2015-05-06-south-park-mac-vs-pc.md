@@ -1,7 +1,6 @@
 ---
 
 title: South Park Mac vs PC
-permalink: https://ukmac.net/2015/05/south-park-mac-vs-pc/index.html
 post_id: 41
 categories: 
 - Videos

@@ -1,7 +1,6 @@
 ---
 
 title: They just don't make 'em like they used to
-permalink: https://ukmac.net/2016/03/just-dont-make-em-like-used/index.html
 post_id: 319
 categories: 
 - Mac Hardware

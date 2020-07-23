@@ -1,7 +1,6 @@
 ---
 
 title: New AirPods Pro noise cancellation
-permalink: https://ukmac.net/2019/10/new-airpods-pro-noise-cancellation/index.html
 post_id: 901
 categories: 
 - Apple Music

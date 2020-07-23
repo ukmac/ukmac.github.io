@@ -1,7 +1,6 @@
 ---
 
 title: ISS Celebrates 15 Years Orbiting The Earth
-permalink: https://ukmac.net/2015/11/iss-celebrates-15-years-orbiting-the-earth/index.html
 post_id: 220
 categories: 
 - Videos

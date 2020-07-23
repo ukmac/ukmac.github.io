@@ -1,6 +1,5 @@
 ---
 title: "Show Me Yours - A New Campaign Video from Liberty Human Rights Group"
-permalink: https://ukmac.net/2016/05/show-me-yours-a-new-campaign-video-from-liberty-human-rights-group/index.html
 post_id: 609
 categories: 
 - Humour

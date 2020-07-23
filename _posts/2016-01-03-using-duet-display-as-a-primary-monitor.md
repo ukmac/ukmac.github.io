@@ -1,7 +1,6 @@
 ---
 
 title: Using Duet Display As A Primary Monitor
-permalink: https://ukmac.net/2016/01/using-duet-display-as-a-primary-monitor/index.html
 post_id: 226
 categories: 
 - Apps

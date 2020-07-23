@@ -1,7 +1,6 @@
 ---
 
 title: Apple Music has 10M new subscribers but will they stay ?
-permalink: https://ukmac.net/2015/07/apple-music-has-10m-new-subscribers-but-will-they-stay/index.html
 post_id: 154
 categories: 
 - Apple Music

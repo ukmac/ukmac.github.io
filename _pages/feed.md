@@ -2,5 +2,5 @@
 layout: redirected
 sitemap: false
 permalink: /feed/
-redirect_to:  /atom.xml
+redirect_to:  /feed.xml
 ---

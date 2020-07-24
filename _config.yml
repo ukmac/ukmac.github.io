@@ -23,6 +23,8 @@ twitter_username: ukmac
 github_username: ukmac
 minimal_mistakes_skin: dark
 search: true
+feed:
+  path: atom.xml
 
 # Build settings
 markdown: kramdown

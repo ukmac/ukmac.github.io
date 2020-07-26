@@ -4,9 +4,8 @@ categories:
   - blog
   - Zwift
   - Cycling
-toc: true
 ---
-Yesterday was a big day on [Zwift](https://zwift.com) for me. Finally after about 18 months of rides I made passed the 50,000m climbing needed to be awarded the [Zwift Concept Z1](https://zwiftinsider.com/tron-bike/) better known by Zwifters as the Tron Bike !
+Yesterday was a big day on [Zwift](https://zwift.com) for me. Finally after about 18 months of rides I passed the 50,000m climbing needed to be awarded the [Zwift Concept Z1](https://zwiftinsider.com/tron-bike/) better known by Zwifters as the Tron Bike !
 
 ![](/images/2020-07-26-zwift-tron-bike-at-last/mytronbike.jpeg)
 

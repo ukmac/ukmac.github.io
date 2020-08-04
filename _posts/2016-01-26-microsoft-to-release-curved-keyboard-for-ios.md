@@ -3,9 +3,10 @@
 title: Microsoft to release curved keyboard for iOS
 post_id: 251
 categories: 
+- Apple
+tags:
 - iOS
 - iPhone
-- Microsoft
 ---
 
 Ars technica has this 

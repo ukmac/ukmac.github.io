@@ -3,6 +3,8 @@
 title: Game of the day - 2 Cars
 post_id: 343
 categories: 
+- Apple
+tags:
 - Apps
 - iOS
 ---

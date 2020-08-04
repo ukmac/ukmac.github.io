@@ -3,8 +3,9 @@ layout: single
 title: Customise the Office 365 encryption Message
 post_id: 907
 categories: 
+ - Microsoft
+tags:
 - Office 365
-
 - Powershell
 ---
 

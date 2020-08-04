@@ -4,6 +4,8 @@ title: Animated History Of Steve Jobs
 post_id: 212
 categories: 
 - Apple
+tags:
+- Apple
 - Videos
 ---
 

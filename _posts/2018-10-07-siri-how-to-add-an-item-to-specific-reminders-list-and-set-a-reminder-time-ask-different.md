@@ -1,6 +1,8 @@
 ---
 title: How to add an item to specific Reminders list AND set a reminder time? - Ask Different
 categories: 
+- Apple
+tags:
 - iOS
 ---
 

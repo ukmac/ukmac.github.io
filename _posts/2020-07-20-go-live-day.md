@@ -2,9 +2,8 @@
 title: "Jekyll Go Live Day"
 categories:
   - blog
-  - Jekyll
 tags:
-  - 
+  - Jekyll
 ---
 [UKMac.net](https://ukmac/net) is now live on [Github Pages](https://pages.github.com) !
 

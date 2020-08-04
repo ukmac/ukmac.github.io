@@ -3,6 +3,8 @@
 title: How to Access Magazines on Zinio for Free
 post_id: 112
 categories: 
+- Apple
+tags:
 - Apps
 - Hints and tips
 ---

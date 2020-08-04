@@ -3,6 +3,8 @@
 title: Apple Music has 10M new subscribers but will they stay ?
 post_id: 154
 categories: 
+- Apple
+tags:
 - Apple Music
 ---
 

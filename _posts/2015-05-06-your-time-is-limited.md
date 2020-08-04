@@ -3,6 +3,8 @@
 title: Your time is limited...
 post_id: 33
 categories: 
+- Apple
+tags:
 - Pictures
 ---
 

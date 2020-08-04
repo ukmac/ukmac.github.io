@@ -3,6 +3,8 @@
 title: iCloud Upgrade Day..
 post_id: 735
 categories: 
+- Apple
+tags:
 - Apple Miscellany
 ---
 

@@ -1,8 +1,9 @@
 ---
 
 title: Setting Lock Screen Wallpaper with InTune
-post_id: 886
 categories: 
+- Microsoft
+tags:
 - Intune
 - Powershell
 ---

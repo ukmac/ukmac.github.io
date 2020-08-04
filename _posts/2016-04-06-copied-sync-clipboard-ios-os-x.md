@@ -3,6 +3,8 @@
 title: Copied - Sync your clipboard for iOS and OS X
 post_id: 316
 categories: 
+- Apple
+tags:
 - Apps
 - Hints and tips
 - iOS

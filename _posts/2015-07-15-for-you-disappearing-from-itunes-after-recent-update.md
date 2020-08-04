@@ -3,6 +3,8 @@
 title: "For You Disappearing from iTunes after recent update"
 post_id: 142
 categories: 
+- Apple
+tags:
 - Apple Music
 - Hints and tips
 ---

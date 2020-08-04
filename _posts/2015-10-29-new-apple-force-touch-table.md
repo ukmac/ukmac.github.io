@@ -4,6 +4,8 @@ title: New Apple Force Touch Table
 post_id: 203
 categories: 
 - Apple
+tags:
+- Apple
 - iPhone
 ---
 

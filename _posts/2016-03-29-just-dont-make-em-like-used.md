@@ -3,6 +3,8 @@
 title: They just don't make 'em like they used to
 post_id: 319
 categories: 
+- Apple
+tags:
 - Mac Hardware
 ---
 

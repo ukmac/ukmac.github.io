@@ -1,8 +1,8 @@
 ---
-
 title: TextExpander Alternatives for Disgruntled Smile Customers
-post_id: 399
 categories: 
+- Apple
+tags:
 - Apps
 - iOS
 ---

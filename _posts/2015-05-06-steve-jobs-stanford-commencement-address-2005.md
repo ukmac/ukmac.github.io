@@ -3,6 +3,8 @@
 title: Steve Jobs Stanford Commencement address, 2005
 post_id: 39
 categories: 
+- Apple
+tags:
 - Videos
 ---
 

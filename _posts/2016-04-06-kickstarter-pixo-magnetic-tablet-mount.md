@@ -4,6 +4,7 @@ title: Kickstarter - Pixo magnetic Tablet Mount
 post_id: 393
 categories: 
 - Apple
+tags:
 - Mac Hardware
 ---
 

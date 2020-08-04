@@ -3,6 +3,8 @@
 title: Capture Animated GIFs using free GifGrabber
 post_id: 28
 categories: 
+- Apple
+tags:
 - Apps
 - Hints and tips
 ---

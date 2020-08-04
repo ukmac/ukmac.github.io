@@ -3,8 +3,9 @@
 title: What about Win 10 Pro ?
 post_id: 897
 categories: 
-- Intune
 - Microsoft
+tags:
+- Intune
 ---
 
 So I just came across another one of Microsofts seemingly arbitrary limitations in using policies to manage Windows 10. This one is another example where there is a policy setting that only works if you have Windows 10 Enterprise or Education editions and not for Pro.

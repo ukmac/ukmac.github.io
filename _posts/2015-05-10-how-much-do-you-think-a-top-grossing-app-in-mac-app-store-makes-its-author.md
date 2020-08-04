@@ -3,6 +3,8 @@
 title: How Much Do You Think A Top Grossing App in Mac App Store Makes Its Author ?
 post_id: 57
 categories: 
+- Apple
+tags:
 - Apps
 ---
 

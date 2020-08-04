@@ -3,6 +3,8 @@
 title: Using Duet Display As A Primary Monitor
 post_id: 226
 categories: 
+- Apple
+tags:
 - Apps
 - Hints and tips
 ---

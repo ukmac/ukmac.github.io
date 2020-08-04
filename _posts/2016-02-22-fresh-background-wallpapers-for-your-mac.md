@@ -3,6 +3,8 @@
 title: Fresh Background Wallpapers for your Mac
 post_id: 283
 categories: 
+- Apple
+tags:
 - Apps
 - Pictures
 ---

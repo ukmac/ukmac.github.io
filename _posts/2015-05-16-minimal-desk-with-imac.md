@@ -3,6 +3,8 @@
 title: Minimal Desk with iMac
 post_id: 92
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

@@ -3,6 +3,8 @@
 title: Steve Jobs and Bill Gates - Walt Mossberg Interview
 post_id: 37
 categories: 
+- Apple
+tags:
 - Videos
 ---
 

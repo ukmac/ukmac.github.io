@@ -3,6 +3,8 @@
 title: Stunning Minimal Loft Space
 post_id: 179
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

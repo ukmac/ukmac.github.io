@@ -4,6 +4,8 @@ title: Edge Insider - New Tab for Enterprise
 post_id: 894
 categories: 
 - Microsoft
+tags:
+- Edge
 ---
 
 The latest Edge Insider release includes a new feature for users to configure the default new tab to include the Recommended and Recent sections from the default Office.com landing page.

@@ -4,7 +4,6 @@ categories:
   - blog
 tags:
   - Jekyll
-  - update
 ---
 
 After many years of on and off dabbling with Wordpress blogs I have decided to make the move to [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/) for hosting. Jekyll is very different to Wordpress and requires a completely different skill set to implement. It is easy enough to pickup if you have a good understanding of IT but probably not a simple job if you don't...

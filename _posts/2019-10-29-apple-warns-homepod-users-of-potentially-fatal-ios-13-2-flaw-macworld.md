@@ -2,7 +2,9 @@
 title: Apple warns HomePod users of potentially fatal iOS 13.2 flaw
 categories: 
 - Apple
+tags:
 - Apple Music
+- HomePod
 ---
 
 Apple has pulled the latest HomePod update and is warning users not to reset their speaker, lest they render it inoperable.

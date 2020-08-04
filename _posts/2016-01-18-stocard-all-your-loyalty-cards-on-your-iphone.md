@@ -3,6 +3,8 @@
 title: Stocard - All your loyalty cards on your iPhone
 post_id: 240
 categories: 
+- Apple
+tags:
 - Apps
 - iPhone
 ---

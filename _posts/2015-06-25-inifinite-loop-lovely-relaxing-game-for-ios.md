@@ -3,6 +3,8 @@
 title: Infinite Loop - Lovely Relaxing Game for iOS
 post_id: 137
 categories: 
+- Apple
+tags:
 - Apps
 ---
 

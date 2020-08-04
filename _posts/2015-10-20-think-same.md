@@ -3,6 +3,8 @@
 title: Think Same !
 post_id: 166
 categories: 
+- Tech
+tags:
 - Videos
 ---
 

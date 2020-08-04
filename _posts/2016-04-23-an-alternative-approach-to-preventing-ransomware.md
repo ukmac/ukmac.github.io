@@ -1,10 +1,9 @@
 ---
-
 title: An Alternative Approach to Preventing Ransomware ?
-post_id: 508
 categories: 
-- Apps
 - Security
+tags:
+- Cyber Attacks
 ---
 
 The rise in the prevelance of 

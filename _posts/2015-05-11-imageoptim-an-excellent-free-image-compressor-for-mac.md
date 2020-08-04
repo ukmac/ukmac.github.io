@@ -3,6 +3,8 @@
 title: ImageOptim - An Excellent Free Image Compressor for Mac
 post_id: 67
 categories: 
+- Apple
+tags:
 - Apps
 ---
 

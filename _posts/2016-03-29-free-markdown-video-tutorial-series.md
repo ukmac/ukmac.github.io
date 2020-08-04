@@ -3,6 +3,8 @@
 title: Free Markdown Video Tutorial Series
 post_id: 326
 categories: 
+- Tech
+tags:
 - Hints and tips
 ---
 

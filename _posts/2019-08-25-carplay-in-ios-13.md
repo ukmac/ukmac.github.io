@@ -3,6 +3,8 @@
 title: CarPlay in iOS 13
 post_id: 880
 categories: 
+- Apple
+tags:
 - iOS
 - iPhone
 ---

@@ -3,6 +3,8 @@
 title: Where can I buy one of these ?
 post_id: 50
 categories: 
+- Apple
+tags:
 - Pictures
 ---
 

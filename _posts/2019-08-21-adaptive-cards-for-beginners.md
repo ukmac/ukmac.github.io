@@ -1,9 +1,10 @@
 ---
-
 title: Adaptive Cards for Beginners
-post_id: 871
 categories: 
+- Microsoft
+tags:
 - Office 365
+- Flow
 ---
 
 ## Teams and Flow

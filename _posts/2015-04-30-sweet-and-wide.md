@@ -3,6 +3,8 @@
 title: Sweet and Wide...
 post_id: 21
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

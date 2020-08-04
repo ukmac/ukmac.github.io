@@ -3,6 +3,8 @@
 title: TarDisk Pear - Grow your MacBook Hard drive !
 post_id: 271
 categories: 
+- Apple
+tags:
 - Mac Hardware
 ---
 

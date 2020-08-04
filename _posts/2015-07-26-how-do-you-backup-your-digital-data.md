@@ -3,6 +3,8 @@
 title: How do you backup your digital data ?
 post_id: 146
 categories: 
+- Apple
+tags:
 - Apps
 - Hints and tips
 ---

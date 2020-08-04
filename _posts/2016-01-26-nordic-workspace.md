@@ -3,6 +3,8 @@
 title: Nordic Workspace
 post_id: 246
 categories: 
+- Tech
+tags:
 - Mac Setups
 ---
 

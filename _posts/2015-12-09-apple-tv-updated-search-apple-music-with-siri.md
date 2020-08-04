@@ -3,6 +3,8 @@
 title: Apple TV Updated - Search Apple Music with Siri
 post_id: 223
 categories: 
+- Apple
+tags:
 - Apple Music
 - Apple TV
 ---

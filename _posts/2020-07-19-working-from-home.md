@@ -2,9 +2,10 @@
 title: "Working from home - Apples take..."
 categories:
   - blog
+  - Tech
 tags:
-  - Jekyll
-  - update
+  - Videos
+  - Humour
 layout: single
 link: https://www.youtube.com/watch?v=6_pru8U2RmM
 ---

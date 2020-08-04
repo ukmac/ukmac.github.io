@@ -3,6 +3,8 @@
 title: A Minimal Desk With A View
 post_id: 106
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

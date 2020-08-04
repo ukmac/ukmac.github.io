@@ -3,6 +3,8 @@
 title: More Problems with iOS 9.3 ?
 post_id: 306
 categories: 
+- Apple
+tags:
 - iOS
 ---
 

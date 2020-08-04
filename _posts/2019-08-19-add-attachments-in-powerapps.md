@@ -1,9 +1,8 @@
 ---
-
 title: Add attachments in PowerApps
-post_id: 868
 categories: 
-
+- Microsoft
+tags:
 - PowerApps
 ---
 

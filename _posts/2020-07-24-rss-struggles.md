@@ -2,6 +2,7 @@
 title: "RSS Struggles"
 categories:
   - blog
+tags:
   - Jekyll
 toc: true
 ---

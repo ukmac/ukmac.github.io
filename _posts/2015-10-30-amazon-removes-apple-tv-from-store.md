@@ -3,6 +3,8 @@
 title: Amazon Removes Apple TV From Store
 post_id: 207
 categories: 
+- Apple
+tags:
 - Apple TV
 ---
 

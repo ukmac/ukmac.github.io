@@ -1,6 +1,8 @@
 ---
 title: A huge pile of new Teams features !
 categories: 
+- Microsoft
+tags:
 - Teams
 ---
 

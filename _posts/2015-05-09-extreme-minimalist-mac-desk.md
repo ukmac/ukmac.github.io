@@ -3,6 +3,8 @@
 title: Extreme Minimalist Mac Desk
 post_id: 54
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

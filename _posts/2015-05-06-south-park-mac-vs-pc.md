@@ -3,6 +3,8 @@
 title: South Park Mac vs PC
 post_id: 41
 categories: 
+- Apple
+tags:
 - Videos
 ---
 

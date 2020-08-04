@@ -3,6 +3,8 @@
 title: Facebook App Draining iPhone Batteries
 post_id: 173
 categories: 
+- Apple
+tags:
 - Apps
 - iPhone
 ---

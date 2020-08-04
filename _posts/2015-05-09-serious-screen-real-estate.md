@@ -2,6 +2,8 @@
 
 title: Serious Screen Real Estate
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

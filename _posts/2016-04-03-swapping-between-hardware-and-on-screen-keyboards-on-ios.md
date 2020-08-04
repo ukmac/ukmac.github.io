@@ -3,6 +3,8 @@
 title: Swapping Between Hardware and On Screen Keyboards on iOS
 post_id: 332
 categories: 
+- Apple
+tags:
 - Hints and tips
 - iOS
 ---

@@ -3,6 +3,8 @@
 title: Super Minimal Mac Pro Setup
 post_id: 131
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

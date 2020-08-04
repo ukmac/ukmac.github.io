@@ -1,8 +1,7 @@
 ---
-
 title: Spoof Letters Published In Metro Newspaper
-post_id: 415
 categories: 
+tags:
 - Humour
 ---
 

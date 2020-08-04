@@ -3,6 +3,8 @@
 title: Another Minimal Floating Desk
 post_id: 70
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

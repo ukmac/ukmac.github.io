@@ -3,6 +3,8 @@
 title: Gorgeous Tiny Office
 post_id: 77
 categories: 
+- Apple
+tags:
 - Mac Setups
 ---
 

@@ -3,6 +3,8 @@
 title: New Apple TV Starts Shipping Next Week
 post_id: 168
 categories: 
+- Apple
+tags:
 - Apple TV
 ---
 

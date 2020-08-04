@@ -1,8 +1,8 @@
 ---
-
 title: On How I Lost Then Found Trackpad Options in El Capitan
-post_id: 433
 categories: 
+- Apple
+tags:
 - Hints and tips
 - Mac Hardware
 ---

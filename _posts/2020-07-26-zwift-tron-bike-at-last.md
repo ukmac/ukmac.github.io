@@ -1,6 +1,8 @@
 ---
 title: "Zwift Tron Bike at last !"
 categories:
+  - Health
+tags:
   - blog
   - Zwift
   - Cycling

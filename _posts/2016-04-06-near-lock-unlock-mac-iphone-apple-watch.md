@@ -1,8 +1,9 @@
 ---
-
 title: Near Lock - Unlock your Mac with your iPhone or Apple Watch
 post_id: 388
 categories: 
+- Apple
+tags:
 - Apps
 - iOS
 - Security

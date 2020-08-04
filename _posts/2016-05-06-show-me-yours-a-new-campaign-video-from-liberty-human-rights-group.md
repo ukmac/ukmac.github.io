@@ -1,7 +1,8 @@
 ---
 title: "Show Me Yours - A New Campaign Video from Liberty Human Rights Group"
-post_id: 609
 categories: 
+- Tech
+tags:
 - Humour
 - Security
 - Videos

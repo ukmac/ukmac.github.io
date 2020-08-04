@@ -2,6 +2,7 @@
 title: "Minimal Mistakes Blogs"
 categories:
   - blog
+tags:
   - Jekyll
 toc: true
 ---

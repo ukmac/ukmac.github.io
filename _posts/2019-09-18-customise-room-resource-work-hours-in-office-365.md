@@ -3,8 +3,9 @@
 title: Customise Room Resource work hours in Office 365
 post_id: 889
 categories: 
+- Microsoft
+tags:
 - Office 365
-
 - Powershell
 ---
 

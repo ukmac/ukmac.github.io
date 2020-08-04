@@ -3,6 +3,8 @@
 title: Rumour - Ultra-thin 13" and 15" MacBooks due in June-July
 post_id: 299
 categories: 
+- Apple
+tags:
 - Mac Hardware
 ---
 

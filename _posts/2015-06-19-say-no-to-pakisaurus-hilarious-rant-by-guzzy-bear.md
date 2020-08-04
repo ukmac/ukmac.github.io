@@ -3,7 +3,10 @@
 title: Say no to Pakisaurus - Hilarious Rant by Guzzy Bear
 post_id: 124
 categories: 
+- Tech
+tags:
 - Videos
+- Humour
 ---
 
 [embed]https://youtu.be/xd4ygI0GHV8[/embed]

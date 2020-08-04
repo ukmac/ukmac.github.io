@@ -4,6 +4,7 @@ title: Dual Screen Wallpapers for Macs
 post_id: 185
 categories: 
 - Apple
+tags:
 - Mac Setups
 - Photography
 ---

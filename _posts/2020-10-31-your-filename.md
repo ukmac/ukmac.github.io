@@ -1,6 +1,6 @@
 ---
 layout: single
-published: false
+published: true
 tags: ''
 ---
 [me.jpg]({{site.baseurl}}/media/me.jpg)

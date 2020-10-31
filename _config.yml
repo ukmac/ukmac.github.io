@@ -128,19 +128,19 @@ tag_archive:
 prose:
   rooturl: ''
   siteurl: 'https://ukmac.net'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   ignore:
     - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
+   #  - _config.yml
+   # - /_layouts
+   # - /_includes
   metadata:
     _posts:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "single"
       - name: "tags"
         field:
           element: "multiselect"

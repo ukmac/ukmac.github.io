@@ -133,8 +133,3 @@ prose:
         field:
           element: "hidden"
           value: "single"
-      - name: "tagline"
-      	field:
-        	element: "text"
-            label: "tagline"
-            value: ""

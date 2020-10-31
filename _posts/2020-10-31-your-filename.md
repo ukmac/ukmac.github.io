@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: single
 published: false
 ---
 ![me.jpg]({{site.baseurl}}/media/me.jpg)

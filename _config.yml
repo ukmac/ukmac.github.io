@@ -127,3 +127,24 @@ tag_archive:
   
 prose:
   media: 'media'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "single"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+      - name: "tagline"
+      	field:
+        	element: "text"
+            label: "tagline"
+            value: ""

@@ -127,7 +127,7 @@ tag_archive:
   
 prose:
   rooturl: ''
-  siteurl: 'http://prose.github.io/starter/'
+  siteurl: 'https://ukmac.net'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   ignore:

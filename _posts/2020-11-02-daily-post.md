@@ -1,6 +1,6 @@
 ---
 layout: single
-published: false
+published: true
 title: Daily Post - 02/11/2020
 tags:
   - "Microsoft -\tIntune"

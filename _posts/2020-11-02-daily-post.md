@@ -3,7 +3,8 @@ layout: single
 published: true
 title: Daily Post - 02/11/2020
 tags:
-  - "Microsoft -\tIntune"
+  - Microsoft
+  - Intune
 categories:
   - Microsoft
 ---

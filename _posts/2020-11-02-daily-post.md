@@ -2,8 +2,10 @@
 layout: single
 published: false
 title: Daily Post - 02/11/2020
-tags: 'Microsoft, Intune'
-categories: Microsoft
+tags:
+  - "Microsoft -\tIntune"
+categories:
+  - Microsoft
 ---
 Probably doomed to failure before I start but I am going to try and start a daily blog post again ( I know seen it before ! ). 
 

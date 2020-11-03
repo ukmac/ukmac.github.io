@@ -13,5 +13,5 @@ Lightbulb moment, checked the copiers maximum attachment size that was set to 2M
 
 |Link|Description|
 |--------|----|
-| https://oliverkieselbach.com/2020/11/03/new-edge-sync-policy-in-action/| Intune - Manage Edge sync settings |
+| [https://oliverkieselbach.com/2020/11/03/new-edge-sync-policy-in-action/]( https://oliverkieselbach.com/2020/11/03/new-edge-sync-policy-in-action/)| Intune - Manage Edge sync settings |
 

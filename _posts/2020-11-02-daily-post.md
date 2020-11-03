@@ -5,6 +5,7 @@ title: Daily Post - 02/11/2020
 tags:
   - Microsoft
   - Intune
+  - Daily Post
 categories:
   - Microsoft
 ---
@@ -21,4 +22,3 @@ Probably doomed to failure before I start but I am going to try and start a dail
 Today I tried to go back to a Powerapp I had setup a little while ago but was politely refused by my Edge browser due to blocked third party cookies. Now I am certain this setting was enabled when I was last updating the Powerapp so I am not sure why it allowed me in before but now doesn't ? Anyway after a bit of faffing about I have temporarily re-enabled third party cookies in the Configuration Profile for Edge so I can get on, but I am going to have to come back to this later.
 
 If you have any ideas on this one please let me know.
-

@@ -1,6 +1,14 @@
 ---
 layout: single
 published: false
+tags:
+  - Cycling
+  - Komoot
+  - Strava
+  - Camphill Village Trust
+categories:
+  - Health
+  - blog
 ---
 ## Tour of the Bridge Towns
 

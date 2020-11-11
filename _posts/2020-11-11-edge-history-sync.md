@@ -1,6 +1,6 @@
 ---
 layout: single
-published: false
+published: true
 title: Microsoft Edge history and tab sync
 categories:
   - Microsoft

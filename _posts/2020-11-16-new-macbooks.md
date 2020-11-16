@@ -1,6 +1,6 @@
 ---
 layout: single
-published: false
+published: true
 title: New MacBooks...
 categories:
   - Apple

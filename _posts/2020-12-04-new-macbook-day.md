@@ -1,6 +1,9 @@
 ---
 layout: single
-published: true
+published: false
+categories:
+  - Apple
+  - blog
 ---
 ## OMG !
 

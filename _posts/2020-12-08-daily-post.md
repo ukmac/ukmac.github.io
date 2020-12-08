@@ -18,3 +18,5 @@ Unfortunately trying to fix mail rules in Exchange is made more difficult due to
 ### Update
 
 It seems that mail rules is not what I should have been looking at after all. 
+
+![](/images/2020-12-08-daily-post/mail-rule-report.jpg "Mail rule report")

@@ -8,6 +8,8 @@ tags:
   - Daily Post
 categories:
   - Microsoft
+toc: true
+excerpt : "A day battling with Exchange Online mail rules and spam filters"
 ---
 ## Email Pains
 

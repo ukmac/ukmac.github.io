@@ -27,7 +27,9 @@ Once I could see that no emails were matching the rule I started looking for oth
 
 ![](/images/2020-12-08-daily-post/outboundspam.jpg "Outbound spam filter policy")
 
-To fix this I needed to add a new Outbound policy that blocked all users from autoforwarding but excluded the Helpdesk shared mailbox.
+To fix this I needed to add a new Outbound policy that blocked all users from autoforwarding but excluded the Helpdesk shared mailbox. The rule below does this and the best part is changes are effective immediately so no waiting for 12 hours for mail rules to take effect.
 
 ![](/images/2020-12-08-daily-post/outboundrule.jpg "Additional outbound rule")
+
+A long day but hopefully one where I learned something about the way that mail policies work.
 

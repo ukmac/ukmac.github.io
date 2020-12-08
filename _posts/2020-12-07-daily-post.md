@@ -8,6 +8,7 @@ tags:
   - Daily Post
 categories:
   - Microsoft
+  - Apple
 ---
 ## MacBook Air Update
 

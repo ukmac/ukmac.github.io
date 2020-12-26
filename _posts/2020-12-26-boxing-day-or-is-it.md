@@ -1,6 +1,10 @@
 ---
 layout: single
 published: true
+categories:
+  - Health
+tags:
+  - Cycling
 ---
 A belated Happy Christmas greeting to anyone unfortunate enough to be reading this blog, hope yours went as well as could be given the world in which we find ourselves. For my part Christmas was quiet and fairly relaxed and as usual over quicker than you can imagine. The actual day this year did feel quite "christmassy" due to the morning frost and clear blue sky which was really nice. Today on the first Boxing Day of 2020 (the second official one is on Monday) was slightly less so although it did manage to stay dry here in Telford until after dark. Tonight we are in for a bit of a storm as Storm Bella makes her way across the country.
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 published: true
-title: Hidden Bar - menu bar management for Macos
+title: Hidden Bar - menu bar management for macOS
 categories:
   - Apple
 tags:

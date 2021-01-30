@@ -24,6 +24,9 @@ github_username: ukmac
 minimal_mistakes_skin: dark
 search: true
 
+# Google Analytics
+google_analytics_id: UA-188499232-1
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -130,5 +133,3 @@ prose:
           element: "hidden"
           value: "single"
 
-jekyll_metrics:
-  google_analytics_id: UA-188499232-1

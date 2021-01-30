@@ -78,6 +78,7 @@ author:
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/2570377"
 
+
 footer:
   links:
     - label: "Twitter"
@@ -128,5 +129,6 @@ prose:
         field:
           element: "hidden"
           value: "single"
-jekyll-metrics:
+
+jekyll_metrics:
   google_analytics_id: UA-188499232-1

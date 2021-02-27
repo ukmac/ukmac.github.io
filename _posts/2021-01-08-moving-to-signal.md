@@ -2,6 +2,10 @@
 layout: single
 published: true
 title: Moving to Signal
+tags: null
+categories: blog
+toc: true
+excerpt: null
 ---
 So you make the decision to abandon Whatsapp and want to move to Signal, but how do you convince family and friends (who perhaps aren't as concerned about Facebooks control of the Internet as you) to move with you ?
 

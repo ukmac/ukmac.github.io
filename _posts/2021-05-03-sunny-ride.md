@@ -11,4 +11,4 @@ Living in England you learn to take advantage of the good weather when it presen
 
 ![](/images/2021-05-03-sunny-ride/wrekin.png)
 
-It was a very cold start but I was soon warmed up and enjoying the clear air, lack of cars on the roads and the beautiful Shropshire countryside. Not a bad start to the day.
+It was a very cold start but I soon warmed up and was enjoying the clear air, lack of cars on the roads and the beautiful Shropshire countryside. Not a bad start to the day.

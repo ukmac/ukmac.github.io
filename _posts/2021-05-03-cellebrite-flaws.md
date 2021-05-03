@@ -2,8 +2,8 @@
 layout: single
 published: true
 title: Signal uncovers Cellebrite flaws
-tags: null
-categories: blog
+tags: Security, Apple
+categories: blog, Security, Apple
 toc: false
 excerpt: null
 ---

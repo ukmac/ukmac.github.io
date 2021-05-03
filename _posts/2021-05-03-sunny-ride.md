@@ -2,7 +2,7 @@
 layout: single
 published: true
 title: Sunny Sunday Ride
-tags: null
+tags: Cycling
 categories: blog
 toc: true
 excerpt: null

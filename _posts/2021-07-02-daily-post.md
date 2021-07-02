@@ -21,6 +21,6 @@ This week I managed to get hold of a copy of his [Ultimate Edition](https://en.w
 
 |Link|Description|
 |--------|----|
-|[XLD](https://tmkk.undo.jp/xld/index_e.html)| X Lossless Decover (XLD) is a simple tool for Macs to decode/convert/play lossless audio files. GUI and CLI tool |
+|[XLD](https://tmkk.undo.jp/xld/index_e.html)| X Lossless Decoder (XLD) is a simple tool for Macs to decode/convert/play lossless audio files. GUI and CLI tool |
 |[readme.so](https://readme.so/editor)| Readme.so is a very simple web site for creating readme.md files quickly and easily. A generic version of this site with user definable blocks would be a great way of creating standard template documents of all sorts.|
 |[pandoc](https://pandoc.org)| Want to convert a markup file to a different format ? Pandoc is your tool |

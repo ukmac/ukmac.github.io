@@ -11,7 +11,7 @@ categories:
   - Apple
   - Music
 toc: true
-excerpt : "Excerpt"
+excerpt : "Klaus Schulze flac files and XLD"
 ---
 One of the things I lost the ability to do as I got older is concentrating/working while listening to certain types of music. I find ambient/electronic is best to listen to whilst working and [Klaus Schulze](https://en.wikipedia.org/wiki/Klaus_Schulze) is one of my regular favourites.
 

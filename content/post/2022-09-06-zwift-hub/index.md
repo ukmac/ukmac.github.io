@@ -3,6 +3,8 @@ date: "2022-09-06T00:00:00Z"
 title: New Zwift Hub Smart Trainer Announced
 tags:
   - Zwift
+categories:
+  - Cycling
 image: zwifthub.jpg
 ---
 [This looks interesting](https://uk.zwift.com/pages/zwift-hub). The Zwift Hub smart trainer has just been announced and looks like it will be a popular choice as an entry level option for joining the Zwift community.

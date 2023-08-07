@@ -18,4 +18,4 @@ UKMac.net has been around in many versions and using many web publishing systems
 
 My interest in Macs goes back before the beginning of this site but really took off when I bought my first 17" G5 iMac.
 
-![My first G5 iMac](g5imac.jpg "G5 iMac)
+![My first G5 iMac](g5imac.jpg "G5 iMac")

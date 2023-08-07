@@ -1,7 +1,7 @@
 ---
 date: "2023-08-04T00:00:00Z"
 title: Been a while
-image: /img/cover.jpg
+image: img/cover.jpg
 ---
 
 I haven't posted here for a long time now. Life is busy, work is busy, there are distractions...

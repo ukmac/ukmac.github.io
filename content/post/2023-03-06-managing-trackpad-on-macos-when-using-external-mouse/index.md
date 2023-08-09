@@ -3,6 +3,7 @@ date: 2023-03-06T00:00:00+00:00
 title: Managing Trackpad on MacOS when using external mouse
 tags:
     - Hints and Tips
+categories:
     - Apple
 ---
 Following my desk space re-organisation this weekend I am back to using my MacBook keyboard again for the first time in quite a while. Having worked predominantly with an external mouse and keyboard with my MacBook in clamshell mode in a vertical stand I decided I would like to disable the MacBook trackpad.

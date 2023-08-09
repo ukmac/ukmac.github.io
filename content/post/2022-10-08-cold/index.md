@@ -1,7 +1,7 @@
 ---
 date: "2022-10-08T00:00:00Z"
 title: Feeling grotty and the sun is shining
-tags:
+categories:
   - Daily Post
 ---
 Its been a while since I posted here. Today finds me at home still full of cold after more than a week with a beautiful sunny day outside that would have been perfect for an Autumn bike ride. Gutted and grumpy.

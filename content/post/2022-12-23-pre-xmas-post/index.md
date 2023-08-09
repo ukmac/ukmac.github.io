@@ -1,7 +1,7 @@
 ---
 date: "2022-12-23T00:00:00Z"
 title: Pre-Xmas Post
-tags:
+categories:
   - Daily Post
 ---
 So its Christmas eve-eve and nearly the end of 2022. Six months into the new job and things are starting to get pretty busy and I am certainly past the honeymoon period and into the time when people around the organisation know who I am. That's both nice but also means free time to develop knowledge and do things how you would ideally want to do them starts to become a rarity.

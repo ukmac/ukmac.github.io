@@ -35,7 +35,12 @@ params:
     featuredImageField: image
     rssFullContent: true
     outputs:
-        home: ["HTML","RSS"]
+        home: 
+            - HTML
+            - RSS
+        page:
+            - HTML
+            - RSS
 
     mediaTypes:
         "application/rss":

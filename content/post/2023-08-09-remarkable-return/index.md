@@ -4,6 +4,9 @@ title: My reMarkable notebook
 categories:
   - Daily Post
 image: remarkable.jpg
+outputs: 
+  - HTML
+  - RSS
 ---
 ## Returning my reMarkable
 

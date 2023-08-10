@@ -3,7 +3,7 @@ date: "2023-08-09T00:00:00Z"
 title: My reMarkable notebook
 categories:
   - Daily Post
-image: remarkable.jpeg
+image: remarkable.jpg
 ---
 ## Returning my reMarkable
 

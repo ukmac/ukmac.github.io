@@ -6,7 +6,7 @@ tags:
 ---
 So I setup this Jekyll blog a few months ago and as usual after getting it going I promptly let it languish. One of the issues I guess is that unlike Wordpress there is no quick iOS or web app out of the box to update Jekyll sites from my phone or iPad.
 
-Enter [Prose.io](https://prosie.io).
+Enter [Prose.io](https://prose.io).
 
 Prose.io is an elegant and clean web app for managing Github sites and [CMS Free web sites](https://medium.com/devseed/how-we-build-cms-free-websites-d7e19d94a0ff) which also works very nicely on iPads (no app required). To start editing a Jekyll web site all you have to do is go to [https://prose.io](https://prose.io) and authenticate with your Github account. You can then open your sites posts folder and either edit existing posts or create new ones.
 

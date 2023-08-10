@@ -1,11 +1,10 @@
 ---
 date: "2022-08-09T00:00:00Z"
 title: My Favourite Cycling Channels on Youtube 
+description: I'm not the worlds biggest YouTube watcher but the list of channels below are some of my favourite regular watches (usually while I am eating breakfast).
 categories:
     - Cycling
 ---
-I'm not the worlds biggest YouTube watcher but the list of channels below are some of my favourite regular watches (usually while I am eating breakfast).
-
 ## [Katie Kookaburra](https://www.youtube.com/c/KatieKookaburra)
 |![](katiekookaburra.jpeg)| Katie is a long distance specialist who loves to climb hills. She posts regularly and has a large following of over 100k subscribers. One of my favourite channels and one that I look forward to new episodes of.|
 |----|----|

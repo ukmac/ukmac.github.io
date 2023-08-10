@@ -1,6 +1,7 @@
 ---
 date: "2021-08-15T00:00:00Z"
 title: Daily Post - 15/08/2021
+description: A new Komoot route, iPhone upgrades and Edge grumbles
 categories:
   - Daily Post
 ---

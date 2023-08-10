@@ -1,6 +1,7 @@
 ---
 date: "2021-08-28T00:00:00Z"
 title: Daily Post - 28/08/21
+description: Obsidian and Working Copy on iPad
 categories:
   - Daily Post
 ---

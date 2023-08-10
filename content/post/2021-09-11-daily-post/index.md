@@ -1,12 +1,11 @@
 ---
 date: "2021-09-11T00:00:00Z"
 title: Daily Post - 11/09/21
+description: Relaxing on the decking with a well deserved beer after a busy Saturday. 
 categories:
   - Daily Post
 ---
-Whew..
-
-Relaxing on the decking with a well deserved beer after a busy Saturday. Badminton at Oakengates Leisure Centre with the kids this morning then a trip over to eldest's new house to help with sorting the garden which was a tad overgrown.
+Badminton at Oakengates Leisure Centre with the kids this morning then a trip over to eldest's new house to help with sorting the garden which was a tad overgrown.
 
 Still loving the iPad Pro and Apple Magic keyboard and so glad I finally overcame the reservations over price and bought one ( though it was helped by the fact that I got mine for half price as a second user unit through Amazon ). I am looking forward to the forthcoming release of macOS Monterey and the new Universal Control feature.
 

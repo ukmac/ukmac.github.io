@@ -1,10 +1,11 @@
 ---
 date: "2021-08-02T00:00:00Z"
 title: Day three of holiday in Llwyngwril
+description: Another pleasant start to the day again today by the looks of it.
 categories:
     - Daily Post
 ---
-Another pleasant start to the day again today by the looks of it. Yesterday was fine and sunny but a little windy, today looks like being a little calmer.
+Yesterday was fine and sunny but a little windy, today looks like being a little calmer.
 Again we have been lucky enought to bag a cottage with amazing views of the sea and as a result spectacular sunsets.
 
 ![Sunset](photo.jpeg)

@@ -1,6 +1,7 @@
 ---
 date: "2021-05-03T00:00:00Z"
 title: Sunny Sunday Ride
+description: A 50K cycle ride to start the day
 categories: 
 - Cycling
 ---

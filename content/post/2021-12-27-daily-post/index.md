@@ -3,6 +3,7 @@ date: "2021-12-27T00:00:00Z"
 categories:
     - Daily Post
 title: Daily Post - 27/12/21
+description: Testing Linux distros on a Surface Go
 ---
 Over the Christmas break I have been testing out a few different Linux Distros on a Microsoft Surface Go Laptop. This laptop was my test machine for Windows 11 but the experience was less than favourable, slow, unresponsive and noisy as the fan seemed to run pretty constantly.
 

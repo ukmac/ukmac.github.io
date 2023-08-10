@@ -1,6 +1,7 @@
 ---
 date: "2021-08-14T00:00:00Z"
 title: Testing Obsidian/Working Copy on iPad
+description: Can I write Github pages blog bosts on an iPad ?
 categories: 
     - Apple
 ---

@@ -1,6 +1,7 @@
 ---
 date: "2022-08-24T00:00:00Z"
 title: Tangerine Dream Live recommendations
+description: Must see Youtube videos of the classic Electronic masters.
 categories:
   - Videos
 image: td.jpg

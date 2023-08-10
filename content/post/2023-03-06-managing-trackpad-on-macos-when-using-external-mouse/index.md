@@ -1,6 +1,7 @@
 ---
 date: 2023-03-06T00:00:00+00:00
 title: Managing Trackpad on MacOS when using external mouse
+description: How to disable your trackpad to prevent accidental mouse movements
 tags:
     - Hints and Tips
 categories:

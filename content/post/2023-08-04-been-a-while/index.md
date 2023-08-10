@@ -1,10 +1,9 @@
 ---
 date: "2023-08-04T00:00:00Z"
 title: Been a while
+description: I haven't posted here for a long time now. Life is busy, work is busy, there are distractions....
 image: ../assets/img/cover.jpg
 ---
-I haven't posted here for a long time now. Life is busy, work is busy, there are distractions....
-
 This week has been a bit crappy to be honest. I have spent most of it lay in bed, coughing and feeling weak and exhausted. My chest hurts and my head feels like its full of cotton wool and I am actually really tired of feeling this way. It's only a week, nothing compared to what some people have to endure.
 
 A lot of this week I haven't felt up to doing much at all, I have watched a couple of films which is a bit of a first, I hadn't watched a full film for a long time either. The rest of the time I have been trying to avoid looking at my work inbox/Teams because I know that I would (and did on Tuesday) get drawn into it and hours would quickly pass before I realised that I wasn't doing as I have been told and resting but instead would have been getting stressed about the build up of "stuff" that I am going to have to deal with when I return to work.

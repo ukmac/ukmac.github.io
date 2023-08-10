@@ -1,6 +1,7 @@
 ---
 date: 2023-04-01T23:00:00+00:00
 title: Resetting Apple’s Magic Keyboard and Magic Trackpad
+description: Sometimes simplicity makes things complex
 categories:
     - Apple
 tags:

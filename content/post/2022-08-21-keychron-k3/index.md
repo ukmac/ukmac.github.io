@@ -1,6 +1,7 @@
 ---
 date: "2022-08-21T00:00:00Z"
 title: My Experiences with the Keychron K3 Wireless Keyboard
+description: Can a long term Apple Magic keyboard user make the change to a new fullish travel keyboard ?
 categories:
   - Daily Post
 image: keychron.jpg

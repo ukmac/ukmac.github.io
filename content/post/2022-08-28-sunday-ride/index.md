@@ -1,6 +1,7 @@
 ---
 date: 2022-08-28T00:00:00Z
 title: Sunday Morning Ride
+description: A nice circular 50K route from Muxton to Cheswardine
 categories:
     - Cycling
 image: IMG_0248.jpeg

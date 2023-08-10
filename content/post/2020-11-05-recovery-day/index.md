@@ -14,4 +14,4 @@ The ride we undertook was planned on Komoot and is [available here](https://www.
 
 |Link|Description|
 |----|----|
-|[https://veloviewer.com/](Veloviewer)|Veloviewer is a great site for visualising all your Strava activity data|
+|[Veloviewer](https://veloviewer.com/)|Veloviewer is a great site for visualising all your Strava activity data|

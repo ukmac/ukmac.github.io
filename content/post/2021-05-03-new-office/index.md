@@ -1,6 +1,6 @@
 ---
 date: "2021-05-03T00:00:00Z"
-title: New office...
+title: My New office layout ...
 categories:
     - Daily Post
 tags:

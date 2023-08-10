@@ -2,7 +2,7 @@
 date: "2022-08-07T00:00:00Z"
 categories:
    - Daily Post
-title: Hugo
+title: UKMac.net has moved to Hugo
 ---
 Ukmac.net has moved to [Hugo CMS](https://gohugo.io)
 

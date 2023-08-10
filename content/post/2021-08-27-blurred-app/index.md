@@ -1,6 +1,6 @@
 ---
 date: "2021-08-27T00:00:00Z"
-title: Blurred app
+title: Blurred app - Reduce distractions
 categories:
     - Apple
 tags:

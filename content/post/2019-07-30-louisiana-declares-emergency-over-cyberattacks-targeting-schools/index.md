@@ -1,6 +1,7 @@
 ---
 date: "2019-07-30T00:00:00Z"
 title: Louisiana declares emergency over cyberattacks targeting schools
+description: Louisiana declares emergency over cyberattacks targeting schools
 tags:
 - Cyber Security
 ---

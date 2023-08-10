@@ -1,6 +1,7 @@
 ---
 title: Sweet and Wide...
 slug: sweet-and-wide
+description: Sweet and wide
 date: "2015-04-30T00:00:00Z"
 image: wide.jpg
 categories:

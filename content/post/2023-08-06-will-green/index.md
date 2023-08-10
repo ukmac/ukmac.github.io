@@ -1,6 +1,7 @@
 ---
 date: "2023-08-05T00:00:00Z"
 title: Will Green - BritishMac
+description: A classic British gent with a classic British podcast
 slug: will-green
 image: britishmac.jpg
 categories:

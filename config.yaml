@@ -25,6 +25,8 @@ DefaultContentLanguage: en
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: false
 
+enableRobotsTXT: true
+
 permalinks:
     post: /p/:slug/
     page: /:slug/

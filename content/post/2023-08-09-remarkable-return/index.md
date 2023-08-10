@@ -1,6 +1,7 @@
 ---
 date: "2023-08-09T00:00:00Z"
 title: My reMarkable notebook
+description: Why I decided to return my reMarkable
 categories:
   - Daily Post
 image: remarkable.jpg

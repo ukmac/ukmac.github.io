@@ -34,7 +34,17 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    outputs: HTML, RSS
+    outputs:
+        home: ["HTML","RSS"]
+
+    mediaTypes:
+        "application/rss":
+            suffix: "rss"
+
+    outputFormats:
+        RSS:
+            mediatype: "application/rss"
+            baseName: "feed"
     favicon:  /favicon.ico
     # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 

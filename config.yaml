@@ -40,11 +40,9 @@ params:
         home: 
             - HTML
             - RSS
-            - ATOM
         page:
             - HTML
             - RSS
-            - ATOM
 
     mediaTypes:
         "application/rss":

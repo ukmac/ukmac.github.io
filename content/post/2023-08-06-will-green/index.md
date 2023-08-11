@@ -26,3 +26,5 @@ Will was one of life's characters. If you ever heard any of his podcast episodes
 On a couple of these meet-ups Will got us together at a little studio he had at the time to record a podcast episode before we headed to town for food. The resulting recordings were somewhat less than polished but that wasn't the point and didn't stop everyone enjoying being part of the process.
 
 Will's funeral was this Tuesday in Shrewsbury and I was fully intending to go to show my respects and also to meet-up with some of the group that used to go to Will's Christmas events but in a cruel twist I have been laid up in bed all week with a viral illness and was not able to make it.
+
+![Will Green](will.jpg "Will Green")

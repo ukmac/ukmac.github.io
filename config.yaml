@@ -37,11 +37,9 @@ params:
     featuredImageField: image
     rssFullContent: false
     outputs:
-        home: ["HTML","RSS"]
-
-    mediaTypes:
-        "application/rss":
-            suffix: "rss"
+        home: 
+            - "HTML"
+            - "RSS"
 
     outputFormats:
         RSS:

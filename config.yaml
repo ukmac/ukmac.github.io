@@ -31,20 +31,20 @@ permalinks:
     post: /p/:slug/
     page: /:slug/
 
+rssFullContent: false
+outputs:
+    home: 
+        - "HTML"
+        - "RSS"
+outputFormats:
+    RSS:
+        mediatype: "application/rss"
+        baseName: "feed"
 params:
     mainSections:
         - post
     featuredImageField: image
-    rssFullContent: false
-    outputs:
-        home: 
-            - "HTML"
-            - "RSS"
 
-    outputFormats:
-        RSS:
-            mediatype: "application/rss"
-            baseName: "feed"
         
     favicon:  /favicon.ico
     # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)

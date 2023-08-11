@@ -1,6 +1,7 @@
 ---
 date: "2021-01-08T00:00:00Z"
 title: Moving to Signal
+description: How do you do it on your own ?
 tags:
 - Hints and Tips
 ---

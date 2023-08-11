@@ -13,7 +13,7 @@ I hadn't heard from Will or spoken to him in some time but the out of the blue c
 
 My interest in Macs started when I bought an 17" G5 iMac in 2005. At the time my work life was entirely Windows centric and I think I recall deciding to buy a Mac mostly out of curiosity. I was of course quickly sold by the elegance, slick design and polished software. 
 
-![iMac G5](/images/2023-08-05-will-green/DSCF0118.jpeg)
+![iMac G5](g5imac.jpg "My First iMac")
 
 I think soon after I bought into the Mac lifestyle I registered this domain (ukmac.net) and started with my early blog focused on Apple and my new Mac. As a keen Apple fan I of course started consuming what I could from the Internet from various web sites/blogs and also from a number of podcasts such as Macbreak Weekly and the wildly eccentric BritishMac podcast.
 

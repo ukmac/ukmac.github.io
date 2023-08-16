@@ -44,7 +44,7 @@ Despite the conditions the walk along the summit was enjoyable and the views by 
 
 ## Stiperstones Inn
 
-After resting at the tent for an hour or so we changed and headed in the car to the [Stiperstones Inn]() for our evening meal. The Inn is a proper traditional English country pub with a menu that included steak and kidney suet pudding and apple crumble and custard for dessert... Superb stuff.
+After resting at the tent for an hour or so we changed and headed in the car to the [Stiperstones Inn](https://www.stiperstonesinn.co.uk/) for our evening meal. The Inn is a proper traditional English country pub with a menu that included steak and kidney suet pudding and apple crumble and custard for dessert... Superb stuff.
 
 ![Evening meal at the Stiperstones Inn](food.jpg "Evening meal at the Stiperstones Inn")
 

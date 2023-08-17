@@ -7,6 +7,7 @@ categories:
 tags:
     - Zwift
 image: zwiftportal.jpg
+keywords: zwift cycling zwiftinsider
 ---
 ## Crow Road
 

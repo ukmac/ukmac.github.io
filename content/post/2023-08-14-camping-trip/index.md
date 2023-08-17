@@ -5,6 +5,7 @@ description: One night in a glorious spot high in the Shropshire Hills and compl
 categories:
   - Daily Post
 image: holliesfarm.jpg
+keywords: camping shropshire stiperstones hiking
 ---
 ## Preparations
 

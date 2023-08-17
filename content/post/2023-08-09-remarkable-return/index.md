@@ -5,9 +5,7 @@ description: Why I decided to return my reMarkable
 categories:
   - Daily Post
 image: remarkable.jpg
-outputs: 
-  - HTML
-  - RSS
+keywords: remarkable eink notes review
 ---
 ## Returning my reMarkable
 

@@ -12,7 +12,7 @@ Show Me Yours is a wonderful tongue in cheek video featuring comedian
 
 The video is shown below along with the press release from Liberty that explains in more detail what the group is doing to raise awareness of this critically important issue. Please share this video widely. Thank you.
 
-[embed]https://youtu.be/szN7DlmMLYg[/embed]
+{{< youtube szN7DlmMLYg >}}
 
 ## LIBERTY LAUNCHES FILM TO BRING HOME TRUE SCALE OF NEW SNOOPERS’ CHARTER
 

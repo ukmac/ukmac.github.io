@@ -2,6 +2,8 @@
 date: "2022-08-07T00:00:00Z"
 categories:
    - Daily Post
+   - Hugo
+keywords: hugocms hugo vscode github
 title: UKMac.net has moved to Hugo
 description: One of these days I will find a CMS I like and stick with it :)
 ---

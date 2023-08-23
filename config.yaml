@@ -74,8 +74,8 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
-        provider: cactus
+        enabled: true
+        provider: disqus
 
         disqusjs:
             shortname:
@@ -215,6 +215,12 @@ menu:
           url: https://www.strava.com/athletes/2570377
           params:
               icon: brand-strava
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/scottpaterson1/
+          params:
+              icon: brand-linkedin
+        
 
 related:
     includeNewer: true

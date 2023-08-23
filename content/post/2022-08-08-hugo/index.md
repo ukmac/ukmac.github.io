@@ -6,6 +6,7 @@ categories:
 keywords: hugocms hugo vscode github
 title: UKMac.net has moved to Hugo
 description: One of these days I will find a CMS I like and stick with it :)
+image: hugo-go-cms.png
 ---
 Ukmac.net has moved to [Hugo CMS](https://gohugo.io)
 

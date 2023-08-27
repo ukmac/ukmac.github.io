@@ -4,7 +4,7 @@ title: Apple Clothing Collection from the 80's
 categories: 
 - Apple
 ---
-[![](http://www.huhmagazine.co.uk/images/uploaded/apple_clothing_01.jpg)](http://www.huhmagazine.co.uk/3900/apples-1986-clothing-collection)
+[![Apples 1986 Clothing Collection](http://www.huhmagazine.co.uk/images/uploaded/apple_clothing_01.jpg)](http://www.huhmagazine.co.uk/3900/apples-1986-clothing-collection)
 
 It's hard to imagine Apple producing anything quite like these now, but apparently according to 
 [this article](http://www.huhmagazine.co.uk/3900/apples-1986-clothing-collection) on 

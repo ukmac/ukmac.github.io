@@ -16,15 +16,15 @@ Unfortunately trying to fix mail rules in Exchange is made more difficult due to
 
 It seems that Exchange mail rules is not what I should have been looking at after all. What I discovered was that the mail rule I thought was blocking the autoforward was not being triggered at all. I found this by running the mail rule report ( shown highlighted in red in diagram below )
 
-![](/images/2020-12-08-daily-post/mail-rule-report.jpg "Mail rule report")
+![Mail rule report](/images/2020-12-08-daily-post/mail-rule-report.jpg "Mail rule report")
 
 Once I could see that no emails were matching the rule I started looking for other places where autoforwarding might be blocked. I had suspected there was probably something in the 365 Security and Compliance site that was responsible and the obvious culprit was in the [Anti-Spam](https://protection.office.com/antispam) settings. What I found here was that the "Automatic forwarding" setting was set to "Automatic - System-controlled". Changing this to "On - Forwarding is enabled" immediately resolved the issue I was having but of course at the same time changed the default policy for all users to allow auto-forwarding externally.
 
-![](/images/2020-12-08-daily-post/outboundspam.jpg "Outbound spam filter policy")
+![Outbound spam filter policy](/images/2020-12-08-daily-post/outboundspam.jpg "Outbound spam filter policy")
 
 To fix this I needed to add a new Outbound policy that blocked all users from autoforwarding but excluded the Helpdesk shared mailbox. The rule below does this and the best part is changes are effective immediately so no waiting for 12 hours for mail rules to take effect.
 
-![](/images/2020-12-08-daily-post/outboundrule.jpg "Additional outbound rule")
+![Additional outbound rule](/images/2020-12-08-daily-post/outboundrule.jpg "Additional outbound rule")
 
 A long day but hopefully one where I learned something about the way that mail policies work.
 

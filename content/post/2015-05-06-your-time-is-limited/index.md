@@ -10,4 +10,4 @@ Steve Jobs delivering his famous 2005 Stanford commencement speech. This video i
 
 {{< youtube yjcTKLYA3fE >}}
 
-![](http://media-cache-ak0.pinimg.com/736x/88/03/b9/8803b9a0b234e8454e22fd691ba19188.jpg)
+![Steve Jobs Commencement](http://media-cache-ak0.pinimg.com/736x/88/03/b9/8803b9a0b234e8454e22fd691ba19188.jpg)

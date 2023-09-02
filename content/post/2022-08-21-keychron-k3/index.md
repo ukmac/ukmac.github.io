@@ -4,6 +4,8 @@ title: My Experiences with the Keychron K3 Wireless Keyboard
 description: Can a long term Apple Magic keyboard user make the change to a new fullish travel keyboard ?
 categories:
   - Daily Post
+aliases:
+  /posts/2022-08-21-keychron-k3/
 image: keychron.jpg
 ---
 I have had the [Keychron K3](https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard) for a month or so now and my thoughts on this device are still somewhat mixed. After years of using laptop keyboards, the [Logitech K380](https://www.logitech.com/en-gb/products/keyboards/k380-multi-device.html) and the [Apple Magic Keyboard](https://www.apple.com/uk/shop/product/MK2A3B/A/magic-keyboard-british-english) the K3 takes some getting used to. The keys have of course got more travel and sit higher than the other keyboards I am used to. 

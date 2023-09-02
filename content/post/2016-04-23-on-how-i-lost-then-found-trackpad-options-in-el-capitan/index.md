@@ -3,6 +3,8 @@ date: "2016-04-23T00:00:00Z"
 title: On How I Lost Then Found Trackpad Options in El Capitan
 categories:
 - Apple
+aliases:
+    /posts/2016-04-23-on-how-i-lost-then-found-trackpad-options-in-el-capitan/
 keywords: trackpad apple macos el-capitan osx
 ---
 

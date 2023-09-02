@@ -4,6 +4,8 @@ title: Calls To 0800 Numbers Free From Mobiles Starting 1st July (UK)
 categories:
 - Hints and Tips
 keywords: mobiles uk calling 0800 0808
+aliases:
+    /posts/2015-06-19-calls-to-0800-numbers-free-from-mobiles-starting-1st-july-uk/
 ---
 I just happened across this tidbit and though its not really Mac or Apple related I thought it was worth posting a quick note about it because I expect many people in the UK may not be aware of the forthcoming changes to telephone call charges that come into force on 1st July 2015.
 

@@ -5,6 +5,8 @@ description: A nice circular 50K route from Muxton to Cheswardine
 categories:
     - Cycling
 image: IMG_0248.jpeg
+aliases:
+    /posts/2022-08-28-sunday-ride/
 ---
 ## Muxton to Cheswardine
 

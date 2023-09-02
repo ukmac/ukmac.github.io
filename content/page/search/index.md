@@ -2,6 +2,7 @@
 title: "Search"
 slug: "search"
 layout: "search"
+date: '2023-08-07'
 outputs:
     - html
     - json

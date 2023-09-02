@@ -3,6 +3,8 @@ date: "2019-10-13T00:00:00Z"
 title: Edge Insider - New Tab for Enterprise
 categories:
 - Microsoft
+aliases:
+    /2019/10/edge-insider-new-tab-for-enterprise/
 ---
 The latest Edge Insider release includes a new feature for users to configure the default new tab to include the Recommended and Recent sections from the default Office.com landing page.
 

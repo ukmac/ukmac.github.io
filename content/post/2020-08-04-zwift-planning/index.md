@@ -5,6 +5,8 @@ categories:
   - Cycling
 tags:
   - Zwift
+aliases:
+  /2020/08/zwift-planning/
 ---
 Over the last few weeks I have been working my way through the Zwift Achievements and so far have managed to complete 61% of the routes ( 46 out of 76 ), obviously not all in the last few weeks....
 

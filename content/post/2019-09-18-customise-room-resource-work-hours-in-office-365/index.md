@@ -3,6 +3,8 @@ date: "2019-09-18T00:00:00Z"
 title: Customise Room Resource work hours in Office 365 
 categories:
 - Microsoft
+aliases:
+    /2019/09/customise-room-resource-work-hours-in-office-365/
 ---
 I have recently started setting up Room Resources in our Office 365 tenant and quickly discovered that that rooms are only available Monday to Friday 08:00 to 17:00 by default.
 

@@ -4,6 +4,8 @@ title: Testing Obsidian/Working Copy on iPad
 description: Can I write Github pages blog bosts on an iPad ?
 categories: 
     - Apple
+aliases:
+    /2021/08/testing-obsidian/
 ---
 So this post was written in [Obsidian](https://obsidian.md) on my iPad and synced to GitHub Pages by [Working Copy](https://workingcopy.app/). 
 

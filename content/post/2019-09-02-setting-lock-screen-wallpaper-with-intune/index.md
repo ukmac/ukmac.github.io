@@ -3,6 +3,8 @@ date: "2019-09-02T00:00:00Z"
 title: Setting Lock Screen Wallpaper with Intune
 categories:
 - Microsoft
+catagories:
+    /2019/09/setting-lock-screen-wallpaper-with-intune/
 ---
 Just found 
 [this article](https://www.thelazyadministrator.com/2019/08/08/set-corporate-lock-screen-wallpaper-with-intune-for-non-windows-10-enterprise-or-windows-10-education-machines/) on the 

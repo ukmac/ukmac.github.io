@@ -3,6 +3,8 @@ date: "2019-08-21T00:00:00Z"
 title: Adaptive Cards for Beginners
 categories:
 - Microsoft
+aliases:
+    /2019/08/adaptive-cards-for-beginners/
 ---
 ## Teams and Flow
 

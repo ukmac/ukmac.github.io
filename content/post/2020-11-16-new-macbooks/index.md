@@ -3,6 +3,8 @@ date: "2020-11-16T00:00:00Z"
 title: New MacBooks...
 categories:
   - Apple
+aliases:
+    /2020/11/new-macbooks/
 ---
 I haven't had a MacBook now for the last couple of years (after I selflessly handed my 13" MacBook Pro onto my eldest daughter...). My Mac computing needs have been handled by a 2018 Mac Mini which is a super little machine, quiet, powerful enough for my needs and very unobtrusive. I have still been hankering after a new MacBook though but the promise of new Apple Silicon based hardware has kept me from shelling out. I fully expected to not be able to resist buying when the announcement happened last week and have to admit I have been close to pressing the buy button a couple of times but have so far not succumbed.
 

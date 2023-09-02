@@ -3,6 +3,8 @@ date: "2020-11-11T00:00:00Z"
 title: Microsoft Edge history and tab sync
 categories:
   - Microsoft
+aliases:
+  /2020/11/edge-history-sync/
 ---
 I converted to the new Microsoft Edge browser what seems like an age ago now and one of the things I was eager to see rolled out was the history and open tabs sync between devices (which you can of course already do with Firefox... ). 
 

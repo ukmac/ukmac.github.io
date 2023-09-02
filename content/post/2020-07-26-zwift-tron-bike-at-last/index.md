@@ -5,6 +5,8 @@ categories:
   - Cycling
 tags:
   - Zwift
+aliases:
+  /2020/07/zwift-tron-bike-at-last/
 ---
 Yesterday was a big day on [Zwift](https://zwift.com) for me. Finally after about 18 months of rides I passed the 50,000m climbing needed to be awarded the [Zwift Concept Z1](https://zwiftinsider.com/tron-bike/) better known by Zwifters as the Tron Bike !
 

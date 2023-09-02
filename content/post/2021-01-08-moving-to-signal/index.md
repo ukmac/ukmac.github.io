@@ -4,6 +4,8 @@ title: Moving to Signal
 description: How do you do it on your own ?
 tags:
 - Hints and Tips
+aliases:
+    /2021/01/moving-to-signal/
 ---
 So you make the decision to abandon Whatsapp and want to move to [Signal](https://signal.org/), but how do you convince family and friends (who perhaps aren't as concerned about Facebooks control of the Internet as you) to move with you ?
 

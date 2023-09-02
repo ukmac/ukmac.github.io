@@ -3,6 +3,8 @@ date: "2019-10-17T00:00:00Z"
 title: What about Win 10 Pro ?
 categories:
 - Microsoft
+aliases:
+    /2019/10/what-about-win-10-pro/
 ---
 
 So I just came across another one of Microsofts seemingly arbitrary limitations in using policies to manage Windows 10. This one is another example where there is a policy setting that only works if you have Windows 10 Enterprise or Education editions and not for Pro.

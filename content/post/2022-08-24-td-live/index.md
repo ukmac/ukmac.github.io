@@ -5,6 +5,8 @@ description: Must see Youtube videos of the classic Electronic masters.
 categories:
   - Videos
 image: td.jpg
+aliases:
+  /posts/2022-08-24-td-live/
 ---
 ## Against The Clock
 

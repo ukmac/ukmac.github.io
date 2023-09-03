@@ -8,6 +8,8 @@ tags:
     - Hints and Tips
 keywords: apple magic-keyboard magic-trackpad
 image: magickeyboard.jpg
+aliases:
+    /posts/2023-04-01-resetting-magic-keyboard-and-magic-trackpad/
 ---
 My Magic Keyboard and Magic Trackpad have been gathering dust in the office recently after I changed from using my MacBook in clamshell mode connected to an external monitor to using in front of the monitor, so I decided to setup them up on my iPad Mini. Trouble is they were paired to my MacBook so didn’t show up in Bluetooth settings on the iPad to pair them and I couldn’t remember how to reset them.
 

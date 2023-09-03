@@ -17,6 +17,7 @@ aliases:
     /2015/05/cablox-cable-organiser/
     /2008/09/22/new-ipod-touch-not-charging-with-speaker-docks/
     /2008/09/04/ipod-touch-and-iphone-slow-synching-problem-fixed/
+    /posts/2023-04-01-microsoft-edge-to-incorporate-adobe-acrobat/
 
 ---
 ## Sorry this page is missing

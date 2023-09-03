@@ -1,6 +1,6 @@
 ---
 date: "2015-07-26T00:00:00Z"
-title: How do you backup your digital data ?
+title: "How do you backup your digital data ?"
 categories:
 - Apple
 keywords: backblaze backups backup trial onedrive dropbox

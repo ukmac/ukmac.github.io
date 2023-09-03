@@ -5,6 +5,7 @@ categories:
 - Apple
 aliases:
     /2016-04-06-copied-sync-clipboard-ios-os-x/
+    /2016/04/copied-sync-clipboard-ios-os-x/
 ---
 [Copied](https://geo.itunes.apple.com/gb/app/copied-copy-paste-everywhere/id1015767349?mt=8&at=1000lbQg) has recently become one of my favourite apps for iOS and OS X. It is a slick and useful clipboard manager that makes cut/copy and paste on iPhone,iPad and Mac much more useful and when combined with multiple devices introduces a new capability that was previously only possible by emailing or Messaging between devices. That feature is the ability to copy something on one device then jump over to another and paste that data on another device !
 

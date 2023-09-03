@@ -1,6 +1,7 @@
 ---
 date: "2016-04-06T00:00:00Z"
-title: Copied - Sync your clipboard for iOS and OS X
+title: Copied app for iOS and OS X
+description: Sync your clipboard for iOS and OS X
 categories:
 - Apple
 aliases:

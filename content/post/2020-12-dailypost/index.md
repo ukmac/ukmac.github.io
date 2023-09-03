@@ -8,6 +8,7 @@ aliases:
     /2020/11/new-macbooks/
     /2020/11/edge-history-sync/
     /2020/11/daily-post/
+    /posts/2019-11-01-rofl/
     /pages/viewpage.action/
     /page/2/
     /2016/02/294/

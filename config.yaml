@@ -2,12 +2,12 @@ baseurl: https://ukmac.net
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: UKMac.net - Apple news, tech views
+title: UKmac.net - Apple news, tech views
 
 languages:
     en:
         languageName: English
-        title: UKMac.net - Apple news, tech views
+        title: UKmac.net - Apple news, tech views
         description: My corner of the Internet since 2005
         weight: 1
 

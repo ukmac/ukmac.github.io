@@ -2,7 +2,7 @@
 date: "2015-05-06T00:00:00Z"
 title: Your time is limited...
 description: Steve Jobs' famous Stanford commencement speech
-tags:
+categories:
 - Apple
 keywords: steve-jobs apple commencement stanford
 aliases:

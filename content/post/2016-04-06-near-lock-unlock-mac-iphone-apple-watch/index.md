@@ -5,6 +5,8 @@ description: Unlock your Mac with your iPhone or Apple Watch
 categories:
 - Apple
 keywords: apple utilities near-lock iphone apple-watch
+aliases:
+    /2016/04/near-lock-unlock-mac-iphone-apple-watch/
 ---
 [Near Lock](https://geo.itunes.apple.com/gb/app/near-lock-lock-unlock-your/id886882252?mt=8&at=1000lbQg) is a new pair of apps for iOS and OS X that allows you to unlock your Mac with your iPhone or Apple Watch. Once installed and configured the app can be configured to lock or unlock your Mac as soon as it detects the presence of your iPhone. The sensitivity of the detection can be adjusted from as little as 1m to as much as 10m so you can optimise the point at which it locks or unlocks your Mac according to your requirements.
 

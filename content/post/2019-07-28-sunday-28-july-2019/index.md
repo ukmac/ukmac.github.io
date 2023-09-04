@@ -6,6 +6,8 @@ categories:
 - Microsoft
 tags:
 - PowerApps
+aliases:
+    /2019/07/sunday-28-july-2019/
 ---
 ## PowerApps
 

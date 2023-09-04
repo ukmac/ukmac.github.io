@@ -4,6 +4,8 @@ title: They just don't make 'em like they used to
 categories:
 - Apple
 keywords: apple imac g4 macworld
+aliases:
+    /2016/03/just-dont-make-em-like-used/
 ---
 [Macworld](https://www.macworld.com) writer Christopher Phin [takes a fond look back](http://www.macworld.com/article/3048727/macs/the-imac-g4-apple-at-its-best.html) at what is probably one of the most iconic Macs ever made, the 
 [iMac G4](https://en.wikipedia.org/wiki/IMac_G4). 

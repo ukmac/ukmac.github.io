@@ -5,6 +5,8 @@ categories:
   - Cycling
 tags:
   - Zwift
+aliases:
+  /2020/08/zwift-knickerbocker/
 ---
 One more Zwift route complete tonight, this time the [New York route Knickerbocker](https://zwiftinsider.com/nyc)
 

@@ -5,6 +5,8 @@ description: How Much Do You Think A Top Grossing App in Mac App Store Makes Its
 categories:
 - Apple
 keywords: apple appstore app 
+aliases:
+    /2015/05/how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/
 ---
 Sam Soffes released a small app onto the Mac App Store this week and was shocked to find it quickly elevated into the top grossing apps list, so you can imagine his shock when he checked how much he had made the next day and found he had made only $302 on sales of 92 units !
 

@@ -4,6 +4,8 @@ title: Louisiana declares emergency over cyberattacks targeting schools
 description: Louisiana declares emergency over cyberattacks targeting schools
 tags:
 - Cyber Security
+aliases:
+    /2019/07/louisiana-declares-emergency-over-cyberattacks-targeting-schools/
 ---
 
 [Louisiana declares emergency over cyberattacks targeting schools](https://statescoop.com/louisiana-declares-emergency-over-cyberattacks-targeting-schools/)

@@ -5,6 +5,8 @@ description: Steve Jobs' famous Stanford commencement speech
 tags:
 - Apple
 keywords: steve-jobs apple commencement stanford
+aliases:
+    /2015/05/steve-jobs-stanford-commencement-address-2005/
 ---
 Steve Jobs delivering his famous 2005 Stanford commencement speech. This video is worth watching to the end, powerful and though provoking message from a famed motiviator of people.
 

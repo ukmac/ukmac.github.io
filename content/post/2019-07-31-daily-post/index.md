@@ -5,6 +5,8 @@ categories:
 - Microsoft
 tags:
 - PowerApps
+aliases:
+    /2019/07/wednesday-31-july-2019/
 ---
 
 This is a Microsoft guide I need to use fairly regularly ! Wish connection to Exchange Online and Sharepoint Online from Powershell was a little easier to configure.

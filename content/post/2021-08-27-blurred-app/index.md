@@ -6,6 +6,8 @@ categories:
     - Apple
 tags:
     - Hints and Tips
+aliases:
+    /2021/08/blurred-app/
 ---
 [GitHub - dwarvesf/blurred: A macOS utility that helps reduce distraction by dimming your inactive noise](https://github.com/dwarvesf/blurred)
 

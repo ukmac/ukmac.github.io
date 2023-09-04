@@ -3,7 +3,7 @@ date: "2019-09-02T00:00:00Z"
 title: Setting Lock Screen Wallpaper with Intune
 categories:
 - Microsoft
-catagories:
+aliases:
     /2019/09/setting-lock-screen-wallpaper-with-intune/
 ---
 Just found 

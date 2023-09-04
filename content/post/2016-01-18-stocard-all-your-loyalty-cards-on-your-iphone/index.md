@@ -8,6 +8,8 @@ tags:
     - Apps 
     - iPhone
 keywords: iphone ios app stocard apple
+aliases:
+    /posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/
 ---
 One of my pet peeves is the number of plastic cards I have to carry in my wallet. Most of the time I tend to strip the contents to the essential debit cards that I use all the time but this sometimes means that I miss out on discounts or other benefits by not having a particular stores loyalty card with me.
 

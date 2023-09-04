@@ -4,6 +4,8 @@ title: How to Access Magazines on Zinio for Free
 categories:
 - Hints and Tips
 keywords: zinio magazine ezine flipboard feedly rss
+aliases:
+    /posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/
 ---
 In the days before the Internet I was a regular magazine subscriber and the shelves in my home office used to groan under the weight of all those glossy pages. My magazine buying days have long since gone, replaced by a diet of online news delivered first by USENET followed by online forums, web sites and most recently RSS feeds read through services like 
 [Feedly.com](http://feedly.com) or apps like 

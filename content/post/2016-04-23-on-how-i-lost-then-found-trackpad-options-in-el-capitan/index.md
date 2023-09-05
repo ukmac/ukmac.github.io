@@ -1,6 +1,7 @@
 ---
 date: "2016-04-23T00:00:00Z"
-title: On How I Lost Then Found Trackpad Options in El Capitan
+title: Upgrading OS X issues
+description: On How I Lost Then Found Trackpad Options in El Capitan
 categories:
 - Apple
 aliases:

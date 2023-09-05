@@ -4,7 +4,6 @@ title: ImageOptim
 description: An Excellent Free Image Compressor for Mac
 categories:
 - Apple
-keywords: image utility macos osx apple appstore app compression compressor
 ---
 
 [ImageOptim](https://imageoptim.com) is a small free utility for Mac OS X that does one thing well. It compresses image files but without reducing image quality. On test files I have found that compression rates vary between a few percent up to over 50% and the resulting images look exactly the same.

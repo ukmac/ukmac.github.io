@@ -3,7 +3,6 @@ date: "2015-06-24T00:00:00Z"
 title: How to Access Magazines on Zinio for Free
 categories:
 - Hints and Tips
-keywords: zinio magazine ezine flipboard feedly rss
 aliases:
     /posts/2015-06-24-how-to-access-magazines-on-zinio-for-free/
 ---

@@ -4,7 +4,6 @@ title: Say no to Pakisaurus - Hilarious Rant by Guzzy Bear
 categories:
 - Videos
 - Humour
-keywords: humour youtube jurassic-world
 ---
 
 {{< youtube xd4ygI0GHV8 >}}

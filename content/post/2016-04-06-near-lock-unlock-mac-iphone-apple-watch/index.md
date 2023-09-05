@@ -4,7 +4,6 @@ title: Near Lock
 description: Unlock your Mac with your iPhone or Apple Watch
 categories:
 - Apple
-keywords: apple utilities near-lock iphone apple-watch
 aliases:
     /2016/04/near-lock-unlock-mac-iphone-apple-watch/
 ---

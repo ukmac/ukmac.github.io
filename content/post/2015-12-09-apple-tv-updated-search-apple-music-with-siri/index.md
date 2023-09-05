@@ -6,7 +6,6 @@ categories:
 - Apple
 tags:
     - AppleTV
-keywords: apple-tv apple siri apple-music 
 aliases:
     /2015/12/apple-tv-updated-search-apple-music-with-siri/
 ---

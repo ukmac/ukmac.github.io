@@ -3,7 +3,6 @@ date: "2015-07-28T00:00:00Z"
 title: Facebook App Draining iPhone Batteries
 categories:
 - Apple
-keywords: apple facebook iphone battery-drain techcrunch
 ---
 According to [this article](http://techcrunch.com/2015/10/15/facebook-working-on-fix-for-ios-app-battery-drain-issue/) on TechCrunch Facebook have confirmed that they are aware of a problem with their iOS app causing excessive battery drain even when the app has background refresh disabled.
 

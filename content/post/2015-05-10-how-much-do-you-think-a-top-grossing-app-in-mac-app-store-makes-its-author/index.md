@@ -4,7 +4,6 @@ title: Making money on the App Store
 description: How Much Do You Think A Top Grossing App in Mac App Store Makes Its Author ?
 categories:
 - Apple
-keywords: apple appstore app 
 aliases:
     /2015/05/how-much-do-you-think-a-top-grossing-app-in-mac-app-store-makes-its-author/
 ---

@@ -3,7 +3,6 @@ date: "2016-04-10T00:00:00Z"
 title: Spoof Letters Published In Metro Newspaper
 categories:
 - Humour
-keywords: metro spoof letters funny humour
 ---
 [This article](http://mashable.com/2016/04/02/fake-newspaper-letters/#YNZJAoAr6sqV) from 
 [Mashable](http://mashable.com) is a few days old so apologies if you have already seen it. Definitely worth a scan !

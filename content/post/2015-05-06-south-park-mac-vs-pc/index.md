@@ -6,7 +6,6 @@ categories:
 - Apple
 - Videos
 - Humour
-keywords: south-park mac pc humour funny youtube
 ---
 
 {{< youtube Id_kGL3M5Cg >}}

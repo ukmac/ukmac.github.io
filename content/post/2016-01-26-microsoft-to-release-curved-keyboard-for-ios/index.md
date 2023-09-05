@@ -3,7 +3,6 @@ date: "2016-01-26T00:00:00Z"
 title: Microsoft to release curved keyboard for iOS
 categories:
 - Apple
-keywords: ios iphone keyboard microsoft curved
 ---
 Ars technica has this [interesting article](http://arstechnica.com/apple/2016/01/microsofts-clever-curved-keyboard-for-ios-looks-very-smart/) about a planned new keyboard from Microsoft that will potentially make one handed typing on larger iPhones more practical.
 

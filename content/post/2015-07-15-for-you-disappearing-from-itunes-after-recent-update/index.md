@@ -3,7 +3,6 @@ date: "2015-07-15T00:00:00Z"
 title: For You Disappearing from iTunes after recent update
 categories:
 - Apple
-keywords: macbook itunes apple-music itunes-store
 ---
 Last night my MacBook's iTunes was updated with the latest release ( 12.2.1.16 ) and when it restarted I was prompted with the invitation to Join Apple Music trial. As I had already signed up I ignored this prompt and clicked through to iTunes assuming it was some sort of error, however what I noticed then was the For You and New sections at the top of the iTunes window were now missing.
 

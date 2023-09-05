@@ -5,7 +5,6 @@ description: This is a fascinating video and worth watching to see how these tw
 categories:
 - Apple
 - Videos
-keywords: mossberg gates jobs interview youtube
 ---
 
 {{< youtube Sw8x7ASpRIY >}}

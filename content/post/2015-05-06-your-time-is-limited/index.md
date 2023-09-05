@@ -4,7 +4,6 @@ title: Your time is limited...
 description: Steve Jobs' famous Stanford commencement speech
 categories:
 - Apple
-keywords: steve-jobs apple commencement stanford
 aliases:
     /2015/05/steve-jobs-stanford-commencement-address-2005/
 ---

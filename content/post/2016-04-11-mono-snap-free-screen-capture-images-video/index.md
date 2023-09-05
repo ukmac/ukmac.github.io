@@ -3,7 +3,6 @@ date: "2016-04-11T00:00:00Z"
 title: Monosnap - Free Screen Capture for Images and Video
 categories:
 - Apple
-keywords: apple screen-capture free monosnap
 ---
 
 [Monosnap](http://monosnap.com/welcome) is a free utility for OS X and Windows that can quickly and easily capture screenshots and save them for editing and annotation, ideal for grabbing images for documentation or publishing to social media streams. 

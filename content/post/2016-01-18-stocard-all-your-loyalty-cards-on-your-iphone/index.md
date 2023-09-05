@@ -7,7 +7,6 @@ categories:
 tags: 
     - Apps 
     - iPhone
-keywords: iphone ios app stocard apple
 aliases:
     /posts/2016-01-18-stocard-all-your-loyalty-cards-on-your-iphone/
 ---

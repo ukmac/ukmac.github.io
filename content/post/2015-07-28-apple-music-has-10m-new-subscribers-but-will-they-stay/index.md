@@ -3,7 +3,6 @@ date: "2015-07-28T00:00:00Z"
 title: Apple Music has 10M new subscribers but will they stay ?
 categories:
 - Apple
-keywords: apple apple-music itunes appleinsider spotify 
 ---
 According to many popular sites it is being reported that Apple Music has already reached 10 million subscribers ( 
 [Appleinsider](http://appleinsider.com/articles/15/07/27/apple-music-hits-10m-subscribers-in-four-weeks-report-says) ). This is of course an artificial number as none of those customers have yet to pay a penny for the service as it is free for the first three months of use.

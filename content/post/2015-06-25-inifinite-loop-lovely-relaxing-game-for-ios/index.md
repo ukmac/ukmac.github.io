@@ -4,7 +4,6 @@ title: Infinite Loop - Lovely Relaxing Game for iOS
 categories:
 - Apple
 - Games
-keywords: iphone android games ios free
 ---
 [Infinite Loop](http://loopgame.co) is my latest go to iPhone game for instant gratification or the gamers equivalent of meditation. Jonas Lekevicious has created a beautiful puzzle game that requires no instructions and is suitable for young and old. Whats more he has created an 
 [iPhone](https://itunes.apple.com/us/app/infinite-loop/id977028266?mt=8) and 

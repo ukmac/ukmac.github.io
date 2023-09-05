@@ -3,7 +3,6 @@ date: "2015-10-30T00:00:00Z"
 title: Amazon Removes Apple TV From Store
 categories:
 - Apple
-keywords:  apple prime amazon video apple-tv fire-tv
 ---
 It seems that Amazon was serious with recent threats to pull ads for media streaming devices that don't support their own [Prime Video](https://www.amazon.co.uk/Instant-Video/b/ref=nav_shopall_aiv?ie=UTF8&node=3010085031) service from the Amazon Store as today they have removed both 
 [Apple TV](http://www.apple.com/tv/) and Chromecast devices.

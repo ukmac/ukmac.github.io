@@ -3,7 +3,6 @@ date: "2016-02-22T00:00:00Z"
 title: Fresh Background Wallpapers for your Mac
 categories:
 - Apple
-keywords: wallpaper mac 
 ---
 [FreshBackMac](http://arkanath.com/FreshBackMac/) is a small utility written by Arkanath Pathak, a Computer Science student from eastern India, that refreshes your Mac desktop wallpaper at regular intervals using images from some of the best photo sites on the Internet.
 

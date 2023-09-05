@@ -4,7 +4,6 @@ title: Think Same !
 description: Pretty funny mickey take of Dell....
 categories:
 - Videos
-keywords: dell 
 aliases:
     /2015/10/think-same/
 ---

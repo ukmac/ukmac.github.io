@@ -3,7 +3,6 @@ date: "2015-06-19T00:00:00Z"
 title: Calls To 0800 Numbers Free From Mobiles Starting 1st July (UK)
 categories:
 - Hints and Tips
-keywords: mobiles uk calling 0800 0808
 aliases:
     /posts/2015-06-19-calls-to-0800-numbers-free-from-mobiles-starting-1st-july-uk/
 ---

@@ -4,7 +4,6 @@ title: How do you backup your digital data
 description: What is your preferred cloud backup service
 categories:
 - Apple
-keywords: backblaze backups backup trial onedrive dropbox
 aliases:
     /p/how-do-you-backup-your-digital-data/onedrive.com/
     /p/how-do-you-backup-your-digital-data/www.dropbox.com/

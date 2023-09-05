@@ -3,7 +3,6 @@ date: "2015-10-24T00:00:00Z"
 title: Dual Screen Wallpapers for Macs
 categories: 
 - Apple
-keywords: wallpaper apple macbook imac retina ipad iphone wallpapers
 ---
 Twelve South are a brand well known to Mac users for their laptop and iPhone/iPad stands 
 [amongst other products.](https://www.twelvesouth.com/products)

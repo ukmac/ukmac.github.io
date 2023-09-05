@@ -3,7 +3,6 @@ date: "2015-06-17T00:00:00Z"
 title: Hackers find way of breaking out of Apple's sand box ( OS X and iOS )
 categories:
   - Cyber Security
-keywords: ios osx flaws vulnerability
 ---
 Just this afternoon I was involved in a discussion about how hackers exploit the most difficult to find holes in operating systems, networks and hardware to gain a way in or in some cases out of the protections wrapped around our technology by the people who developed them.
 

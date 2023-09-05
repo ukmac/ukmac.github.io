@@ -5,7 +5,6 @@ categories:
 - Apple
 tags: 
     - AppleTV
-keywords: appletv apple-tv apple iphone ipad
 ---
 The new [Apple TV](http://www.apple.com/tv) announced at last months iPhone and iPad Pro event is due to start shipping next week. UK pricing is still not available on the Apple site so this may mean that availability is going to be limited to the US at first.
 

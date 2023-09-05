@@ -4,7 +4,6 @@ title: TarDisk Pear
 description: Grow your MacBook Hard drive !
 categories:
 - Apple
-keywords: apple minidrive tardisk macbook hard-drive 
 ---
 A little while ago I looked at a device called the 
 [Nifty MiniDrive](http://eu.minidrive.bynifty.com/#) a neat little MicroSD card carrier that fits completely snuggly into the SD slot on MacBooks adding disk space for photos/documents and other temporary files. They are relatively cheap and can be used with whatever size of MicroSD card you have available. The downside is that the disk space provided is a separate volume to the internal drive and as such you have to manage which files and folders go where. It is certainly a neater solution than plugging a USB drive into your MacBook but if the internal drive is struggling for space it doesn't immediately solve that issue.

@@ -4,7 +4,6 @@ title: Using Duet Display As A Primary Monitor
 categories:
 - Apple
 - Hints and Tips
-keywords: apple duet mac-mini duet-display monitor ipad ios
 aliases:
     /2016/01/using-duet-display-as-a-primary-monitor/
 ---

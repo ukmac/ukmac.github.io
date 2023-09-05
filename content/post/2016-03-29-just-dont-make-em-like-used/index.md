@@ -3,7 +3,6 @@ date: "2016-03-29T00:00:00Z"
 title: They just don't make 'em like they used to
 categories:
 - Apple
-keywords: apple imac g4 macworld
 aliases:
     /2016/03/just-dont-make-em-like-used/
 ---

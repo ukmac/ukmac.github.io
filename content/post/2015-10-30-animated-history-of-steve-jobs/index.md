@@ -4,7 +4,6 @@ title: Animated History Of Steve Jobs
 categories:
 - Apple
 - Videos
-keywords: steve-jobs apple quartsoft
 ---
 The team in the marketing department at 
 [Quartsoft](http://quartsoft.com) have produced this lovely animated video timeline of Steve Jobs life. Click on this 

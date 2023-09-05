@@ -6,7 +6,6 @@ categories:
     - Apple
 tags:
     - Hints and Tips
-keywords: apple magic-keyboard magic-trackpad
 image: magickeyboard.jpg
 aliases:
     /posts/2023-04-01-resetting-magic-keyboard-and-magic-trackpad/

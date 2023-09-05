@@ -6,7 +6,6 @@ tags:
     - Hints and Tips
 categories:
     - Apple
-keywords: apple macbook clamshell trackpad mouse accessibility mousekeys
 aliases:
     /posts/2023-03-06-managing-trackpad-on-macos-when-using-external-mouse/
 ---

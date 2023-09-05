@@ -5,7 +5,6 @@ description: Why I decided to return my reMarkable
 categories:
   - Daily Post
 image: remarkable.jpg
-keywords: remarkable eink notes review
 ---
 ## Returning my reMarkable
 

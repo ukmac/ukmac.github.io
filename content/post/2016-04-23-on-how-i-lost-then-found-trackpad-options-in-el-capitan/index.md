@@ -6,7 +6,6 @@ categories:
 - Apple
 aliases:
     /posts/2016-04-23-on-how-i-lost-then-found-trackpad-options-in-el-capitan/
-keywords: trackpad apple macos el-capitan osx
 ---
 
 My normal approach when a new version of OS X is released is to backup ( create a 

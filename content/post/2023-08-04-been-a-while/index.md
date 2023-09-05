@@ -5,7 +5,6 @@ description: I haven't posted here for a long time now. Life is busy, work is bu
 image: ../assets/img/cover.jpg
 categories:
     - Hugo
-keywords: social-media mastodon overwhelming life hugo hugocms tinacms
 ---
 This week has been a bit crappy to be honest. I have spent most of it lay in bed, coughing and feeling weak and exhausted. My chest hurts and my head feels like its full of cotton wool and I am actually really tired of feeling this way. It's only a week, nothing compared to what some people have to endure.
 

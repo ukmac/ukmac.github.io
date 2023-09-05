@@ -4,7 +4,6 @@ title: New Desk layout
 description: Sunday afternoon office tidy...
 tags: 
     - Desk Setups
-keywords: desk-setup desk 
 ---
 Turned out nicely I think.
 

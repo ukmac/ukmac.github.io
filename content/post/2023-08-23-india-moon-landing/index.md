@@ -4,7 +4,6 @@ title: India Moon Landing
 description: The first landing on the Moons South Pole
 categories:
   - Daily Post
-keywords: moon india south pole
 image: chandrayaan.jpg
 ---
 A big day for the Indian space programme and a poke in the eye for the Russians who crashed landed their attempt earlier in the week.

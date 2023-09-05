@@ -6,7 +6,6 @@ slug: will-green
 image: britishmac.jpg
 categories:
   - Apple
-keywords: britishmac podcast blog imac
 ---
 A couple of weeks ago I got a text out of the blue from an old friend, James who had just heard that another friend of ours, Will Green, had unfortunately passed away. 
 

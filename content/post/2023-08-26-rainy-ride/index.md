@@ -4,7 +4,6 @@ title: A lesson in how not to ride in the rain
 categories:
   - Cycling
 image: strava.jpg
-keywords: cycling strava rain crash
 ---
 ## A wet ride
 

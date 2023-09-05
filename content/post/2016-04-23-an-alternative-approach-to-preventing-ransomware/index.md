@@ -3,7 +3,6 @@ date: "2016-04-23T00:00:00Z"
 title: An Alternative Approach to Preventing Ransomware ?
 categories:
 - Cyber Security
-keywords: ransomware cybersecurity cyber security keranger transmission bittorrent 
 ---
 
 The rise in the prevelance of 

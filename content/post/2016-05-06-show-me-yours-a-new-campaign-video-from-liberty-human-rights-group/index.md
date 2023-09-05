@@ -4,7 +4,6 @@ title: Show Me Yours
 description: A New Campaign Video from Liberty Human Rights Group
 categories:
 - Videos
-keywords: youtube human-rights liberty snoopers-charter
 ---
 
 Show Me Yours is a wonderful tongue in cheek video featuring comedian 

@@ -33,5 +33,6 @@ In the meantime if any web gurus do happen across my site and can shed any light
 
 |Link|Description|
 |--------|----|
-|[Bing Webmaster Guidelines]([url](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a))| Bing advice on how to get your site indexed. |
-|[Bing Webmaster Tools]([url](https://www.bing.com/webmasters))| Tools to analyse your site and submit it to Bing for indexing |
+|[Bing Webmaster Guidelines](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a)| Bing advice on how to get your site indexed. |
+|[Bing Webmaster Tools](https://www.bing.com/webmasters)| Tools to analyse your site and submit it to Bing for indexing |
+|[Not awesome Bing bans and de-indexing](https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing)| A thorough set of resources and articles about Bing bans and de-indexing |

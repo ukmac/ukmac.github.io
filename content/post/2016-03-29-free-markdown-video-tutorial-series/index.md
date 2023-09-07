@@ -3,6 +3,8 @@ date: "2016-03-29T00:00:00Z"
 title: Free Markdown Video Tutorial Series
 categories:
 - Hints and Tips
+aliases:
+    /2016/03/free-markdown-video-tutorial-series/
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/) is the plain text markup syntax developed by 

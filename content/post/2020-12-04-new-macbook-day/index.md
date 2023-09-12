@@ -3,6 +3,7 @@ date: "2020-12-04T00:00:00Z"
 title: New MacBook day
 categories:
   - Apple
+image: /assets/img/mac.jpg
 ---
 ## OMG !
 

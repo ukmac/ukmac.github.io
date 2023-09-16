@@ -20,4 +20,3 @@ Glad to have another portal climb in the bank though.
     <!-- html codes here-->  
     <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9860886676"></div><script src="https://strava-embeds.com/embed.js"></script>
 {{< /rawhtml >}}
-

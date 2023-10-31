@@ -26,5 +26,4 @@ I suppose the point of making this comparison is to encourage early Apple Silico
 
 |Link|Description|
 |--------|----|
-|[Keyclu](https://sergii.tatarenkov.name/keyclu/support/)| Simple and handy overview of applications shortcuts. Press Command key twice and hold to display the keyboard shortcuts available for the current application. |
-|[Dropzone 4](https://apps.apple.com/gb/app/dropzone-4/id1485052491?mt=12)| A menu bar utility to make copy/paste between apps easier. Great is you use Stage Manager |
+|[Bunch](https://bunchapp.co/)| Bunch is another great tool from [Brett Terpstra](https://brettterpstra.com/) that uses a plain text config file to define bunches of apps that can be lauched together from a simple menu. Think of the contexts of how you use your Mac (work, home, play) and the common apps that you use in each context, Bunch makes launching and closing apps to get you from one context to another simple. |

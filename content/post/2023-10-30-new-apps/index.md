@@ -28,4 +28,4 @@ The afternoon was then spent in my office, sorting out shelving, listening to mu
 |Link|Description|
 |--------|----|
 |[Keyclu](https://sergii.tatarenkov.name/keyclu/support/)| Simple and handy overview of applications shortcuts. Press Command key twice and hold to display the keyboard shortcuts available for the current application. |
-|[Dropzone 4](https://apps.apple.com/gb/app/dropzone-4/id1485052491?mt=12)| A menu bar utility to make copy/paste between apps easier. Great is you use Stage Manager |
+|[Dropzone 4](https://apps.apple.com/gb/app/dropzone-4/id1485052491?mt=12)| A menu bar utility to make copy/paste between apps easier. Great if you use Stage Manager |

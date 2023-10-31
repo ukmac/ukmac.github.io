@@ -4,6 +4,8 @@ title: What a difference a week makes
 description: Last week pouring rain, this week beautiful warm sunshine
 categories:
   - Cycling
+tags:
+  - Strava
 image: wrekin-from-edgmond.jpg
 ---
 [Last weeks ride](https://ukmac.net/p/a-lesson-in-how-not-to-ride-in-the-rain/) couldn't have been more different from todays. I wasn't sure I would get time to go out this afternoon but when the opportunity of a quick hour circuit raised its head I didn't wait for it to pass by.

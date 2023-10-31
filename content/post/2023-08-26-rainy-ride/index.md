@@ -3,6 +3,8 @@ date: "2023-08-26T00:00:00Z"
 title: A lesson in how not to ride in the rain
 categories:
   - Cycling
+tags:
+  - Strava
 image: strava.jpg
 ---
 ## A wet ride

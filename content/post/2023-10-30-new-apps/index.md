@@ -7,6 +7,7 @@ categories:
   - Zwift
 tags:
   - Apps
+  - Strava
 image: 2023-10-30-zwift.jpg
 ---
 I am taking a few days leave for half term this week so today was busy busy busy...

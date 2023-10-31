@@ -1,8 +1,9 @@
 ---
 date: "2023-10-31T00:00:00Z"
-title: Morning Run (4 miles)
+title: Morning Run (4 miles) - Scary Fast
 categories:
   - Daily Post
+  - Apple
 tags:
   - Strava
 image: scary-fast.png

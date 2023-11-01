@@ -14,7 +14,7 @@ Finished sorting my office today and am really happy with how it looks now. I sp
 ![](office3.jpg)
 ![](office4.jpg)
 
-I have included a link to my standing desk frame below. I have procrastinated over getting a standing desk for months and now I have one I wish I hadn't. I find that I spend at least half my working day standing now and feel much better for it. If you are sitting on the fence (or your desk chair) debating if you should move to a standing desk I would definitely recommend doing it. If you can re-use your existing desktop as I did the cost is pretty reasonable (this one was aroound £170). Do it, your back will thank you later.
+I have included a link to my standing desk frame below. I procrastinated over getting a standing desk for months and now I have one I wish I hadn't. I find that I spend at least half my working day standing now and feel much better for it. If you are sitting on the fence (or your desk chair) debating if you should move to a standing desk I would definitely recommend doing it. If you can re-use your existing desktop as I did the cost is pretty reasonable (this one was aroound £170). Do it, your back will thank you later.
 
 ## Daily Links
 

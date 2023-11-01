@@ -8,6 +8,8 @@ tags:
   - Strava
 image: scary-fast.png
 ---
+## Morning Run
+
 First longish run for a long time this morning. Dropped Vel's car at the garage for a service then run home. Felt pretty slow but looking at the total time and distance it actually wasn't too bad. I enjoy running when I am doing it regularly and I can get to a decent pace without feeling like my lungs are going to burst but to get to that usually means a prolonged period of regular runs and at the moment I am not getting out often enough. Oddly running is something I tend to find I do more of in the winter, I find running in the hot weather uncomfortable and would much rather be cycling through the lanes for exercise in the Summer. The big benefit of running though is that 30-45 mins gets me the same benefit as a much longer day in the saddle so fitting into the family life schedule is generally easier.
 
 {{< rawhtml >}}    

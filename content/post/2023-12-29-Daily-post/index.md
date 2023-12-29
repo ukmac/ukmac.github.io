@@ -10,6 +10,14 @@ Tinkering today and I noticed that while my MacBook is asleep with power off the
 
 Another horrific day weather-wise here in the UK. Rain is currently hammering on my study window and the sky is a uniform grey.
 
+2023 was a pretty slow year for my cycling adventures. I only managed one 100k+ ride to Ellesmere Lakes in June. This year I am hoping to do a bit more than that and have been researching organised events that I might be able to sign up for. [TimeOutdoors](https://www.timeoutdoors.com/events/bike-rides/west-midlands) has a number of events in the West Mids starting in April and running through to September listed on their site, a couple look like they might be worth signing up for.
+
+{{< rawhtml >}}    
+    <!-- html codes here-->  
+    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="97754086934413407693"></div><script src="https://strava-embeds.com/embed.js"></script>
+{{< /rawhtml >}}
+
+
 ## Daily Links
 
 |Link|Description|

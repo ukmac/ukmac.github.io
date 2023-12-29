@@ -14,9 +14,8 @@ Another horrific day weather-wise here in the UK. Rain is currently hammering on
 
 {{< rawhtml >}}    
     <!-- html codes here-->  
-    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="97754086934413407693"></div><script src="https://strava-embeds.com/embed.js"></script>
+    <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9344134076"></div><script src="https://strava-embeds.com/embed.js"></script>
 {{< /rawhtml >}}
-
 
 ## Daily Links
 

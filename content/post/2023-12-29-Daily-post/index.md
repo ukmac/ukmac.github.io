@@ -23,3 +23,4 @@ Another horrific day weather-wise here in the UK. Rain is currently hammering on
 |--------|----|
 |[TimeOutdoors](https://www.timeoutdoors.com/events/bike-rides/west-midlands)|Cycling events in the West Midlands for 2024|
 |[iJunkie](https://ijunkie.com/slowiphonesyncs/)|Link to an old article I wrote that was the only time I was ever linked to from Daringfireball.net|
+|[The Verge](https://www.theverge.com/2023/12/28/24016913/apple-patent-dispute-masimo-lagemo-true-wearables)|The Verge summary of the current dispute between Apple and Masimo over Apple Watch patent infringement |

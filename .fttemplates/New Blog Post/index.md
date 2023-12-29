@@ -7,3 +7,8 @@ image:
 categories:
     - 
 ---
+## Daily Links
+
+|Link|Description|
+|--------|----|
+|[title](https://url)|Description|

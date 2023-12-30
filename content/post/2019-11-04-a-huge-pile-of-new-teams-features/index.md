@@ -3,6 +3,8 @@ date: "2019-11-04T00:00:00Z"
 title: A huge pile of new Teams features !
 categories:
 - Microsoft
+aliases:
+    /p/new-airpods-pro-noise-cancellation/
 ---
 
 [What’s New in Microsoft Teams- Ignite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/What-s-New-in-Microsoft-Teams-Ignite-2019/ba-p/937025)

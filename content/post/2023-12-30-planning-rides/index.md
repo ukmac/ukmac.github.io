@@ -12,4 +12,4 @@ My first event of the year is now booked. I have a target to aim for, 2nd June a
 
 |Link|Description|
 |--------|----|
-|[Poppy Ride]([https://url](https://www.britishlegion.org.uk/get-involved/things-to-do/events/poppy-ride))|Whether you're taking your first spin in the cycling world or you're a seasoned pro, Poppy Ride offers three professionally designed routes - each catering to different skill levels.|
+|[Poppy Ride](https://www.britishlegion.org.uk/get-involved/things-to-do/events/poppy-ride)|Whether you're taking your first spin in the cycling world or you're a seasoned pro, Poppy Ride offers three professionally designed routes - each catering to different skill levels.|

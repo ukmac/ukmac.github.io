@@ -2,7 +2,7 @@
 title: Webcam draining my battery   
 description: Testing battery drain when asleep
 date: 2023-12-29T00:00:00Z
-image: 
+image: macbook.jpg
 categories:
     - Daily Post
 ---

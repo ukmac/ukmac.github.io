@@ -15,6 +15,6 @@ tags:
 
 Ending 2023 with a longer ride and another route completion ([Sugar Cookie in Watopia](https://zwiftinsider.com/route/sugar-cookie/)).
 
-![My Veloviewer stats](veloviewer.jpg)
+![My Veloviewer stats](veloviewer.png)
 
 According to my Veloviewer account (which I had fogotten I had and noticed just now that it runs out in 3 days) this year was back to my 2019 levels which is to say the worst it has been for 4 years. Nothing I didn't already know but it does show that I have been lax this year and need to make more of an effort in 2024.

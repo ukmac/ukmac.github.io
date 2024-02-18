@@ -13,4 +13,6 @@ Today started with a walk to the Hundred Acre Kitchen for coffee and sausage and
 
 Today is the launch of [Killers of the Flower Moon](https://tv.apple.com/us/movie/killers-of-the-flower-moon/umc.cmc.5x1fg9vferlfeutzpq6rra1zf) on Apple TV+ which I have been looking forward to watching for a while. Not sure I will find the time this weekend but its definitely on the list to see.
 
-I have gone back to dabbling with Obsidian again, this time I have setup the Github
+I have gone back to dabbling with Obsidian again, this time I have setup the Github plugin to sync to my Github account and so far its working great. I have setup on my iPhone and iPad and all are syncing nicely (for the most part, I have had a couple of issues but nothing major). I have not tried the pay-for Obsidian sync service and would expect it is considerably slicker than the process for setting up Github sync but at £8 a month the price is a little high for my needs.
+
+I will continue testing and see how I get on.

@@ -1,6 +1,5 @@
 ---
 title: 58 years young
-slug: 
 description: Birthday day of work, breakfast out, evening meal out...
 date: 2024-01-12T00:00:00Z
 image: lilleshall.jpg

@@ -33,8 +33,15 @@ For info the list of essential apps I have re-installed include :-
 - [Readkit](https://readkit.app/)
 - [IceCubes for Mastodon](https://github.com/Dimillian/IceCubesApp)
 
-## Daily Links
+## Obsidian Sync
 
-|Link|Description|
-|--------|----|
-|[title](https://url)|Description|
+One of the other things I have been changing in the last month is my [Obsidian](https://obsidian.md) setup. Obsidian is an application that I have been trying to use for a long time but one of the main things that prevented my adoption was the fact that I wanted to be able to sync across Windows, macOS and iOS. Of course the simple answer to this would have been to subscribe to the [Obsidian Sync service](https://obsidian.md/sync) but I was loathe to start another subscription especially as I had yet to fully develop an essential workflow that relied on Obsidian.
+
+Its fair to say that I am one of those types who prefer the configuration and setup of systems to actually using them and have tried and failed to make every type of note taking system and tool work for me. Having said that I have watched endless videos on note taking tools and Obsidian is the one that I have always thought **should** be able to serve my needs well.
+
+Prior to this month I had been using the [Obsidian Git plugin](https://github.com/denolehov/obsidian-git) with a reasonable amount of success, but have had numerous instances of sync issues caused by opening my vault on my MacBook and iPhone or iPad when there were uncommitted changes which then required command line tinkering to rollback changes. This sort of irritation is a big negative factor in adopting a smooth workflow as you will appreciate, so last month I finally submitted to another subscription and signed up to the entry level $4 a month plan.
+
+The impact was immediate. Sync now just works including plugin installations and configuration settings which didn't sync at all with my Git based solution which meant I was constantly making changes to multiple devices to keep plugin settings synchronised.
+
+I am very happy with this setup at the moment and will continue with it for a few months on the monthly plan and if it looks like becoming a permenant part of my toolbox I will sign up for the annual plan to save a few quid. If you havent tried it yet and have been testing across multiple devices with Git or iCloud sync then I would definitely recommend setting up a monthly Obsidian Sync
+subscription for a month or two to test it out. 

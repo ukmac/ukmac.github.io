@@ -25,14 +25,13 @@ For info the list of essential apps I have re-installed include :-
 - [Raycast](https://www.raycast.com/) 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - [Espanso](https://espanso.org/)
+- [Forklift](https://binarynights.com/)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
 - [Obsidian](https://obsidian.md)
 - [Dato](https://sindresorhus.com/dato)
 - [Shottr](https://shottr.cc/)
 - [Readkit](https://readkit.app/)
 - [IceCubes for Mastodon](https://github.com/Dimillian/IceCubesApp)
-
-
 
 ## Daily Links
 

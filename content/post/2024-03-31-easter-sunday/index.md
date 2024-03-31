@@ -3,7 +3,7 @@ title: Easter Sunday - New MacBook
 slug: 
 description: 
 date: "2024-03-31T00:00:00Z"
-image: macbookair.webp
+image: macbookair.jpg
 categories:
     - Daily Post
     - Apple

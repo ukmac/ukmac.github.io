@@ -4,8 +4,7 @@ title: Home Office Update
 categories:
   - Daily Post
   - Apple
-tags:
-  - Strava
+
 image: office1.jpg
 ---
 Finished sorting my office today and am really happy with how it looks now. I spend a lot of time in here so its important for me that I have a nice environment to work in. The addition of a few led light strips and a clear out of some of the clutter has improved the aesthetic considerably I think.

@@ -9,6 +9,7 @@ categories:
     - Apple
 tags:
     - Apps
+    - Obsidian
 ---
 ## New Macbook day
 

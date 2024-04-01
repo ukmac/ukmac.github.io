@@ -1,7 +1,7 @@
 ---
 title: Easter Sunday - New MacBook
 slug: 
-description: 
+description: Setting up a new MacBook Air and Obsidian Sync
 date: "2024-03-31T00:00:00Z"
 image: macbookair.jpg
 categories:

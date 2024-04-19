@@ -4,7 +4,6 @@ description: A blog of tech stuff but mostly about Apple and Macs
 date: '2023-08-07'
 aliases:
   - about-us
-  - about-hugo
   - contact
 lastmod: '2023-08-07'
 menu:

@@ -2,6 +2,8 @@
 title: Hello
 description: My Hello Page
 date: '2024-04-19'
+aliases:
+  /hello/
 menu:
     main: 
         weight: -90

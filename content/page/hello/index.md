@@ -8,7 +8,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: hand
+            icon: messages
 ---
 Hello, I'm Scott Paterson.
 

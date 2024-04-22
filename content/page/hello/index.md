@@ -15,6 +15,7 @@ Hello, I'm Scott Paterson.
 Here is how I prefer to keep in touch, and why:
 
 - My favourite way to converse is [email](mailto://scott@ukmac.net).
+- If you know me and have my phone number you can contact me on iMessage or Signal
 - I try to write on my [website](https://ukmac.net) though not on a very regular basis
 - I have left Twitter or "X" because it is a cesspool.
 - I lurk on [Mastodon](https://twit.social/@ukmac) and make the occasional comment or post

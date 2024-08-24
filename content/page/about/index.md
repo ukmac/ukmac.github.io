@@ -27,13 +27,13 @@ I have been a fan of Apple products for the last 20 odd years starting with my f
 
 I have a bunch of other Apple kit including 6th gen iPad Mini, iPhone 15 and whole bunch of antique Apple kit (original Macintosh, eMate 300, Newtons, G4 iMac, Intel iMac... I could go on...)
 
-Just bought a DJI Mini 4K but not had time to make real use of it yet, one to work on.
+Just bought a [DJI Mini 4K](https://www.dji.com/uk/mini-2-se) but not had time to make real use of it yet, one to work on.
 
 ### Interests
 
 I am a keen cyclist (when I can) and use Zwift in my garage when I don't have time to get out in the lanes for a "proper" ride.
 
-I am reviving my interest in HiFi and have a pair of Kef LSX II active speakers on my office desk (in front of me) which are just stunning. I have a Pro-ject T1 BT turntable that hooks up to the Kefs for those days when I feel like spinning some of my old vinyls.
+I am reviving my interest in HiFi and have a pair of [Kef LSX II](https://uk.kef.com/products/lsx-2) active speakers on my office desk (in front of me) which are just stunning. I have a [Pro-ject T1 BT](https://www.project-audio.com/en/product/t1/) turntable that hooks up to the Kefs for those days when I feel like spinning some of my old vinyls.
 
 ### Entertainment
 
@@ -47,7 +47,7 @@ Four grown up kids, recently grown in numbers to 5 grand kids.
 ---
 ## History
 
-UKMac.net has been around in many versions and using many web publishing systems since around 2005.
+[UKMac.net](https://ukmac.net) has been around in many versions and using many web publishing systems since around 2005.
 
 My interest in Macs goes back before the beginning of this site but really took off when I bought my first 17" G5 iMac.
 

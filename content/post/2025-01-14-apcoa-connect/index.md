@@ -1,11 +1,10 @@
 ---
 title: Harvesting my data....
 description: Another example of crappy car park apps...
-date: "2015-04-30T00:00:00Z"
+date: "2025-01-14T00:00:00Z"
 image: apcoa.jpg
 categories:
     - Daily Post
-draft: false
 ---
 Car parking payment apps are the worst... 
 

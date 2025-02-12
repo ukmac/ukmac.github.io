@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on UKmac.net - Apple news, tech views</title><link>/page/</link><description>Recent content in Pages on UKmac.net - Apple news, tech views</description><generator>Hugo - gohugo.io</generator><language>en</language><lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/page/feed.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>/hello/</link><pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate><guid>/hello/</guid><description>&lt;p>Hello, I&amp;rsquo;m Scott Paterson.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on UKmac.net - Apple news, tech views</title><link>https://ukmac.net/page/</link><description>Recent content in Pages on UKmac.net - Apple news, tech views</description><generator>Hugo - gohugo.io</generator><language>en</language><lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ukmac.net/page/feed.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>https://ukmac.net/hello/</link><pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate><guid>https://ukmac.net/hello/</guid><description>&lt;p>Hello, I&amp;rsquo;m Scott Paterson.&lt;/p>
 &lt;p>Here is how I prefer to keep in touch, and why:&lt;/p>
 &lt;ul>
 &lt;li>My favourite way to converse is &lt;a class="link" href="mailto://scott@ukmac.net" >email&lt;/a>.&lt;/li>
@@ -20,7 +20,7 @@
 &lt;li>&lt;/li>
 &lt;/ul>
 &lt;p>This is an example of a &lt;a class="link" href="https://alastairjohnston.com/introducing-hello-pages/" target="_blank" rel="noopener"
->Hello&lt;/a> page an idea by Alastair Johnston. I liked his template and this is mine&amp;hellip;&lt;/p></description></item><item><title>About</title><link>/about/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="now">Now&lt;/h2>
+>Hello&lt;/a> page an idea by Alastair Johnston. I liked his template and this is mine&amp;hellip;&lt;/p></description></item><item><title>About</title><link>https://ukmac.net/about/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>https://ukmac.net/about/</guid><description>&lt;h2 id="now">Now&lt;/h2>
 &lt;p>This is my &lt;a class="link" href="https://nownownow.com/about" target="_blank" rel="noopener"
 >now page&lt;/a>. What I am doing right now(ish)&lt;/p>
 &lt;p>My name is Scott Paterson and I am an IT manager currently working for one of the UK&amp;rsquo;s largest social care providers.&lt;/p>
@@ -44,13 +44,13 @@
 &lt;p>&lt;a class="link" href="https://ukmac.net" target="_blank" rel="noopener"
 >UKMac.net&lt;/a> has been around in many versions and using many web publishing systems since around 2005.&lt;/p>
 &lt;p>My interest in Macs goes back before the beginning of this site but really took off when I bought my first 17&amp;quot; G5 iMac.&lt;/p>
-&lt;p>&lt;img src="/about/g5imac.jpg"
+&lt;p>&lt;img src="https://ukmac.net/about/g5imac.jpg"
 width="640"
 height="480"
-srcset="/about/g5imac_hu88303a0bd6ae74c29019b11c55de1ba2_75076_480x0_resize_q75_box.jpg 480w, /about/g5imac_hu88303a0bd6ae74c29019b11c55de1ba2_75076_1024x0_resize_q75_box.jpg 1024w"
+srcset="https://ukmac.net/about/g5imac_hu88303a0bd6ae74c29019b11c55de1ba2_75076_480x0_resize_q75_box.jpg 480w, https://ukmac.net/about/g5imac_hu88303a0bd6ae74c29019b11c55de1ba2_75076_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
 alt="My first G5 iMac"
 class="gallery-image"
 data-flex-grow="133"
 data-flex-basis="320px"
->&lt;/p></description></item><item><title>Links</title><link>/links/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>/links/</guid><description/></item><item><title>RSS Feeds</title><link>/rss/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>/rss/</guid><description>&lt;p>Text content to be shown on the page.&lt;/p></description></item><item><title>Search</title><link>/search/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>/search/</guid><description/></item><item><title>Archives</title><link>/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>/archives/</guid><description/></item></channel></rss>
+>&lt;/p></description></item><item><title>Links</title><link>https://ukmac.net/links/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>https://ukmac.net/links/</guid><description/></item><item><title>RSS Feeds</title><link>https://ukmac.net/rss/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>https://ukmac.net/rss/</guid><description>&lt;p>Text content to be shown on the page.&lt;/p></description></item><item><title>Search</title><link>https://ukmac.net/search/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>https://ukmac.net/search/</guid><description/></item><item><title>Archives</title><link>https://ukmac.net/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://ukmac.net/archives/</guid><description/></item></channel></rss>

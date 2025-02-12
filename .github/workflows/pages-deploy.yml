@@ -31,7 +31,8 @@ jobs:
       run: sudo snap install dart-sass
 
     - name: Build site
-      run: hugo --minify
+      run: hugo --minify  --baseURL "${{ steps.pages.outputs.base_url }}/"  
+      
 
     - name: List public directory contents
       run: ls -la ./public

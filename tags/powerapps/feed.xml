@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PowerApps on UKmac.net - Apple news, tech views</title><link>/tags/powerapps/</link><description>Recent content in PowerApps on UKmac.net - Apple news, tech views</description><generator>Hugo - gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/powerapps/feed.xml" rel="self" type="application/rss+xml"/><item><title>Add attachments in PowerApps</title><link>/p/add-attachments-in-powerapps/</link><pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate><guid>/p/add-attachments-in-powerapps/</guid><description>&lt;p>This Microsoft guide explains how to add attachments in a PowerApps form to a Sharepoint list.&lt;/p>
+&lt;p>&lt;a class="link" href="https://powerapps.microsoft.com/en-us/blog/add-attachments-to-sharepoint-lists/" target="_blank" rel="noopener"
+>Add attachments to SharePoint lists&lt;/a>&lt;/p></description></item><item><title>Powershell connection from MFA Account</title><link>/p/powershell-connection-from-mfa-account/</link><pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate><guid>/p/powershell-connection-from-mfa-account/</guid><description>&lt;p>This is a Microsoft guide I need to use fairly regularly ! Wish connection to Exchange Online and Sharepoint Online from Powershell was a little easier to configure.&lt;/p>
+&lt;p>Interestingly when I tried this today if I ran Connect-EXOPSSesion with parameter for my UPN it didn&amp;rsquo;t seem to work. If instead just ran the command with no parameters the standard login dialog appeared fine and I could enter my email address and authenticate with my Authenticator app ! Odd one&amp;hellip;&lt;/p>
+&lt;p>via
+&lt;a class="link" href="https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell?view=exchange-ps" target="_blank" rel="noopener"
+>Connect to Exchange Online PowerShell using multi-factor authentication | Microsoft Docs&lt;/a>&lt;/p>
+&lt;h2 id="powerapps">PowerApps&lt;/h2>
+&lt;p>I definitely need to come back to this one ! One of the tips here is to enable permissions to Sharepoint lists for PowerApps. The bit I need for my current project is to enable row level permissions so that users can only see entries they created. Very useful tip..&lt;/p>
+&lt;p>via
+&lt;a class="link" href="https://www.sharepointeurope.com/3-tips-need-know-using-powerapps-forms-sharepoint-lists/" target="_blank" rel="noopener"
+>3 tips you need to know when using PowerApps forms on SharePoint lists - European SharePoint, Office 365 &amp;amp; Azure Conference, 2019, Prague, Czech Republic&lt;/a>&lt;/p>
+&lt;p>ARGHH !&lt;/p>
+&lt;p>So I have created an app that uses the AzureAD connector to find the logged in users account details (Office location) only to find that when deploying this app to actual users ( who aren&amp;rsquo;t Azure AD admins ) it doesn&amp;rsquo;t work ! The user needs admin rights to query AzureAD so the connector is effectively no good for what I want to use it for.. Ah well.. Back to the Drawing board ! See article below for more.&lt;/p>
+&lt;p>via
+&lt;a class="link" href="https://powerusers.microsoft.com/t5/Connectors/Issue-with-Azure-AD-Connector/td-p/66322" target="_blank" rel="noopener"
+>Solved: Issue with Azure AD Connector - Power Platform Community&lt;/a>&lt;/p></description></item><item><title>Sunday 28 July 2019</title><link>/p/sunday-28-july-2019/</link><pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate><guid>/p/sunday-28-july-2019/</guid><description>&lt;h2 id="powerapps">PowerApps&lt;/h2>
+&lt;p>So I am making some progress with learning PowerApps and have the start of a new app for the charity to use. Just came across this resource which will be worth having a look through, a showcase for what others have done with PowerApps&lt;/p>
+&lt;p>&lt;a class="link" href="https://powerusers.microsoft.com/t5/Community-Apps-Gallery/bd-p/AppFeedbackGallery" target="_blank" rel="noopener"
+>Community Apps Gallery - Power Platform Community&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference" target="_blank" rel="noopener"
+>A useful quick link  to the PowerApps function reference on Microsoft Docs&lt;/a>&lt;/p></description></item></channel></rss>

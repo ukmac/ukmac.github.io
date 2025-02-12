@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daily Post on UKmac.net - Apple news, tech views</title><link>/categories/daily-post/</link><description>Recent content in Daily Post on UKmac.net - Apple news, tech views</description><generator>Hugo - gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/daily-post/feed.xml" rel="self" type="application/rss+xml"/><item><title>Harvesting my data....</title><link>/p/harvesting-my-data..../</link><pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate><guid>/p/harvesting-my-data..../</guid><description>&lt;img src="/p/harvesting-my-data..../apcoa.jpg" alt="Featured image of post Harvesting my data...." />&lt;p>Car parking payment apps are the worst&amp;hellip; Or at least most of them are.&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.apcoaconnect.com" target="_blank" rel="noopener"
+>APCOA Connect&lt;/a> is the latest example of crapware that I was required to register with earlier today. Arriving in &lt;a class="link" href="https://en.wikipedia.org/wiki/Letchworth" target="_blank" rel="noopener"
+>Letchworth&lt;/a> for business the only suitable car park I could find was outside the train station. After squeezing into the remaining space I then spent 10 minutes downloading and registering the APCOA Connect app in order to pay for the overnight parking.&lt;/p>
+&lt;p>Aside from the truly awful UI, the app requires you to provide address details &lt;strong>AND&lt;/strong> payment card details &lt;strong>before&lt;/strong> you are finally allowed to see the Apple Pay option ! There was no link or indication that Apple Pay is available until you have already provided APCOA with your personal details. I was spitting feathers&amp;hellip; The trouble is what option do you have. The payment terminal was of course broken so the only way to pay is to use their crappy app. They have you over a barrel.&lt;/p>
+&lt;p>Unfortunately this sort of experience seems to be common place with car parking apps. I have come across a couple of apps that make parking quick and easy but these seem to be the exception not the rule. I suspect I am not alone in a loathing of this category of app ? What are your thoughts/experiences ?&lt;/p></description></item><item><title>macOS Calendar sync annoyances</title><link>/p/macos-calendar-sync-annoyances/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>/p/macos-calendar-sync-annoyances/</guid><description>&lt;img src="/p/macos-calendar-sync-annoyances/exchange.png" alt="Featured image of post macOS Calendar sync annoyances" />&lt;p>Came across this annoying bug with Calendar sync on macOS today. I use the excellent utility &lt;a class="link" href="https://apps.apple.com/gb/app/dato/id1470584107?mt=12" target="_blank" rel="noopener"
+>Dato&lt;/a> on my MacBook to ensure I don&amp;rsquo;t miss any meetings, but this afternoon I noticed a meeting in my Outlook calendar that wasn&amp;rsquo;t appearing in Dato.&lt;/p>
+&lt;p>At first I assumed this was a repeat of an occasional issue I have run into where my Exchange calendar just decides to stop syncing with my Calendar so I went through the normal &amp;ldquo;fix&amp;rdquo; of removing my Exchange account from Settings/Accounts and re-adding it. The trouble is this didn&amp;rsquo;t fix the issue, the missing appointment was still missing.&lt;/p>
+&lt;p>The difference with this appointment though was that it was booked into my calendar using the Microsoft Bookings app. This it seems is the issue. After a bunch of digging I came across &lt;a class="link" href="https://feedbackportal.microsoft.com/feedback/idea/e085dfaf-d5f4-ed11-a81c-000d3a7a48db" target="_blank" rel="noopener"
+>this entry on Microsoft Feedback&lt;/a> which explains that the issue is with Bookings entries not syncing correct with EWS (Exchange Web Services) which is the older mechanism for calendar sync still used by macOS. Apparently this issue only affects macOS and not iOS (the missing entry appears correctly in the Calendar app on my iPhone)&lt;/p>
+&lt;p>I have added my vote on Microsoft Feedback for this to be resolved for what its worth, though I do wonder if the better solution would be for Apple to upgrade Calendar sync in macOS to use Exchange ActiveSync (EAS) which works correctly on iOS ?&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://feedbackportal.microsoft.com/feedback/idea/e085dfaf-d5f4-ed11-a81c-000d3a7a48db" target="_blank" rel="noopener"
+>Microsoft Feedback&lt;/a>&lt;/td>
+&lt;td>Events booked with Bookings need to show up in Calendar.app on macOS&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Scarborough</title><link>/p/scarborough/</link><pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate><guid>/p/scarborough/</guid><description>&lt;img src="/p/scarborough/yorksmoors.jpg" alt="Featured image of post Scarborough" />&lt;p>I am in Scarborough today for a site visit to one of our new services to spec out the requirements for their network. I arrived last night after a four hour drive and will probably be on site for half an hour today before starting the return four hour drive home. A long way for a short visit but better to see the site in person than to try and design the network from plans.&lt;/p>
+&lt;p>It was a nostalgic drive through York/Malton and the North Yorks Moors through which I have driven many times in the past. I love this part of the country, the villages are all very pretty and the landscape is rugged and open (and harsh in the winter).&lt;/p>
+&lt;p>My tooth ache is still really bad today, thankfully I have an appointment tomorrow afternoon so hopefully I will get it fixed and I can get rid of this nagging pain. To be honest I am dreading the actual dentist visit but at this point the thought of short term pain while the dentist gets in and sorts it outweighs the fear of the event itself.&lt;/p></description></item><item><title>Dudmaston day out</title><link>/p/dudmaston-day-out/</link><pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate><guid>/p/dudmaston-day-out/</guid><description>&lt;img src="/p/dudmaston-day-out/dudmaston.jpg" alt="Featured image of post Dudmaston day out" />&lt;p>Today we had a day at our local &lt;a class="link" href="https://www.nationaltrust.org.uk/" target="_blank" rel="noopener"
+>National Trust&lt;/a> property, &lt;a class="link" href="https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/dudmaston" target="_blank" rel="noopener"
+>Dudmaston Hall&lt;/a>. The weather was pleasant for a change and combined with the Easter Holidays it meant that the grounds and the house were pretty busy.&lt;/p>
+&lt;p>&lt;img src="/p/dudmaston-day-out/hallgrounds.jpg"
+width="1200"
+height="900"
+srcset="/p/dudmaston-day-out/hallgrounds_hudf71c8dbbb328c0b24a1344bad0cb039_246821_480x0_resize_q75_box.jpg 480w, /p/dudmaston-day-out/hallgrounds_hudf71c8dbbb328c0b24a1344bad0cb039_246821_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Spring blossoms"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p></description></item><item><title>Easter Sunday - New MacBook</title><link>/p/easter-sunday-new-macbook/</link><pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate><guid>/p/easter-sunday-new-macbook/</guid><description>&lt;img src="/p/easter-sunday-new-macbook/macbookair.jpg" alt="Featured image of post Easter Sunday - New MacBook" />&lt;h2 id="new-macbook-day">New Macbook day&lt;/h2>
+&lt;p>After much deliberation I finally ordered a new M3 MacBook Air from Amazon last week after I spotted a &lt;a class="link" href="https://amzn.to/49qxNcA" target="_blank" rel="noopener"
+>16Gb/512Gb version going for £100 off list price&lt;/a>. I am not sure why this model was available as Amazon typically only have the 8Gb versions available. There was only one colour available, Starlight, but for the reduction in price I decided I could live with something other than Space Grey for a change.&lt;/p>
+&lt;p>I was given Tuesday 26th as the delivery date but after waiting all day for a delivery up to 10pm the status of my order was changed to &amp;ldquo;We will email you when we have a delivery date&amp;rdquo;. This was more than a little disappointing. I waited a couple of days before contacting Amazon for an update and after a brief call I was told it would be with me this week but no precise date was given. I was surprised then to get an update on Friday morning to say it had been despatched and would be with me by 7pm, it arrived safely around 5pm.&lt;/p>
+&lt;p>I have been a happy owner of a 16&amp;quot; M1 MacBook Pro (which I upgraded to from an original M1 MacBook Air with 8Gb) for the last couple of years and really didn&amp;rsquo;t &lt;strong>need&lt;/strong> an upgrade but I longed for something a little more portable than the 16&amp;quot; which is a wonderful powerful laptop but not exactly featherweight. Practically I am hopeful that the M3 Air will deliver similar performance to my Pro in a much more lightweight package, especially as my workload doesn&amp;rsquo;t involve a lot of processor heavy applications. I am also hoping that the second hand re-sale value of the MacBook Pro will pretty much cover the cost of the brand new Air.&lt;/p>
+&lt;p>I have had a couple of days with the new Air now and have mostly got things setup how I like them again and as expected it really feels no different to the Pro apart from when I pick it up from the desk to take it to another room. I don&amp;rsquo;t travel too much these days so carrying any distance is not a big issue but sitting with it on my lap feels so much more comfortable than the the 16&amp;quot; Pro.&lt;/p>
+&lt;h3 id="essential-apps">Essential apps&lt;/h3>
+&lt;p>For info the list of essential apps I have re-installed include :-&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.raycast.com/" target="_blank" rel="noopener"
+>Raycast&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.keyboardmaestro.com/main/" target="_blank" rel="noopener"
+>Keyboard Maestro&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://espanso.org/" target="_blank" rel="noopener"
+>Espanso&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://binarynights.com/" target="_blank" rel="noopener"
+>Forklift&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://code.visualstudio.com/Download" target="_blank" rel="noopener"
+>Visual Studio Code&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://obsidian.md" target="_blank" rel="noopener"
+>Obsidian&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://sindresorhus.com/dato" target="_blank" rel="noopener"
+>Dato&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://shottr.cc/" target="_blank" rel="noopener"
+>Shottr&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://readkit.app/" target="_blank" rel="noopener"
+>Readkit&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Dimillian/IceCubesApp" target="_blank" rel="noopener"
+>IceCubes for Mastodon&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="obsidian-sync">Obsidian Sync&lt;/h2>
+&lt;p>One of the other things I have been changing in the last month is my &lt;a class="link" href="https://obsidian.md" target="_blank" rel="noopener"
+>Obsidian&lt;/a> setup. Obsidian is an application that I have been trying to use for a long time but one of the main things that prevented my adoption was the fact that I wanted to be able to sync across Windows, macOS and iOS. Of course the simple answer to this would have been to subscribe to the &lt;a class="link" href="https://obsidian.md/sync" target="_blank" rel="noopener"
+>Obsidian Sync service&lt;/a> but I was loathe to start another subscription especially as I had yet to fully develop an essential workflow that relied on Obsidian.&lt;/p>
+&lt;p>Its fair to say that I am one of those types who prefer the configuration and setup of systems to actually using them and have tried and failed to make every type of note taking system and tool work for me. Having said that I have watched endless videos on note taking tools and Obsidian is the one that I have always thought &lt;strong>should&lt;/strong> be able to serve my needs well.&lt;/p>
+&lt;p>Prior to this month I had been using the &lt;a class="link" href="https://github.com/denolehov/obsidian-git" target="_blank" rel="noopener"
+>Obsidian Git plugin&lt;/a> with a reasonable amount of success, but have had numerous instances of sync issues caused by opening my vault on my MacBook and iPhone or iPad when there were uncommitted changes which then required command line tinkering to rollback changes. This sort of irritation is a big negative factor in adopting a smooth workflow as you will appreciate, so last month I finally submitted to another subscription and signed up to the entry level $4 a month plan.&lt;/p>
+&lt;p>The impact was immediate. Sync now just works including plugin installations and configuration settings which didn&amp;rsquo;t sync at all with my Git based solution which meant I was constantly making changes to multiple devices to keep plugin settings synchronised.&lt;/p>
+&lt;p>I am very happy with this setup at the moment and will continue with it for a few months on the monthly plan and if it looks like becoming a permenant part of my toolbox I will sign up for the annual plan to save a few quid. If you havent tried it yet and have been testing across multiple devices with Git or iCloud sync then I would definitely recommend setting up a monthly Obsidian Sync
+subscription for a month or two to test it out.&lt;/p></description></item><item><title>58 years young</title><link>/p/58-years-young/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>/p/58-years-young/</guid><description>&lt;img src="/p/58-years-young/lilleshall.jpg" alt="Featured image of post 58 years young" />&lt;p>12th Jan means my birthday and another year under the bridge of life&amp;hellip;&lt;/p>
+&lt;p>Today started with a walk to the Hundred Acre Kitchen for coffee and sausage and egg sandwiches with Vel. This evening we are going to the Red House for more food and probably a few drinks too. Tomorrow I am going to need to get on the bike and start the training for the &lt;a class="link" href="https://ukmac.net/p/planning-rides-for-2024/" target="_blank" rel="noopener"
+>coming 100k&lt;/a> in June. I am still recovering from the cough and cold I developed after New Years so will probably need to take it easy but half an hour on Zwift should really be the minimum. With work as it has been recently finding half an hour at lunch time has been a non-starter for a while so my weekly mileage has dropped right down.&lt;/p>
+&lt;p>Today is the launch of &lt;a class="link" href="https://tv.apple.com/us/movie/killers-of-the-flower-moon/umc.cmc.5x1fg9vferlfeutzpq6rra1zf" target="_blank" rel="noopener"
+>Killers of the Flower Moon&lt;/a> on Apple TV+ which I have been looking forward to watching for a while. Not sure I will find the time this weekend but its definitely on the list to see.&lt;/p>
+&lt;p>I have gone back to dabbling with Obsidian again, this time I have setup the Github plugin to sync to my Github account and so far its working great. I have setup on my iPhone and iPad and all are syncing nicely (for the most part, I have had a couple of issues but nothing major). I have not tried the pay-for Obsidian sync service and would expect it is considerably slicker than the process for setting up Github sync but at £8 a month the price is a little high for my needs.&lt;/p>
+&lt;p>I will continue testing and see how I get on.&lt;/p></description></item><item><title>Webcam draining my battery</title><link>/p/webcam-draining-my-battery/</link><pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate><guid>/p/webcam-draining-my-battery/</guid><description>&lt;img src="/p/webcam-draining-my-battery/macbook.jpg" alt="Featured image of post Webcam draining my battery" />&lt;p>Tinkering today and I noticed that while my MacBook is asleep with power off the battery is draining pretty quickly. I have to admit that I did spot this a while ago but clearly didn&amp;rsquo;t do anything to trace the issue or try to resolve it. Today I am going to run a test and will disconnect my USB hub when I go out and see if this is what is causing the drain. I am fairly sure this will be it as one of the things I noticed was that my external webcam that sits on top of my main monitor was warm today even though my MacBook was still off. Hopefully this will fix it.&lt;/p>
+&lt;p>Another horrific day weather-wise here in the UK. Rain is currently hammering on my study window and the sky is a uniform grey.&lt;/p>
+&lt;p>2023 was a pretty slow year for my cycling adventures. I only managed one 100k+ ride to Ellesmere Lakes in June. This year I am hoping to do a bit more than that and have been researching organised events that I might be able to sign up for. &lt;a class="link" href="https://www.timeoutdoors.com/events/bike-rides/west-midlands" target="_blank" rel="noopener"
+>TimeOutdoors&lt;/a> has a number of events in the West Mids starting in April and running through to September listed on their site, a couple look like they might be worth signing up for.&lt;/p>
+&lt;!-- html codes here-->
+&lt;div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9344134076">&lt;/div>&lt;script src="https://strava-embeds.com/embed.js">&lt;/script>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.timeoutdoors.com/events/bike-rides/west-midlands" target="_blank" rel="noopener"
+>TimeOutdoors&lt;/a>&lt;/td>
+&lt;td>Cycling events in the West Midlands for 2024&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://ijunkie.com/slowiphonesyncs/" target="_blank" rel="noopener"
+>iJunkie&lt;/a>&lt;/td>
+&lt;td>Link to an old article I wrote that was the only time I was ever linked to from Daringfireball.net&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.theverge.com/2023/12/28/24016913/apple-patent-dispute-masimo-lagemo-true-wearables" target="_blank" rel="noopener"
+>The Verge&lt;/a>&lt;/td>
+&lt;td>The Verge summary of the current dispute between Apple and Masimo over Apple Watch patent infringement&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Xmas Hols</title><link>/p/xmas-hols/</link><pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate><guid>/p/xmas-hols/</guid><description>&lt;p>After all the effort and cost another christmas is now all but done and before you know it we will all be back at our desks into another year of work. Feeling over indulged I am starting to think about new years resolutions and in particular how to get back to regular exercise. The last few months of this year have been challenging and it has been hard to find time between the endless Teams calls to get out of the office. Intentions of 30 mins on Zwift at lunch time have very often fallen by the wayside.&lt;/p>
+&lt;p>The answer will be to learn to set standards and to say no. No when someone puts a meeting in my diary that I didn&amp;rsquo;t previously agree to. No to dealing with urgent emails that can be dealt with after a break from the desk. No to taking on others issues to try to do the best for the service. Having said all that I do accept that this is difficult to do, I should know I have been trying for years.&lt;/p>
+&lt;p>This is my first post for nearly two months and another potential target for a resolution. Finding time to learn new stuff and to document that new knowledge needs to be higher on my agenda. Over the last couple of days I have started on this. I am trying to learn to touch type, which is REALLY hard after a near life time of typing very badly. Unlearning a life time of bad habits doesn&amp;rsquo;t come easily and will take some practice.&lt;/p>
+&lt;p>I am typing this post on an old laptop that I have installed Linux Mint 21.2 onto. Previously this laptop was running &lt;a class="link" href="https://pop.system76.com/" target="_blank" rel="noopener"
+>Pop OS!&lt;/a> and for a short time &lt;a class="link" href="https://vanillaos.org" target="_blank" rel="noopener"
+>Vanilla OS&lt;/a>. As usual I am using &lt;a class="link" href="https://code.visualstudio.com/Download" target="_blank" rel="noopener"
+>VS Code&lt;/a> as my editor and Microsoft Edge as my main browser. With this setup Linux is really not substantially different to Windows or macOS for my main uses. Most of my day is spent in Office web apps (Outlook, Teams) and I can function pretty normally on any modern OS as long as I can install Edge and a few extensions (Bitwarden, Raindrop.io etc).&lt;/p></description></item><item><title>Home Office Update</title><link>/p/home-office-update/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>/p/home-office-update/</guid><description>&lt;img src="/p/home-office-update/office1.jpg" alt="Featured image of post Home Office Update" />&lt;p>Finished sorting my office today and am really happy with how it looks now. I spend a lot of time in here so its important for me that I have a nice environment to work in. The addition of a few led light strips and a clear out of some of the clutter has improved the aesthetic considerably I think.&lt;/p>
+&lt;p>&lt;img src="/p/home-office-update/office2.jpg"
+width="640"
+height="480"
+srcset="/p/home-office-update/office2_hu0eae5f6baa90907b86bf98801c9435cd_81684_480x0_resize_q75_box.jpg 480w, /p/home-office-update/office2_hu0eae5f6baa90907b86bf98801c9435cd_81684_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>
+&lt;img src="/p/home-office-update/office3.jpg"
+width="640"
+height="480"
+srcset="/p/home-office-update/office3_huc7c7738a50f47b47f1cc007be8e42c50_85301_480x0_resize_q75_box.jpg 480w, /p/home-office-update/office3_huc7c7738a50f47b47f1cc007be8e42c50_85301_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>
+&lt;img src="/p/home-office-update/office4.jpg"
+width="480"
+height="640"
+srcset="/p/home-office-update/office4_hu5a9c6d2090cc2f2f1ebbc82a29b88701_65460_480x0_resize_q75_box.jpg 480w, /p/home-office-update/office4_hu5a9c6d2090cc2f2f1ebbc82a29b88701_65460_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;p>I have included a link to my standing desk frame below. I procrastinated over getting a standing desk for months and now I have one I wish I hadn&amp;rsquo;t. I find that I spend at least half my working day standing now and feel much better for it. If you are sitting on the fence (or your desk chair) debating if you should move to a standing desk I would definitely recommend doing it. If you can re-use your existing desktop as I did the cost is pretty reasonable (this one was aroound £170). Do it, your back will thank you later.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://replay.software/sleeve" target="_blank" rel="noopener"
+>Sleeve&lt;/a>&lt;/td>
+&lt;td>Sleeve is a stylish now playing app that fills the gap left by Apple not providing a widget for the Apple Music app in macOS Sonoma. Sleeve is a paid app rather than a subscription and costs around £6 in UK. It can also share you played tracks to your Last.fm account.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.amazon.co.uk/dp/B08CN9JVZS?ref=ppx_yo2ov_dt_b_product_details&amp;amp;amp;th=1&amp;amp;_encoding=UTF8&amp;amp;tag=muxtoncom-21&amp;amp;linkCode=ur2&amp;amp;linkId=582a9e970bfc42ad12f97200de8aa650&amp;amp;camp=1634&amp;amp;creative=6738" target="_blank" rel="noopener"
+>MAIDeSITe Height Adjustable Electric Standing Desk Frame&lt;/a>&lt;/td>
+&lt;td>This standing desk frame is the one I recently bought to replace my static desk. Not expensive and highly recommended if you want a solid standing desk frame.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.amazon.co.uk/dp/B0B1JQYVMT?psc=1&amp;amp;amp;ref=ppx_yo2ov_dt_b_product_details&amp;amp;_encoding=UTF8&amp;amp;tag=muxtoncom-21&amp;amp;linkCode=ur2&amp;amp;linkId=2c1eac90e6f42f23b00c4661d328285c&amp;amp;camp=1634&amp;amp;creative=6738" target="_blank" rel="noopener"
+>USB COB Led Strip&lt;/a>&lt;/td>
+&lt;td>USB lighting strip providing lights behind cabinets in my office&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Morning Run (4 miles) - Scary Fast</title><link>/p/morning-run-4-miles-scary-fast/</link><pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate><guid>/p/morning-run-4-miles-scary-fast/</guid><description>&lt;img src="/p/morning-run-4-miles-scary-fast/scary-fast.png" alt="Featured image of post Morning Run (4 miles) - Scary Fast" />&lt;h2 id="morning-run">Morning Run&lt;/h2>
+&lt;p>First longish run for a long time this morning. Dropped Vel&amp;rsquo;s car at the garage for a service then run home. Felt pretty slow but looking at the total time and distance it actually wasn&amp;rsquo;t too bad. I enjoy running when I am doing it regularly and I can get to a decent pace without feeling like my lungs are going to burst but to get to that usually means a prolonged period of regular runs and at the moment I am not getting out often enough. Oddly running is something I tend to find I do more of in the winter, I find running in the hot weather uncomfortable and would much rather be cycling through the lanes for exercise in the Summer. The big benefit of running though is that 30-45 mins gets me the same benefit as a much longer day in the saddle so fitting into the family life schedule is generally easier.&lt;/p>
+&lt;!-- html codes here-->
+&lt;div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10134903273">&lt;/div>&lt;script src="https://strava-embeds.com/embed.js">&lt;/script>
+&lt;h2 id="scary-fast">Scary Fast&lt;/h2>
+&lt;p>As predicted the Halloween Apple Event happened last night was all about the M3 processor laucnch in new versions of the MacBook Pro. The M3 is another incremental improvement over the previous generations Apple Silicon so it was interesting that most of the performance comparisons that Apple made during the event were between the M1 and M3 processors rather than between M2 and M3.&lt;/p>
+&lt;p>I suppose the point of making this comparison is to encourage early Apple Silicon adopters who are on M1 machines to upgrade even though for most users those M1 based Macs are still going to be fine for almost all uses. This is also why the event repeatedly referred to high end/power users. Its very clear the M3 Pro MacBooks are targetted to heavy users (video, simulation, audio production etc). This will be a challenge for Apple moving forward. Whilst two year iPhone upgrades cycles are commonplace for many users MacBooks and Macs tend to be on longer upgrade cycles and the new Apple Silicon Macs are SO fast and powerful this cycle will potentially be able to stretch even longer. I know for me the ugrade of my current M1 MacBook Pro is likely to be some time away.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://bunchapp.co/" target="_blank" rel="noopener"
+>Bunch&lt;/a>&lt;/td>
+&lt;td>Bunch is another great tool from &lt;a class="link" href="https://brettterpstra.com/" target="_blank" rel="noopener"
+>Brett Terpstra&lt;/a> that uses a plain text config file to define bunches of apps that can be lauched together from a simple menu. Think of the contexts of how you use your Mac (work, home, play) and the common apps that you use in each context, Bunch makes launching and closing apps to get you from one context to another simple.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>A short break from work..</title><link>/p/a-short-break-from-work../</link><pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate><guid>/p/a-short-break-from-work../</guid><description>&lt;img src="/p/a-short-break-from-work../2023-10-30-zwift.jpg" alt="Featured image of post A short break from work.." />&lt;p>I am taking a few days leave for half term this week so today was busy busy busy&amp;hellip;&lt;/p>
+&lt;p>This morning started with a quick ride on stage 5 of Tour of Watopia (Canopies and Coastlines). This route started with the Titans Grove KOM reverse before taking in the new Watopia coastal road and finally ending at Sasquatch Sprint all in just over 28km and about 245m of climbing. A nice route made nicer by having the garage door open to let some Autumn sunshine in.&lt;/p>
+&lt;!-- html codes here-->
+&lt;div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10129684908">&lt;/div>&lt;script src="https://strava-embeds.com/embed.js">&lt;/script>
+&lt;p>Ride out of the way and onto chores, hopefully the last grass cut of the year followed by cleaning the roof panels from the gazebo ready to be stored away for the winter. Later in the afternoon when the clouds opened with a torrential downpour I was pretty glad I chose the morning to get these jobs sorted.&lt;/p>
+&lt;p>The afternoon was then spent in my office, sorting out shelving, listening to music and organising cabling ( a favourite pastime of mine ) on my new standing desk. Tomorrow I have some LED light strips coming from Amazon that I am going to use to brighten the office space a bit so part of Tuesday is already planned&amp;hellip;&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://sergii.tatarenkov.name/keyclu/support/" target="_blank" rel="noopener"
+>Keyclu&lt;/a>&lt;/td>
+&lt;td>Simple and handy overview of applications shortcuts. Press Command key twice and hold to display the keyboard shortcuts available for the current application.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://apps.apple.com/gb/app/dropzone-4/id1485052491?mt=12" target="_blank" rel="noopener"
+>Dropzone 4&lt;/a>&lt;/td>
+&lt;td>A menu bar utility to make copy/paste between apps easier. Great if you use Stage Manager&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Bing Black Hole</title><link>/p/bing-black-hole/</link><pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate><guid>/p/bing-black-hole/</guid><description>&lt;p>Over my years working in IT I have enjoyed dabbling with building web sites, starting way back in the early days with Dreamweaver through the early days of Wordpress, Drupal and a few other CMS&amp;rsquo;s and more recently with static site generators such as Jekyll and finally Hugo which this site is currently using (in September 2023).&lt;/p>
+&lt;p>During this time I have always managed to get my sites indexed with Google so the random posts I created could be found, if only by me, but my latest iteration of ukmac.net seems to be unwanted by Google and more particularly with Bing. Google has a few odd pages indexed at the moment out of the approx 200 pages in this site but Bing stubbornly refuses to index any of the site and so as far as searches on Bing is concerned ukmac.net may as well not exist.&lt;/p>
+&lt;p>This is something I have been trying to fix for the last few weeks without any real progress and the more I dig the more I find other web site owners, some with much more popular sites than mine, who are also experiencing the same issues. What I can&amp;rsquo;t tell is why Bing seems to dislike my site. Microsoft have a &lt;a class="link" href="https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a" target="_blank" rel="noopener"
+>set of guidelines&lt;/a> which supposedly tell site owners how to fix issues getting their sites indexed but they really don&amp;rsquo;t help much.&lt;/p>
+&lt;p>&lt;img src="/p/bing-black-hole/notcrawled.jpg"
+width="2040"
+height="1392"
+srcset="/p/bing-black-hole/notcrawled_hue328b3e03f9eba8850c61b7f9c8e4c08_163288_480x0_resize_q75_box.jpg 480w, /p/bing-black-hole/notcrawled_hue328b3e03f9eba8850c61b7f9c8e4c08_163288_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Discovered not crawled"
+class="gallery-image"
+data-flex-grow="146"
+data-flex-basis="351px"
+>&lt;/p>
+&lt;p>Any site owners experiencing this issue will be very familiar with the screen shot above which is the error received in the Bing Webmaster Tools site when you run a URL Inspection against your site.&lt;/p>
+&lt;p>The odd and very frustrating thing with this is that if you select the Live URL view at the top of the URL Inspection screen you will likely see something like this&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="/p/bing-black-hole/liveurl.jpg"
+width="2040"
+height="1392"
+srcset="/p/bing-black-hole/liveurl_hue328b3e03f9eba8850c61b7f9c8e4c08_108929_480x0_resize_q75_box.jpg 480w, /p/bing-black-hole/liveurl_hue328b3e03f9eba8850c61b7f9c8e4c08_108929_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="URL Can be indexed"
+class="gallery-image"
+data-flex-grow="146"
+data-flex-basis="351px"
+>&lt;/p>
+&lt;p>The issue is the &amp;ldquo;quality checks&amp;rdquo; that it refers to that I assume my site is failing are not detailed anywhere. How do you know what needs fixing ? Read the webmasters guidelines apparently but this doesnt help to show which ones your site is failing on.&lt;/p>
+&lt;p>Last night I found a forum post which suggested emailing Bing webmaster tech support on &lt;a class="link" href="mailto:bwtsupport@microsoft.com" >bwtsupport@microsoft.com&lt;/a> for advice. I wasn&amp;rsquo;t convinced I would get a reply but thought there was nothing lost in trying this. Amazingly I got a reply within an hour with a case number and even more amazingly within another 9 hours I had a reply from a real person. The response explained that the case had been investigated and my site had been manually checked and that I had been found to be in violation of the Bing Webmaster Guidelines and as such my site would not be indexed and I was referred to check out the guidelines for help in resolving the issue. Great. IF they would tell me what the issue was ?&lt;/p>
+&lt;p>At this point I am sort of losing the will to carry on with this. I&amp;rsquo;m sure there are people out there who can assist with this and perhaps most of them would suggest my site is not worth Bing indexing it, and they may be right, but my techie self is still annoyed and frustrated at being beaten by this.&lt;/p>
+&lt;p>To be honest, I think I will continue to dabble with this site despite the lack of traffic due to being in a black hole. The site itself I think looks better than it has done before and site building with Hugo is teaching me a lot about Git, Visual Studio Code and Markdown which is something.&lt;/p>
+&lt;p>In the meantime if any web gurus do happen across my site and can shed any light or offer any advice on how to get indexed by Bing I would be very grateful to hear from you.&lt;/p>
+&lt;h2 id="useful-links">Useful Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a" target="_blank" rel="noopener"
+>Bing Webmaster Guidelines&lt;/a>&lt;/td>
+&lt;td>Bing advice on how to get your site indexed.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bing.com/webmasters" target="_blank" rel="noopener"
+>Bing Webmaster Tools&lt;/a>&lt;/td>
+&lt;td>Tools to analyse your site and submit it to Bing for indexing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing" target="_blank" rel="noopener"
+>Not awesome Bing bans and de-indexing&lt;/a>&lt;/td>
+&lt;td>A thorough set of resources and articles about Bing bans and de-indexing&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>India Moon Landing</title><link>/p/india-moon-landing/</link><pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate><guid>/p/india-moon-landing/</guid><description>&lt;img src="/p/india-moon-landing/chandrayaan.jpg" alt="Featured image of post India Moon Landing" />&lt;p>A big day for the Indian space programme and a poke in the eye for the Russians who crashed landed their attempt earlier in the week.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/QQKSASFdoDw"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>Camping in the Shropshire Hills - Day 1</title><link>/p/camping-in-the-shropshire-hills-day-1/</link><pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate><guid>/p/camping-in-the-shropshire-hills-day-1/</guid><description>&lt;img src="/p/camping-in-the-shropshire-hills-day-1/holliesfarm.jpg" alt="Featured image of post Camping in the Shropshire Hills - Day 1" />&lt;h2 id="preparations">Preparations&lt;/h2>
+&lt;p>Camping in the rain can be a little disappointing but its something British campers tend to get used to. This trip was to be the first for my daughters who had never been on a family camping trip before despite both being in their late teens. They had camped with school but wanted to have an family camping experience so we had planned a one night trial run to see how they got on. I had been watching the weather reports in the run up to the day and was expecting light rain in the morning so it wasn&amp;rsquo;t unexpected when I woke to a grey and damp morning.&lt;/p>
+&lt;p>By about 9am the girls were up and we started to get our things together for the trip to the &lt;a class="link" href="https://www.shropshirehillsaonb.co.uk" target="_blank" rel="noopener"
+>Shropshire Hills&lt;/a>.&lt;/p>
+&lt;h2 id="cancelled">Cancelled&lt;/h2>
+&lt;p>The drive to our campsite was only about 30 miles but the last few mile were down narrow lanes and the last mile along a rough and steep farm track. We got to the farm yard and there didn’t seem to be anyone around so I called the number of the farm. The guy I had spoken to yesterday answered and said he was sorry but there was no way we could drive to the pitches as the overnight rain had left the access road too slippery to drive, he said he couldn’t get up it in his Land Rover Discovery. He said he had text me earlier in the morning to say we shouldn’t come but I hadn’t seen the message.&lt;/p>
+&lt;h2 id="the-hollies-farm">The Hollies Farm&lt;/h2>
+&lt;p>To say we were disappointed would have been an understatement. Our options were to abandon completely or try and find an alternative camp site. A couple of miles before the turn to lower Vellons farm we had seen a sign for a “glamping” site so we decided to head there and see if we could get a pitch for the night. When we arrived it was a flat field with a bunch of clamping pods on a very nicely laid out plot but no sign of tents so I wasn’t hopeful of getting a pitch. Sure enough the lady at the office said they weren’t allowed tents due to their planning permission for the site but she very helpfully rang another site, &lt;a class="link" href="https://www.pitchup.com/campsites/England/Central/Shropshire/pontesbury/hollies-farm" target="_blank" rel="noopener"
+>The Hollies&lt;/a>, for me who told her they would take a tent. She gave me directions and told me to pitch up in the field and the owner would come and see us later. We would know we had the right place as there was one other tent there already.&lt;/p>
+&lt;h2 id="getting-setup">Getting setup&lt;/h2>
+&lt;p>A short drive later and we were on a small field overlooking a fabulous view of the Shropshire hills. The rain was still drizzling and there was quite a breeze blowing so I anticipated a struggle to get the tent up as we had only tried it twice before. The first time was also windy and Ria and I gave up as we couldn’t manage to get the hooped poles in place whilst stopping the wind from trying to blow us away. The second time we managed to get it up ok after a bit of a struggle pushing the poles into place. This time there were three of us and we needed to get the tent up quickly to get out of the rain.&lt;/p>
+&lt;p>Amazingly we had the poles in and the outer pegged down in just a few minutes and with barely a crossed word. Teamwork it seems worked for us.&lt;/p>
+&lt;p>Once we had the outer up we got the bedroom inners in place in a few more minutes and within a short space of time we were setup with camp chairs and the little stove boiling some water for tea and lunch. Perfect.&lt;/p>
+&lt;h2 id="walking-the-stiperstones">Walking the Stiperstones&lt;/h2>
+&lt;p>Once we had eaten we set off for a walk up to the &lt;a class="link" href="https://en.wikipedia.org/wiki/Stiperstones" target="_blank" rel="noopener"
+>Stiperstones&lt;/a>. A short walk up the lane took us through a farm yard which led to the gate to the Shropshire Way. We took a left aiming to walk to the West end of the ridge that leads up to the Devils Chair before descending back down to the Hollies Farm for the return.&lt;/p>
+&lt;p>The first part of the route was through a small wood with a brook running down the right of the path. Once we emerged out of the woods we were on a bracken and heather lined path which after a short walk turned right back on ourselves and headed up to where we could see the Devils Chair shrouded by low clouds. The wind was blowing pretty hard at this point and we were all getting pretty wet, but then as we reached the &lt;a class="link" href="https://shropshireway.org.uk" target="_blank" rel="noopener"
+>Shropshire Way&lt;/a> the cloud cleared and we quickly dried out courtesy of the continuing strong winds.&lt;/p>
+&lt;p>The ridge across the top of the &lt;a class="link" href="https://en.wikipedia.org/wiki/Stiperstones" target="_blank" rel="noopener"
+>Stiperstones&lt;/a> is strewn with irregular and jagged stones which makes progress pretty slow and quite treacherous, a twisted ankle would be pretty easy to acquire and would make the return leg of the walk very uncomfortable.&lt;/p>
+&lt;p>&lt;img src="/p/camping-in-the-shropshire-hills-day-1/stiperstones.jpg"
+width="360"
+height="640"
+srcset="/p/camping-in-the-shropshire-hills-day-1/stiperstones_hu8091eb4d4d86f5387a1c0f1cece693b2_73568_480x0_resize_q75_box.jpg 480w, /p/camping-in-the-shropshire-hills-day-1/stiperstones_hu8091eb4d4d86f5387a1c0f1cece693b2_73568_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Stiperstones"
+class="gallery-image"
+data-flex-grow="56"
+data-flex-basis="135px"
+>&lt;/p>
+&lt;h2 id="descent">Descent&lt;/h2>
+&lt;p>Despite the conditions the walk along the summit was enjoyable and the views by this time were spectacular, the panorama surrounding us reaching into Wales and across the Shropshire peaks. Soon we were at the point where we could turn back down the hill side towards the campsite and before long we were out of the wind and back onto much smoother terrain, crossing the fields in front of the Hollies Farm, complete with a herd of cows who mercifully seemed uninterested in us, before joining the short lane to our tent.&lt;/p>
+&lt;h2 id="stiperstones-inn">Stiperstones Inn&lt;/h2>
+&lt;p>After resting at the tent for an hour or so we changed and headed in the car to the &lt;a class="link" href="https://www.stiperstonesinn.co.uk/" target="_blank" rel="noopener"
+>Stiperstones Inn&lt;/a> for our evening meal. The Inn is a proper traditional English country pub with a menu that included steak and kidney suet pudding and apple crumble and custard for dessert&amp;hellip; Superb stuff.&lt;/p>
+&lt;p>&lt;img src="/p/camping-in-the-shropshire-hills-day-1/food.jpg"
+width="480"
+height="640"
+srcset="/p/camping-in-the-shropshire-hills-day-1/food_hub299b4cbad9bb78482add39d13824040_78389_480x0_resize_q75_box.jpg 480w, /p/camping-in-the-shropshire-hills-day-1/food_hub299b4cbad9bb78482add39d13824040_78389_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Evening meal at the Stiperstones Inn"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;p>Once we had availed ourselves of the Inn WiFi and eaten our fill it was time to head back to the tent for a well earned night under canvas.&lt;/p>
+&lt;p>The evening air had already started to cool when we got out of the car and the girls commented on it being cold, but once we were in our campbeds and snuggled down the complaints soon stopped. I was certainly glad to be in bed and despite a slow puncture on my airbed that gradually deflated through the night leaving me on the floor in the morning I slept pretty soundly and the girls were quiet until 7am the next morning when we woke to a spectacular sunny morning&amp;hellip;&lt;/p>
+&lt;p>TBC&lt;/p></description></item><item><title>My reMarkable notebook</title><link>/p/my-remarkable-notebook/</link><pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate><guid>/p/my-remarkable-notebook/</guid><description>&lt;img src="/p/my-remarkable-notebook/remarkable.jpg" alt="Featured image of post My reMarkable notebook" />&lt;h2 id="returning-my-remarkable">Returning my reMarkable&lt;/h2>
+&lt;p>About a month ago I purchased a &lt;a class="link" href="https://remarkable.com/" target="_blank" rel="noopener"
+>reMarkable&lt;/a> eInk notebook. I had looked at them a number of times over the last year or so but had never seen one in person until I was on site with one of the team from &lt;a class="link" href="https://itnaturally.com" target="_blank" rel="noopener"
+>IT Naturally&lt;/a> who was using hers to make notes during a site device upgrade that we were carrying out. When I spoke to her she was gushing with praise and said it was the best thing she had bought. I guess this got me interested, then a few days later I learned that my manager also had one and was also really impressed with it. That swung it and I went online and ordered a refurb to be delivered straight away.&lt;/p>
+&lt;p>reMarkable offer a 100 day money back guarantee which was one of the reasons that I decided it was worth a go, I could always return it if I didn&amp;rsquo;t get on well with it. The reason I went for a refurb was also due to this no arguement return policy. reMarkable obviously have people who return devices for whatever reason and re-selling these at a small saving with the same guarantee as a brand new one makes a lot of sense.&lt;/p>
+&lt;h2 id="first-impressions">First impressions&lt;/h2>
+&lt;p>When I received my notebook a few days later the immediate reaction was that there really was no difference from a brand new device. The box was shrink wrapped as new and when opened there was no way I would have been able to tell that someone had previously used this tablet, it was really mint condition.&lt;/p>
+&lt;p>Compared with most tablets the reMarkable is amazingly thin and light, it really is an impressive feat of technology. Once powered up the screen appeared crisp and clear and I was quickly through the setup wizard and having a go at the writing experience. I had opted against buying the reMarkable stylus and case preferring to go for the much more modestly priced &lt;a class="link" href="https://www.amazon.co.uk/dp/B0728HBD7F?psc=1&amp;amp;ref=ppx_yo2ov_dt_b_product_details" target="_blank" rel="noopener"
+>Staedtler Noris digital classic stylus&lt;/a> from Amazon which was less than £30 compared to £59 for the basic reMarkable Marker and a crazy £109 for the reMarkable Marker Plus !&lt;/p>
+&lt;h2 id="remarkable-connect">reMarkable Connect&lt;/h2>
+&lt;p>The new device comes with 12 months subscription to the reMarkable Connect service which promises to save your notes to the cloud and additionally sync them to apps on your phone/tablet or PC. I setup the required account and installed the app on my iPhone, Macbook and iPad. I then started testing, creating a few pages and trying out the solution. After creating a few test pages I deleted them from the notebook and created a real notebook ready to start using. After a few minutes I noticed the test pages I had deleted had re-appeared on the notebook&amp;hellip; A little odd I thought and deleted them again only for them to re-appear again a few minutes later. Annoyed now I did a quick search for this issue and quickly found a number of threads that suggested it was the iOS apps causing the re-appearing pages, apparently the sync process is not 100% reliable. This was annoying as this was one of the things I expected I might use. I removed/logged out of the apps on my other devices and did some more testing and sure enough no further re-appearing deleted pages.&lt;/p>
+&lt;h2 id="further-impressions">Further Impressions&lt;/h2>
+&lt;p>Over the last month I have tried to use the reMarkable (without the mobile apps) and have been torn. On the one hand the device is really nice, slick, thin, light and the writing experience is extremely good, far superior to using a pen on an iPad. The problem for me though was the software. The sync issue was an annoyance but was compounded by the functionality of the device software itself. My main issue is search or the lack of. The notes you write CAN be converted to searchable text but once you do that they are now text not handwritten notes and you also have to accept any errors in conversion. You cant search handwritten notes, something that OneNote has done for years.&lt;/p>
+&lt;p>Further you cant name the pages of your notes to allow for searching by page name. This would be a major improvement for me. I create a page for each day in a daily notes journal and once created the only way to navigate or go back to a specific days notes is to use the thumbnail view of the notes pages. Each page is numbered but the thumbnail is too small text to easily spot a specific page so you end up having to open a page that you think then skip forward or backward until you find the required page. Given the slow refresh of eink displays this is not a quick process, certainly when compared to skimming through the pages of a paper journal.&lt;/p>
+&lt;p>And it is this limitation that has brought me to today when I have finally decided to return my reMarkable for a refund. Honestly if the device was half the price I might not have bothered but at £300 this is not a cheap piece of kit and given my difficulties using it in my wy of working I decided I would rather have the £300 back. I am a little disappointed but part of the original reason for buying was the knowledge that if it didn&amp;rsquo;t work for me I could return it so I am happy to have tried.&lt;/p>
+&lt;p>Maybe reMarkable 3 will rectify some of these issues when it is eventually released and I might be tempted to give it another go&amp;hellip;&lt;/p></description></item><item><title>Pre-Xmas Post</title><link>/p/pre-xmas-post/</link><pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate><guid>/p/pre-xmas-post/</guid><description>&lt;img src="/p/pre-xmas-post/continuity-camera.jpg" alt="Featured image of post Pre-Xmas Post" />&lt;p>Six months into the new job and things are starting to get pretty busy and I am certainly past the honeymoon period and into the time when people around the organisation know who I am. That&amp;rsquo;s both nice but also means free time to develop knowledge and do things how you would ideally want to do them starts to become a rarity.&lt;/p>
+&lt;p>My home office has recently changed layout again and I am back to working entirely on the Samsung M7 screen with my MacBook Pro configured in clamshell mode alongside it. With the upgrade to iOS 16/macOS Ventura bringing &lt;a class="link" href="https://support.apple.com/en-us/HT213244" target="_blank" rel="noopener"
+>Continuity Camera&lt;/a> support I have been using my iPhone as a replacement for the MacBook webcam and I have to say it works remarkably well, I have had no glitches/disconnects during use with Teams calls in many short and long meetings. My main issue has been finding a way to attach the iPhone at the top of the screen so I appear to be looking in the right direction. I have a fairly dodgy setup at the moment as I haven&amp;rsquo;t found the ideal tool to do this. I have attached a small L bracket to the VESA mounting on the back of the monitor and am then using a small tripod clamp around the iPhone to give it the necessary width and height to raise the camera above the top of the monitor. It works but is not ideal and I will have to try to rig something a bit more substantial in the New Year. There is definitely a market for a nice solution here, most of the stuff available is designed for MagSafe connectors ( my iPhone 11 doesn&amp;rsquo;t have MagSafe ) and for attachment by sticky pads.&lt;/p>
+&lt;p>If anyone has a good solution for this I would love to hear from you.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://support.apple.com/en-us/HT213244" target="_blank" rel="noopener"
+>Continuity Camera&lt;/a>&lt;/td>
+&lt;td>Apple guide on using Continutiy Camera&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://twit.social/@ukmac" target="_blank" rel="noopener"
+>My Mastodon Profile&lt;/a>&lt;/td>
+&lt;td>Try TWiT.social for a friendly and tech centered Mastodon instance&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Feeling grotty and the sun is shining</title><link>/p/feeling-grotty-and-the-sun-is-shining/</link><pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate><guid>/p/feeling-grotty-and-the-sun-is-shining/</guid><description>&lt;p>Today finds me at home still full of cold after more than a week with a beautiful sunny day outside that would have been perfect for an Autumn bike ride. Gutted and grumpy.&lt;/p>
+&lt;p>It&amp;rsquo;s also been three months since I left CVT and therefore six months since I handed in my notice and they still haven&amp;rsquo;t recruited a replacement to my position. The two guys who worked for me have been struggling along and I think are starting to drown under the weight of tickets in the helpdesk and other work that they are now picking up that they didn&amp;rsquo;t previously have to worry about (because I did it). I do really feel for them, they are both nice guys and being left to flounder by the charities management team is really not good. I have continued to offer them support and advice and will continue to do so but what I can do for them isn&amp;rsquo;t a substitute for a permenant IT manager who can take some of the load from them.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://twitter.com/merill/status/1578301242530443264?s=20&amp;amp;t=FwmWoB70r6a9_YIKd0p_kQ" target="_blank" rel="noopener"
+>Azure AD Admin shortcuts&lt;/a>&lt;/td>
+&lt;td>A very useful list of shortcuts to variety of Azure AD Admin pages&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://music.apple.com/gb/album/logos-live-recorded-live-at-the-dominion-london-1982/724499904" target="_blank" rel="noopener"
+>Tangerine Dream - Logos&lt;/a>&lt;/td>
+&lt;td>Currently listening to one of my all time favourite TD albums. Powerful memories evoked of this concert at the Odeon in Birmingham&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>My Experiences with the Keychron K3 Wireless Keyboard</title><link>/p/my-experiences-with-the-keychron-k3-wireless-keyboard/</link><pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate><guid>/p/my-experiences-with-the-keychron-k3-wireless-keyboard/</guid><description>&lt;img src="/p/my-experiences-with-the-keychron-k3-wireless-keyboard/keychron.jpg" alt="Featured image of post My Experiences with the Keychron K3 Wireless Keyboard" />&lt;p>I have had the &lt;a class="link" href="https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard" target="_blank" rel="noopener"
+>Keychron K3&lt;/a> for a month or so now and my thoughts on this device are still somewhat mixed. After years of using laptop keyboards, the &lt;a class="link" href="https://www.logitech.com/en-gb/products/keyboards/k380-multi-device.html" target="_blank" rel="noopener"
+>Logitech K380&lt;/a> and the &lt;a class="link" href="https://www.apple.com/uk/shop/product/MK2A3B/A/magic-keyboard-british-english" target="_blank" rel="noopener"
+>Apple Magic Keyboard&lt;/a> the K3 takes some getting used to. The keys have of course got more travel and sit higher than the other keyboards I am used to.&lt;/p>
+&lt;p>Whilst I&amp;rsquo;m not a proper touch typist but can normally achieve a reasonable number of characters per minute but with the K3 I am still finding myself making quite a lot of typos. To be honest when I first got the keyboard I was making so many errors that I temporarily went back to my Apple Magic Keyboard. Since then I have been trying to get along with the K3 again, partly because I dont want to admit defeat and partly because I think once I am used to it I will find it a better keyboard than the Magic Keyboard.
+From a practical point of view the other thing I have been a little disappointed with is the battery life and the bluetooth connection speed. Battery life is I guess to be expected due to the backlight which you can of course turn off to improve things but at the expense of one of the nice features of the K3.&lt;/p>
+&lt;p>The Bluetooth connection is not as easy to address however. The issue I have here is that when the keyboard goes to sleep to conserve battery the bluetooth connection to my MacBook obviously drops which is to be expected, however when hitting a key for the first time after this happens (when returning to typing after a short break for example) the bluetooth connection does not immediately reestablish and the first few keystrokes are lost. This is frustrating and because of this I have taken to connecting via USB C cable which doesnt suffer from this issue but of course means I now have a cable running from my nice wireless keyboard..&lt;/p>
+&lt;p>I am planning to keep trying the K3 for a bit longer yet but in the worst case I can always box it up and post an ad on eBay, I&amp;rsquo;m sure it will sell easily enough.&lt;/p>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard" target="_blank" rel="noopener"
+>Keychron K3&lt;/a>&lt;/td>
+&lt;td>Hot swappable low profile wireless mechanical keyboard&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.logitech.com/en-gb/products/keyboards/k380-multi-device.html" target="_blank" rel="noopener"
+>Logitech K380&lt;/a>&lt;/td>
+&lt;td>Affordable multi device compact wireless keyboard&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.apple.com/uk/shop/product/MK2A3B/A/magic-keyboard-british-english" target="_blank" rel="noopener"
+>Apple Magic Keyboard&lt;/a>&lt;/td>
+&lt;td>Apple compact wireless keyboard&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>UKMac.net has moved to Hugo</title><link>/p/ukmac.net-has-moved-to-hugo/</link><pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate><guid>/p/ukmac.net-has-moved-to-hugo/</guid><description>&lt;img src="/p/ukmac.net-has-moved-to-hugo/hugo-go-cms.png" alt="Featured image of post UKMac.net has moved to Hugo" />&lt;p>Ukmac.net has moved to &lt;a class="link" href="https://gohugo.io" target="_blank" rel="noopener"
+>Hugo CMS&lt;/a>&lt;/p>
+&lt;p>I am currently doing a bit of tidying of old posts (fixing dates and youtube embeds) but hopefully this new iteration of my blog will be stable in the next day or so.&lt;/p>
+&lt;p>Ukmac.net is hosted on Github Pages, &lt;a class="link" href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#deployment-of-project-pages-from-your-gh-pages-branch" target="_blank" rel="noopener"
+>this article&lt;/a> explains how to setup Hugo to work with Github. I am no expert on Github but it didn&amp;rsquo;t take me long to rebuild the site and replace the previous Jekyll version. Currently I am editing the site in &lt;a class="link" href="https://code.visualstudio.com/" target="_blank" rel="noopener"
+>Visual Studio Code&lt;/a> which works pretty well thanks to the excellent built in Github integration.&lt;/p></description></item><item><title>Daily Post - 27/12/21</title><link>/p/daily-post-27/12/21/</link><pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate><guid>/p/daily-post-27/12/21/</guid><description>&lt;img src="/p/daily-post-27/12/21/surface-go.jpg" alt="Featured image of post Daily Post - 27/12/21" />&lt;p>Over the Christmas break I have been testing out a few different Linux Distros on a Microsoft Surface Go Laptop. This laptop was my test machine for Windows 11 but the experience was less than favourable, slow, unresponsive and noisy as the fan seemed to run pretty constantly.&lt;/p>
+&lt;p>After a brief test of &lt;a class="link" href="https://elementary.io/" target="_blank" rel="noopener"
+>Elementary OS&lt;/a> then &lt;a class="link" href="https://mxlinux.org/" target="_blank" rel="noopener"
+>MX Linux&lt;/a> I have settled on &lt;a class="link" href="https://pop.system76.com/" target="_blank" rel="noopener"
+>Pop!_OS&lt;/a>. On this laptop Pop!_OS runs really well, performance is snappy and the fan rarely kicks in.&lt;/p>
+&lt;p>Testing this as a work machine for me means installing Microsoft Edge as my default browser. Unfortunately the Linux version of Edge is still missing Azure AD sign in and sync which is a real shame and surprising given that Windows and Mac versions have had this feature for a long time now.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://pop.system76.com" target="_blank" rel="noopener"
+>Pop!_OS&lt;/a>&lt;/td>
+&lt;td>Ubuntu based Linux&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Daily Post - 11/09/21</title><link>/p/daily-post-11/09/21/</link><pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate><guid>/p/daily-post-11/09/21/</guid><description>&lt;p>Badminton at Oakengates Leisure Centre with the kids this morning then a trip over to eldest&amp;rsquo;s new house to help with sorting the garden which was a tad overgrown.&lt;/p>
+&lt;p>Still loving the iPad Pro and Apple Magic keyboard and so glad I finally overcame the reservations over price and bought one ( though it was helped by the fact that I got mine for half price as a second user unit through Amazon ). I am looking forward to the forthcoming release of macOS Monterey and the new Universal Control feature.&lt;/p>
+&lt;p>I finished the Stephen King&amp;rsquo;s new book, Billy Summers on Audible on the drive to Yorkshire this week. Unusual for King that there is no supernatural or horror element ( apart from a few very brief references to The Shining ) but I really enjoyed it none the less. One of those Audible books that I couldn&amp;rsquo;t wait to get into the car to carry on listening to and was gutted when it finished.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks" target="_blank" rel="noopener"
+>Get the fucking vaccine&lt;/a>&lt;/td>
+&lt;td>Succinct !&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://how-i-experience-web-today.com/" target="_blank" rel="noopener"
+>How I Experience The Web&lt;/a>&lt;/td>
+&lt;td>Try this, its not far from the truth&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Daily Post - 28/08/21</title><link>/p/daily-post-28/08/21/</link><pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate><guid>/p/daily-post-28/08/21/</guid><description>&lt;h2 id="more-obsidian-testing">More Obsidian testing&lt;/h2>
+&lt;p>Today I came across this article on &lt;a class="link" href="https://www.macstories.net/ios/my-markdown-writing-and-collaboration-workflow-powered-by-working-copy-3-6-icloud-drive-and-github/" target="_blank" rel="noopener"
+>MacStories&lt;/a> in which Federico Vittici describes how he uses Working Copy and GitHub to manage his writing with &lt;a class="link" href="https://apps.apple.com/gb/app/ia-writer/id775737172" target="_blank" rel="noopener"
+>iA Writer&lt;/a> and &lt;a class="link" href="https://apps.apple.com/gb/app/pretext/id1347707000" target="_blank" rel="noopener"
+>Pretext&lt;/a>.&lt;/p>
+&lt;p>While I have been testing Working Copy I have tried creating a synced folder with the local Obsidian app folders and also with the Obsidians folder in iCloud. Both seemed to work fine but I was a bit unsure whether syncing with iCloud was recommended and hadn’t found any articles to confirm this was something you should do (in the past this sort of approach would have been a recipe for duplicated files and other odd issues). Anyway I am pleased that Federico’s article confirmed that this was ok and in fact makes editing in-place with multiple editors easy (I am writing this in iA Writer and the file is in the Obsidian iCloud folder which is synced to GitHub with Working Copy so there you are…)&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://9to5mac.com/2021/08/25/icloud-custom-email-domains-now-available-in-beta-heres-how-to-use-them/" target="_blank" rel="noopener"
+>Custom email domains in iCloud Mail&lt;/a>&lt;/td>
+&lt;td>This is an interesting development. I have been thinking about moving to a family subscription of Windows 365 from my current Google apps for Domains setup but now I have a third option for hosting the families email and this one comes free ( well as part of our iCloud subscription at least )&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Daily Post - 19/08/2021</title><link>/p/daily-post-19/08/2021/</link><pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate><guid>/p/daily-post-19/08/2021/</guid><description>&lt;h2 id="st-albans">St Albans&lt;/h2>
+&lt;p>I am staying at the Jury&amp;rsquo;s Inn in Watford and just back from evening meal in the bar that was pretty rubbish. I ordered burger and chips for £15. The burger was overcooked, dry and tasteless and the chips had been covered in salt ( which I dont eat on food ) so were pretty much inedible. I should have taken myself out into town to find somewhere to eat but after an early start and a long day I couldn&amp;rsquo;t be bothered and opted for the easy option of eating in the hotel. I&amp;rsquo;ll never learn, hotel food is generally pretty meh and often worse than that. Would have been better off with a McDonalds !&lt;/p></description></item><item><title>Daily Post - 15/08/2021</title><link>/p/daily-post-15/08/2021/</link><pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate><guid>/p/daily-post-15/08/2021/</guid><description>&lt;h2 id="new-komoot-route">New Komoot Route&lt;/h2>
+&lt;p>This morning I did a 60K route planned on &lt;a class="link" href="https://www.komoot.com/" target="_blank" rel="noopener"
+>Komoot&lt;/a> &lt;a class="link" href="https://www.komoot.com/tour/454744827?ref=itd" target="_blank" rel="noopener"
+>see this link&lt;/a> for the full route. I really enjoyed this ride, most of the lanes were very quiet and I hardly saw any cars at all until I was quite close to home which was really nice. Komoot is a great way to plan a route into areas that you are not familiar with as it does a very good job of keeping you away from roads that have lots of those big metal boxes shooting up and down&amp;hellip;&lt;/p>
+&lt;h2 id="iphone-plans">iPhone plans&lt;/h2>
+&lt;p>I made the mistake last night of openly talking about my iPhone ( an iPhone 11 bought in October 2019 ) and saying I thought I would probably need to upgrade later this year. I think it heard me because when I came to take a photo of &lt;a class="link" href="https://en.m.wikipedia.org/wiki/Norbury_Junction" target="_blank" rel="noopener"
+>Norbury Junction&lt;/a> during my ride this morning I was greeted with an error message informing me that there was not enough storage left to perform the operation. I&amp;rsquo;ve always been convinced of electronic equipments ability to know when its planned replacement is being discussed having fallen foul of this sort of thing on many occasions previously, todays event just confirms my suspicion ( they are listening ! )&lt;/p>
+&lt;h2 id="edge-grumbles">Edge Grumbles&lt;/h2>
+&lt;p>I like Edge ( the new one ). I started using it early in the beta and immediately decided it was the way forward for myself and my work ( I pushed it out to all PCs early too ), but on my iPad there are things that bug me. The big one is when I create a new tab and start typing a URL or search term only to look at the screen and see nothing has appeared because I haven&amp;rsquo;t selected the address field ( clicked into it or pressed CMD-L ). Not sure if its me but if you open a tab in a browser what else would you normally do but enter a URL or search term ? Why can&amp;rsquo;t it select the address bar ready without having to manually select it ? Come on Microsoft this isn&amp;rsquo;t really difficult is it ?&lt;/p></description></item><item><title>Day three of holiday in Llwyngwril</title><link>/p/day-three-of-holiday-in-llwyngwril/</link><pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate><guid>/p/day-three-of-holiday-in-llwyngwril/</guid><description>&lt;p>Yesterday was fine and sunny but a little windy, today looks like being a little calmer.
+Again we have been lucky enought to bag a cottage with amazing views of the sea and as a result spectacular sunsets.&lt;/p>
+&lt;p>&lt;img src="/p/day-three-of-holiday-in-llwyngwril/photo.jpeg"
+width="4032"
+height="3024"
+srcset="/p/day-three-of-holiday-in-llwyngwril/photo_hu7dd1cb8e800cc8d6843b608933e89137_2396874_480x0_resize_q75_box.jpeg 480w, /p/day-three-of-holiday-in-llwyngwril/photo_hu7dd1cb8e800cc8d6843b608933e89137_2396874_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="Sunset"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>Our cottage is at the bottom of a seriously steep hill and yesterday I decided I was going to try to ride it (despite the gearing on my road bike not being particularly low). For a change I mounted my GoPro to the handlebars to record the event and set off&amp;hellip; After a lung bursting and very slow climb (with two short stops to get air into lungs) I reached the gate to the gravel road at the top of the hill. When I stopped to open the gate my Wahoo decided to take that moment to remind me that I hadn&amp;rsquo;t yet pressed start ! Annoying&amp;hellip;&lt;/p></description></item><item><title>Daily Post - 2/7/2021</title><link>/p/daily-post-2/7/2021/</link><pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate><guid>/p/daily-post-2/7/2021/</guid><description>&lt;p>One of the things I lost the ability to do as I got older is concentrating/working while listening to certain types of music. I find ambient/electronic is best to listen to whilst working and &lt;a class="link" href="https://en.wikipedia.org/wiki/Klaus_Schulze" target="_blank" rel="noopener"
+>Klaus Schulze&lt;/a> is one of my regular favourites.&lt;/p>
+&lt;p>This week I managed to get hold of a copy of his &lt;a class="link" href="https://en.wikipedia.org/wiki/The_Ultimate_Edition" target="_blank" rel="noopener"
+>Ultimate Edition&lt;/a> 50 CD box set in FLAC format that I needed to convert to import into Apple Music for playback. Today I came across a nice conversion tool &lt;a class="link" href="https://tmkk.undo.jp/xld/index_e.html" target="_blank" rel="noopener"
+>XLD&lt;/a> that I have used to split the single .flac files into seperate Apple Lossless files. If you have flac files with accompanying .cue files XLD will open the cue file and transcode the source file into seperate files quickly and easily. Its a pretty basic application (when you launch it there isn&amp;rsquo;t even a gui interface displayed, just a set of menu options on the menu bar) but is still updated and the latest version even has native Apple Silicon support. There is also a command line version of the app for those who prefer to work in a terminal window.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://tmkk.undo.jp/xld/index_e.html" target="_blank" rel="noopener"
+>XLD&lt;/a>&lt;/td>
+&lt;td>X Lossless Decoder (XLD) is a simple tool for Macs to decode/convert/play lossless audio files. GUI and CLI tool&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://readme.so/editor" target="_blank" rel="noopener"
+>readme.so&lt;/a>&lt;/td>
+&lt;td>Readme.so is a very simple web site for creating readme.md files quickly and easily. A generic version of this site with user definable blocks would be a great way of creating standard template documents of all sorts.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://pandoc.org" target="_blank" rel="noopener"
+>pandoc&lt;/a>&lt;/td>
+&lt;td>Want to convert a markup file to a different format ? Pandoc is your tool&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>My New office layout ...</title><link>/p/my-new-office-layout-.../</link><pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate><guid>/p/my-new-office-layout-.../</guid><description>&lt;p>Like everyone I am spending a lot of time in here these days so it makes sense to get it how I want it.&lt;/p>
+&lt;p>&lt;img src="/p/my-new-office-layout-.../office.png"
+width="640"
+height="853"
+srcset="/p/my-new-office-layout-.../office_hu2d2cd6e56588f0a963b3686b89a0a000_618698_480x0_resize_box_3.png 480w, /p/my-new-office-layout-.../office_hu2d2cd6e56588f0a963b3686b89a0a000_618698_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="My little corner"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p></description></item><item><title>WhatsApp forcing users to share data with Facebook</title><link>/p/whatsapp-forcing-users-to-share-data-with-facebook/</link><pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate><guid>/p/whatsapp-forcing-users-to-share-data-with-facebook/</guid><description>&lt;p>I&amp;rsquo;ve been debating dropping Whatsapp and &lt;a class="link" href="https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/" target="_blank" rel="noopener"
+>this announcement&lt;/a> is definitely pushing me to make the move !&lt;/p>
+&lt;p>UPDATE: So it takes an insurrection to finally kick Facebook and Twitter into action to do what they should have done months ( if not years ) ago !&lt;/p>
+&lt;p>&lt;a class="link" href="https://arstechnica.com/tech-policy/2020/07/donald-trump-jr-and-breitbart-get-twitter-timeouts-over-covid-video/?itm_source=parsely-api" target="_blank" rel="noopener"
+>Twitter suspends Donald Trump Jr. for posting COVID misinformation&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://arstechnica.com/tech-policy/2021/01/facebook-instagram-ban-trump-through-at-least-inauguration-day/" target="_blank" rel="noopener"
+>Facebook, Instagram ban Trump through at least Inauguration Day&lt;/a>&lt;/p></description></item><item><title>Daily Post - 03/11/2020</title><link>/p/daily-post-03/11/2020/</link><pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate><guid>/p/daily-post-03/11/2020/</guid><description>&lt;h2 id="printers-">Printers !&lt;/h2>
+&lt;p>Don&amp;rsquo;t you love remote support ? Today I have spent a couple of hours on and off trying to identify why a copier at one of our sites had suddenly stopped sending scans to email. The configuration on the copier was all ok and there had been no changes to our network so I was more than a little stumped until I finally got the user who had reported the issue to admit they were trying to scan a large pile of pages and that the one page scan they had tried had worked.&lt;/p>
+&lt;p>Lightbulb moment, checked the copiers maximum attachment size that was set to 2Mb, changed to 8Mb, asked user to retry and hey presto 3Mb attachment arrived in their inbox. Hurrah !&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://oliverkieselbach.com/2020/11/03/new-edge-sync-policy-in-action/" target="_blank" rel="noopener"
+>https://oliverkieselbach.com/2020/11/03/new-edge-sync-policy-in-action/&lt;/a>&lt;/td>
+&lt;td>Intune - Manage Edge sync settings&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

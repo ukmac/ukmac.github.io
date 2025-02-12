@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Apps on UKmac.net - Apple news, tech views</title><link>/tags/apps/</link><description>Recent content in Apps on UKmac.net - Apple news, tech views</description><generator>Hugo - gohugo.io</generator><language>en</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/apps/feed.xml" rel="self" type="application/rss+xml"/><item><title>Easter Sunday - New MacBook</title><link>/p/easter-sunday-new-macbook/</link><pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate><guid>/p/easter-sunday-new-macbook/</guid><description>&lt;img src="/p/easter-sunday-new-macbook/macbookair.jpg" alt="Featured image of post Easter Sunday - New MacBook" />&lt;h2 id="new-macbook-day">New Macbook day&lt;/h2>
+&lt;p>After much deliberation I finally ordered a new M3 MacBook Air from Amazon last week after I spotted a &lt;a class="link" href="https://amzn.to/49qxNcA" target="_blank" rel="noopener"
+>16Gb/512Gb version going for £100 off list price&lt;/a>. I am not sure why this model was available as Amazon typically only have the 8Gb versions available. There was only one colour available, Starlight, but for the reduction in price I decided I could live with something other than Space Grey for a change.&lt;/p>
+&lt;p>I was given Tuesday 26th as the delivery date but after waiting all day for a delivery up to 10pm the status of my order was changed to &amp;ldquo;We will email you when we have a delivery date&amp;rdquo;. This was more than a little disappointing. I waited a couple of days before contacting Amazon for an update and after a brief call I was told it would be with me this week but no precise date was given. I was surprised then to get an update on Friday morning to say it had been despatched and would be with me by 7pm, it arrived safely around 5pm.&lt;/p>
+&lt;p>I have been a happy owner of a 16&amp;quot; M1 MacBook Pro (which I upgraded to from an original M1 MacBook Air with 8Gb) for the last couple of years and really didn&amp;rsquo;t &lt;strong>need&lt;/strong> an upgrade but I longed for something a little more portable than the 16&amp;quot; which is a wonderful powerful laptop but not exactly featherweight. Practically I am hopeful that the M3 Air will deliver similar performance to my Pro in a much more lightweight package, especially as my workload doesn&amp;rsquo;t involve a lot of processor heavy applications. I am also hoping that the second hand re-sale value of the MacBook Pro will pretty much cover the cost of the brand new Air.&lt;/p>
+&lt;p>I have had a couple of days with the new Air now and have mostly got things setup how I like them again and as expected it really feels no different to the Pro apart from when I pick it up from the desk to take it to another room. I don&amp;rsquo;t travel too much these days so carrying any distance is not a big issue but sitting with it on my lap feels so much more comfortable than the the 16&amp;quot; Pro.&lt;/p>
+&lt;h3 id="essential-apps">Essential apps&lt;/h3>
+&lt;p>For info the list of essential apps I have re-installed include :-&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.raycast.com/" target="_blank" rel="noopener"
+>Raycast&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.keyboardmaestro.com/main/" target="_blank" rel="noopener"
+>Keyboard Maestro&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://espanso.org/" target="_blank" rel="noopener"
+>Espanso&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://binarynights.com/" target="_blank" rel="noopener"
+>Forklift&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://code.visualstudio.com/Download" target="_blank" rel="noopener"
+>Visual Studio Code&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://obsidian.md" target="_blank" rel="noopener"
+>Obsidian&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://sindresorhus.com/dato" target="_blank" rel="noopener"
+>Dato&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://shottr.cc/" target="_blank" rel="noopener"
+>Shottr&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://readkit.app/" target="_blank" rel="noopener"
+>Readkit&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/Dimillian/IceCubesApp" target="_blank" rel="noopener"
+>IceCubes for Mastodon&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="obsidian-sync">Obsidian Sync&lt;/h2>
+&lt;p>One of the other things I have been changing in the last month is my &lt;a class="link" href="https://obsidian.md" target="_blank" rel="noopener"
+>Obsidian&lt;/a> setup. Obsidian is an application that I have been trying to use for a long time but one of the main things that prevented my adoption was the fact that I wanted to be able to sync across Windows, macOS and iOS. Of course the simple answer to this would have been to subscribe to the &lt;a class="link" href="https://obsidian.md/sync" target="_blank" rel="noopener"
+>Obsidian Sync service&lt;/a> but I was loathe to start another subscription especially as I had yet to fully develop an essential workflow that relied on Obsidian.&lt;/p>
+&lt;p>Its fair to say that I am one of those types who prefer the configuration and setup of systems to actually using them and have tried and failed to make every type of note taking system and tool work for me. Having said that I have watched endless videos on note taking tools and Obsidian is the one that I have always thought &lt;strong>should&lt;/strong> be able to serve my needs well.&lt;/p>
+&lt;p>Prior to this month I had been using the &lt;a class="link" href="https://github.com/denolehov/obsidian-git" target="_blank" rel="noopener"
+>Obsidian Git plugin&lt;/a> with a reasonable amount of success, but have had numerous instances of sync issues caused by opening my vault on my MacBook and iPhone or iPad when there were uncommitted changes which then required command line tinkering to rollback changes. This sort of irritation is a big negative factor in adopting a smooth workflow as you will appreciate, so last month I finally submitted to another subscription and signed up to the entry level $4 a month plan.&lt;/p>
+&lt;p>The impact was immediate. Sync now just works including plugin installations and configuration settings which didn&amp;rsquo;t sync at all with my Git based solution which meant I was constantly making changes to multiple devices to keep plugin settings synchronised.&lt;/p>
+&lt;p>I am very happy with this setup at the moment and will continue with it for a few months on the monthly plan and if it looks like becoming a permenant part of my toolbox I will sign up for the annual plan to save a few quid. If you havent tried it yet and have been testing across multiple devices with Git or iCloud sync then I would definitely recommend setting up a monthly Obsidian Sync
+subscription for a month or two to test it out.&lt;/p></description></item><item><title>A short break from work..</title><link>/p/a-short-break-from-work../</link><pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate><guid>/p/a-short-break-from-work../</guid><description>&lt;img src="/p/a-short-break-from-work../2023-10-30-zwift.jpg" alt="Featured image of post A short break from work.." />&lt;p>I am taking a few days leave for half term this week so today was busy busy busy&amp;hellip;&lt;/p>
+&lt;p>This morning started with a quick ride on stage 5 of Tour of Watopia (Canopies and Coastlines). This route started with the Titans Grove KOM reverse before taking in the new Watopia coastal road and finally ending at Sasquatch Sprint all in just over 28km and about 245m of climbing. A nice route made nicer by having the garage door open to let some Autumn sunshine in.&lt;/p>
+&lt;!-- html codes here-->
+&lt;div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10129684908">&lt;/div>&lt;script src="https://strava-embeds.com/embed.js">&lt;/script>
+&lt;p>Ride out of the way and onto chores, hopefully the last grass cut of the year followed by cleaning the roof panels from the gazebo ready to be stored away for the winter. Later in the afternoon when the clouds opened with a torrential downpour I was pretty glad I chose the morning to get these jobs sorted.&lt;/p>
+&lt;p>The afternoon was then spent in my office, sorting out shelving, listening to music and organising cabling ( a favourite pastime of mine ) on my new standing desk. Tomorrow I have some LED light strips coming from Amazon that I am going to use to brighten the office space a bit so part of Tuesday is already planned&amp;hellip;&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://sergii.tatarenkov.name/keyclu/support/" target="_blank" rel="noopener"
+>Keyclu&lt;/a>&lt;/td>
+&lt;td>Simple and handy overview of applications shortcuts. Press Command key twice and hold to display the keyboard shortcuts available for the current application.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://apps.apple.com/gb/app/dropzone-4/id1485052491?mt=12" target="_blank" rel="noopener"
+>Dropzone 4&lt;/a>&lt;/td>
+&lt;td>A menu bar utility to make copy/paste between apps easier. Great if you use Stage Manager&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Stocard for iOS</title><link>/p/stocard-for-ios/</link><pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate><guid>/p/stocard-for-ios/</guid><description>&lt;p>One of my pet peeves is the number of plastic cards I have to carry in my wallet. Most of the time I tend to strip the contents to the essential debit cards that I use all the time but this sometimes means that I miss out on discounts or other benefits by not having a particular stores loyalty card with me.&lt;/p>
+&lt;p>&lt;a class="link" href="https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id444578884?mt=8&amp;amp;at=1000lbQg" target="_blank" rel="noopener"
+>Stocard&lt;/a> solves this little problem by providing a simple way of importing store loyalty cards into your iPhone allowing you to leave the plastic at home without having to pass up on the discounts or loyalty points. Adding cards is very quick, just search for the store name from the extensive list then scan the card bar code using the iPhone camera and the cards details are captured. Now you can present the bar code on your iPhone to the cashier when making a purchase and they can scan this instead of the plastic. The app can also store card details for shops/companies not listed including adding a photo of the card for easy reference. I have used it to import my library cards for example.&lt;/p>
+&lt;p>&lt;a class="link" href="https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id444578884?mt=8&amp;amp;at=1000lbQg" target="_blank" rel="noopener"
+>Stocard&lt;/a> do acknowledge that some older scanners aren&amp;rsquo;t able to read the iPhone screen but in these cases the bar code can be entered manually by the cashier.&lt;/p>
+&lt;p>The app is available for iOS and Android and is a free download.&lt;/p>
+&lt;p>&lt;a class="link" href="https://geo.itunes.apple.com/gb/app/stocard-loyalty-cards-wallet/id444578884?mt=8" target="_blank" rel="noopener"
+>&lt;/a>&lt;/p></description></item><item><title>Capture Animated GIFs using free GifGrabber</title><link>/p/capture-animated-gifs-using-free-gifgrabber/</link><pubDate>Wed, 06 May 2015 00:00:00 +0000</pubDate><guid>/p/capture-animated-gifs-using-free-gifgrabber/</guid><description>&lt;p>GifGrabber is a free utility available from the App Store that lets you easily create animated GIFs by capturing a user definable area of the screen. It is the perfect tool for creating a snip of your favourite movie or video clip or recording a quick screen cast to send to friends or colleagues to demonstrate how to do something on your Mac.&lt;/p></description></item></channel></rss>

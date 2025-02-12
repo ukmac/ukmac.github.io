@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microsoft on UKmac.net - Apple news, tech views</title><link>/categories/microsoft/</link><description>Recent content in Microsoft on UKmac.net - Apple news, tech views</description><generator>Hugo - gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/microsoft/feed.xml" rel="self" type="application/rss+xml"/><item><title>macOS Calendar sync annoyances</title><link>/p/macos-calendar-sync-annoyances/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>/p/macos-calendar-sync-annoyances/</guid><description>&lt;img src="/p/macos-calendar-sync-annoyances/exchange.png" alt="Featured image of post macOS Calendar sync annoyances" />&lt;p>Came across this annoying bug with Calendar sync on macOS today. I use the excellent utility &lt;a class="link" href="https://apps.apple.com/gb/app/dato/id1470584107?mt=12" target="_blank" rel="noopener"
+>Dato&lt;/a> on my MacBook to ensure I don&amp;rsquo;t miss any meetings, but this afternoon I noticed a meeting in my Outlook calendar that wasn&amp;rsquo;t appearing in Dato.&lt;/p>
+&lt;p>At first I assumed this was a repeat of an occasional issue I have run into where my Exchange calendar just decides to stop syncing with my Calendar so I went through the normal &amp;ldquo;fix&amp;rdquo; of removing my Exchange account from Settings/Accounts and re-adding it. The trouble is this didn&amp;rsquo;t fix the issue, the missing appointment was still missing.&lt;/p>
+&lt;p>The difference with this appointment though was that it was booked into my calendar using the Microsoft Bookings app. This it seems is the issue. After a bunch of digging I came across &lt;a class="link" href="https://feedbackportal.microsoft.com/feedback/idea/e085dfaf-d5f4-ed11-a81c-000d3a7a48db" target="_blank" rel="noopener"
+>this entry on Microsoft Feedback&lt;/a> which explains that the issue is with Bookings entries not syncing correct with EWS (Exchange Web Services) which is the older mechanism for calendar sync still used by macOS. Apparently this issue only affects macOS and not iOS (the missing entry appears correctly in the Calendar app on my iPhone)&lt;/p>
+&lt;p>I have added my vote on Microsoft Feedback for this to be resolved for what its worth, though I do wonder if the better solution would be for Apple to upgrade Calendar sync in macOS to use Exchange ActiveSync (EAS) which works correctly on iOS ?&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://feedbackportal.microsoft.com/feedback/idea/e085dfaf-d5f4-ed11-a81c-000d3a7a48db" target="_blank" rel="noopener"
+>Microsoft Feedback&lt;/a>&lt;/td>
+&lt;td>Events booked with Bookings need to show up in Calendar.app on macOS&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Daily Post - 09/12/2020</title><link>/p/daily-post-09/12/2020/</link><pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate><guid>/p/daily-post-09/12/2020/</guid><description>&lt;p>&lt;a class="link" href="https://code.visualstudio.com/" target="_blank" rel="noopener"
+>Visual Studio Code&lt;/a> is now my preferred text editor for updating this Jekyll blog. The built in Github connectivity and excellent Markdown plugins for previewing posts before they are committed combine to make it one of the simplest ways to create new content.&lt;/p>
+&lt;p>I have tried &lt;a class="link" href="https://prose.io" target="_blank" rel="noopener"
+>Prose.io&lt;/a> a lovely simple to use web editor for static content Github hosted sites such as Jekyll. The main limitation of Prose for me is the lack of any way to upload and link to images in my posts. This may or may not be an issue depending on the type of content you need to post but personally I do want a way to upload and link to screenshots within my posts.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://techcommunity.microsoft.com/t5/microsoft-teams-blog/breakout-rooms-available-this-week-in-microsoft-teams/ba-p/1968481" target="_blank" rel="noopener"
+>Teams Breakout Rooms&lt;/a>&lt;/td>
+&lt;td>Microsoft have announced that Teams will be getting breakout rooms feature starting this week&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="http://feedproxy.google.com/~r/TheIphoneBlog/~3/PPuDkRXT4Uc/whatsapp-wants-apples-privacy-labels-apply-imessage-well" target="_blank" rel="noopener"
+>Whatsapp unhappy with Apple privacy labels&lt;/a>&lt;/td>
+&lt;td>iMore article regarding recent complaint from Whatsapp. As much as I dislike Facebook and Whatsapp I tend to agree with the author that they do have a point here. &lt;em>Update&amp;hellip; Apple has confirmed the privacy labels will apply to built in apps as well so that steals Whatsapps thunder a little (&lt;a class="link" href="https://www.macrumors.com/2020/12/09/apple-responds-to-whatsapp-app-store-privacy/" target="_blank" rel="noopener"
+>link&lt;/a>)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://pusherofpedals.com/2020/12/09/christmas-gift-guide/" target="_blank" rel="noopener"
+>Xmas Gift Guide for Cyclists&lt;/a>&lt;/td>
+&lt;td>Some gift ideas for the cyclist(s) in your household&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Daily Post - 08/12/2020</title><link>/p/daily-post-08/12/2020/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>/p/daily-post-08/12/2020/</guid><description>&lt;h2 id="email-pains">Email Pains&lt;/h2>
+&lt;p>Today has been a painful day trying to resolve an issue with Mail rules in Exchange Online. Yesterday I switched on a Malware Policy to block certain files types after reading &lt;a class="link" href="https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4" target="_blank" rel="noopener"
+>this article.&lt;/a> All seemed fine but then first thing this morning I received a number of calls from users unable to email Helpdesk calls to our Helpdesk system (&lt;a class="link" href="https://www.freshdesk.com" target="_blank" rel="noopener"
+>Freshdesk&lt;/a>). It seems as though the change I made yesterday had triggered a mail rule setup to block users autoforwarding emails externally into action that must not have been working before.&lt;/p>
+&lt;p>To log calls with Freshdesk by email you send to a specific email address that is created when Freshdesk is configured. To make things easy for my organisations users I had setup a shared mailbox with the email address support@xxxx and instructed them to log calls by emailing this address. The shared mailbox was then set to autoforward to the Freshdesk email address. This autoforward was now broken and so users were unable to log calls or reply to existing ones.&lt;/p>
+&lt;p>Unfortunately trying to fix mail rules in Exchange is made more difficult due to the very long time it takes for changes made to become operational. According to &lt;a class="link" href="https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_exchon-mso_o365b/dlp-and-mail-transport-rules-in-eac/75486160-ee0e-4cc2-a9cb-a9311630cf83" target="_blank" rel="noopener"
+>Lance Cal in this Microsoft Community thread&lt;/a> changes can take up to 12 hours to become active. Thats a whole working day before I can see if the change I made to fix our issue works and during which time our IT Helpdesk that relies on email autoforward rules to operate remains unusable.&lt;/p>
+&lt;h2 id="update">Update&lt;/h2>
+&lt;p>It seems that Exchange mail rules is not what I should have been looking at after all. What I discovered was that the mail rule I thought was blocking the autoforward was not being triggered at all. I found this by running the mail rule report ( shown highlighted in red in diagram below )&lt;/p>
+&lt;p>&lt;img src="/images/2020-12-08-daily-post/mail-rule-report.jpg"
+loading="lazy"
+alt="Mail rule report"
+>&lt;/p>
+&lt;p>Once I could see that no emails were matching the rule I started looking for other places where autoforwarding might be blocked. I had suspected there was probably something in the 365 Security and Compliance site that was responsible and the obvious culprit was in the &lt;a class="link" href="https://protection.office.com/antispam" target="_blank" rel="noopener"
+>Anti-Spam&lt;/a> settings. What I found here was that the &amp;ldquo;Automatic forwarding&amp;rdquo; setting was set to &amp;ldquo;Automatic - System-controlled&amp;rdquo;. Changing this to &amp;ldquo;On - Forwarding is enabled&amp;rdquo; immediately resolved the issue I was having but of course at the same time changed the default policy for all users to allow auto-forwarding externally.&lt;/p>
+&lt;p>&lt;img src="/images/2020-12-08-daily-post/outboundspam.jpg"
+loading="lazy"
+alt="Outbound spam filter policy"
+>&lt;/p>
+&lt;p>To fix this I needed to add a new Outbound policy that blocked all users from autoforwarding but excluded the Helpdesk shared mailbox. The rule below does this and the best part is changes are effective immediately so no waiting for 12 hours for mail rules to take effect.&lt;/p>
+&lt;p>&lt;img src="/images/2020-12-08-daily-post/outboundrule.jpg"
+loading="lazy"
+alt="Additional outbound rule"
+>&lt;/p>
+&lt;p>A long day but hopefully one where I learned something about the way that mail policies work.&lt;/p></description></item><item><title>Daily Post - 07/12/2020</title><link>/p/daily-post-07/12/2020/</link><pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate><guid>/p/daily-post-07/12/2020/</guid><description>&lt;h2 id="macbook-air-update">MacBook Air Update&lt;/h2>
+&lt;p>Loving the new MacBook. I have it mostly setup as I want it now and Photo Library sync seems to have finished so I should be able to start to see the real world battery life. Currently I don&amp;rsquo;t have any great need for long battery life as I am working at home like most others but knowing that there is no rush to get plugged is nice and so far the lowest the battery has gone is 50% ( at the time I am writing this blog post).&lt;/p>
+&lt;p>Last night was the first time I felt the bottom of the case get warm. I had just helped my son set up a Zoom call when I noticed it. It may have been Zoom, though I didn&amp;rsquo;t investigate it at the time and since then its been cool cool cool&amp;hellip;&lt;/p>
+&lt;h2 id="mimestream-beta">Mimestream Beta&lt;/h2>
+&lt;p>Whilst setting up the apps I wanted I decided to try to find a decent mail client for my home Gmail account. I have used the Gmail web interface for a long time more out of laziness than anything so this seemed an opportune time to look for a better alternative. &lt;a class="link" href="https://mimestream.com/" target="_blank" rel="noopener"
+>Mimestream&lt;/a> is free to download at the moment during the beta period. It has a very Gmail-like layout and supports all the Gmail features such as labels that typically don&amp;rsquo;t work well in standard email clients. I will post an update on my thoughts when I have been using it for a while but so far I am quite happy.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://regarding365.com/a-little-bit-more-security-fb6825ef8435?source=rss----604cd9a532f6---4" target="_blank" rel="noopener"
+>A little bit more security&lt;/a>&lt;/td>
+&lt;td>A quick guide on how to enable default malware policy for Office 365&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://robservatory.com/16gb-of-ram-and-75-open-appswhat-could-go-wrong/" target="_blank" rel="noopener"
+>16GB of RAM and 75 open apps&lt;/a>&lt;/td>
+&lt;td>Stress testing an M1 MacBook Pro&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Microsoft Edge history and tab sync</title><link>/p/microsoft-edge-history-and-tab-sync/</link><pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate><guid>/p/microsoft-edge-history-and-tab-sync/</guid><description>&lt;p>I converted to the new Microsoft Edge browser what seems like an age ago now and one of the things I was eager to see rolled out was the history and open tabs sync between devices (which you can of course already do with Firefox&amp;hellip; ).&lt;/p>
+&lt;p>As an Office 365 user and system admin the new Edge browser is clearly the way to finally get a single managed browser across all of my organisations devices, and to be honest I can&amp;rsquo;t see any good reason for other organisations like mine to still be using Chrome/Firefox other than industry inertia. So I rolled out Edge to my users many months ago now and am happy to report no real issues at all, but I have still been a little frustrated at the slow pace around the completion of the sync options.&lt;/p>
+&lt;p>Well it looks like I won&amp;rsquo;t have to wait much longer as the &lt;a class="link" href="https://www.microsoftedgeinsider.com/en-us/whats-new" target="_blank" rel="noopener"
+>Edge Insider - What&amp;rsquo;s New&lt;/a> page has announced that the feature is finally rolling out to Dev and Canary channels. Good news at last.&lt;/p></description></item><item><title>Daily Post - 02/11/2020</title><link>/p/daily-post-02/11/2020/</link><pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate><guid>/p/daily-post-02/11/2020/</guid><description>&lt;p>Probably doomed to failure before I start but I am going to try and start a daily blog post again ( I know seen it before ! ).&lt;/p>
+&lt;h2 id="powerapps">Powerapps&lt;/h2>
+&lt;p>Today I tried to go back to a Powerapp I had setup a little while ago but was politely refused by my Edge browser due to blocked third party cookies. Now I am certain this setting was enabled when I was last updating the Powerapp so I am not sure why it allowed me in before but now doesn&amp;rsquo;t ? Anyway after a bit of faffing about I have temporarily re-enabled third party cookies in the Configuration Profile for Edge so I can get on, but I am going to have to come back to this later.&lt;/p>
+&lt;p>If you have any ideas on this one please let me know.&lt;/p>
+&lt;h2 id="daily-links">Daily Links&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Link&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://sccmentor.com/2020/03/04/keep-it-simple-with-intune-17-uninstalling-default-apps-using-the-store-for-business/" target="_blank" rel="noopener"
+>Intune - Uninstalling default Windows Apps&lt;/a>&lt;/td>
+&lt;td>This is one I am testing at the moment. Many of the staff in my organisation end up using the Windows Mail app instead of Outlook or OWA and I would like to prevent this so I am planning on using this approach to remove Mail app from all PC&amp;rsquo;s&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Microsoft Surface Duo - Preorder</title><link>/p/microsoft-surface-duo-preorder/</link><pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate><guid>/p/microsoft-surface-duo-preorder/</guid><description>&lt;p>This actually looks pretty nice. Expensive but nice&amp;hellip;.&lt;/p>
+&lt;p>&lt;img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ALQi?ver=b8bd&amp;amp;q=90&amp;amp;m=6&amp;amp;h=720&amp;amp;w=1920&amp;amp;b=%23FFFFFFFF&amp;amp;l=f&amp;amp;o=t&amp;amp;aim=true"
+loading="lazy"
+alt="Surface Duo"
+>&lt;/p></description></item><item><title>Customise the Office 365 encryption Message</title><link>/p/customise-the-office-365-encryption-message/</link><pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate><guid>/p/customise-the-office-365-encryption-message/</guid><description>&lt;p>&lt;a class="link" href="https://www.msb365.blog/?p=3513" target="_blank" rel="noopener"
+>Customise the Office 365 encryption Message&lt;/a>&lt;/p>
+&lt;p>This is a useful guide on branding the messages sent out by Office Message Encryption (OME). I will be coming back to this one in the New Year.&lt;/p></description></item><item><title>A huge pile of new Teams features !</title><link>/p/a-huge-pile-of-new-teams-features/</link><pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate><guid>/p/a-huge-pile-of-new-teams-features/</guid><description>&lt;p>&lt;a class="link" href="https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/What-s-New-in-Microsoft-Teams-Ignite-2019/ba-p/937025" target="_blank" rel="noopener"
+>What’s New in Microsoft Teams- Ignite 2019&lt;/a>&lt;/p>
+&lt;p>This is a LONG list of new and improved features for Microsoft Teams. Excited to see a lot of these, especially things such as Private Channels and Planner/To Do integration&lt;/p></description></item><item><title>What about Win 10 Pro ?</title><link>/p/what-about-win-10-pro/</link><pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate><guid>/p/what-about-win-10-pro/</guid><description>&lt;p>So I just came across another one of Microsofts seemingly arbitrary limitations in using policies to manage Windows 10. This one is another example where there is a policy setting that only works if you have Windows 10 Enterprise or Education editions and not for Pro.&lt;/p>
+&lt;p>If you want a policy to lock down the Windows Store to only show applications in your organisations Store then you are going to be out of luck&amp;hellip;&lt;/p>
+&lt;p>&lt;a class="link" href="https://docs.microsoft.com/en-us/microsoft-store/manage-access-to-private-store" target="_blank" rel="noopener"
+>https://docs.microsoft.com/en-us/microsoft-store/manage-access-to-private-store&lt;/a>&lt;/p>
+&lt;p>If anyone knows a way to block the Windows Store for Pro editions I would be interested to hear from you.&lt;/p></description></item><item><title>Edge Insider - New Tab for Enterprise</title><link>/p/edge-insider-new-tab-for-enterprise/</link><pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate><guid>/p/edge-insider-new-tab-for-enterprise/</guid><description>&lt;p>The latest Edge Insider release includes a new feature for users to configure the default new tab to include the Recommended and Recent sections from the default Office.com landing page.&lt;/p>
+&lt;p>This is a nice addition and will be a great way of giving staff quick and easy access to their Office files without having to specifically navigate to the Office home page. The new tab page also provides a Search box that defaults to searching the users Office 365 tenant ( Sharepoint sites etc ) as well as the web.&lt;/p>
+&lt;p>Now if Microsoft would just switch on synching in Edge Insider for macOS I would be a very happy bunny&amp;hellip;&lt;/p></description></item><item><title>Customise Room Resource work hours in Office 365</title><link>/p/customise-room-resource-work-hours-in-office-365/</link><pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate><guid>/p/customise-room-resource-work-hours-in-office-365/</guid><description>&lt;p>I have recently started setting up Room Resources in our Office 365 tenant and quickly discovered that that rooms are only available Monday to Friday 08:00 to 17:00 by default.&lt;/p>
+&lt;p>Fortunately there is a Powershell command to modify this to suit your room requirements.&lt;/p>
+&lt;p>First connect to Exchange PowershellSet-MailboxCalendarConfiguration -Identity &lt;!-- raw HTML omitted --> -WorkingHoursStartTime 00:00:00 -WorkingHoursEndTime 23:59:59&lt;/p>
+&lt;p>This is for an individual room resource. Alternatively if all your rooms have the same availability schedule you can change all at once with the command below&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-Powershell" data-lang="Powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">Get-MailBox&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">where &lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nv">$_&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="py">ResourceType&lt;/span> &lt;span class="o">-eq&lt;/span> &lt;span class="s2">&amp;#34;Room&amp;#34;&lt;/span>&lt;span class="p">}&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">Set-MailboxCalendarConfiguration&lt;/span> &lt;span class="n">-WorkingHoursStartTime&lt;/span> &lt;span class="mf">00&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="mf">00&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="mf">00&lt;/span> &lt;span class="n">-WorkingHoursEndTime&lt;/span> &lt;span class="mf">23&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="mf">59&lt;/span>&lt;span class="err">:&lt;/span>&lt;span class="mf">59&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>Setting Lock Screen Wallpaper with Intune</title><link>/p/setting-lock-screen-wallpaper-with-intune/</link><pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate><guid>/p/setting-lock-screen-wallpaper-with-intune/</guid><description>&lt;p>Just found
+&lt;a class="link" href="https://www.thelazyadministrator.com/2019/08/08/set-corporate-lock-screen-wallpaper-with-intune-for-non-windows-10-enterprise-or-windows-10-education-machines/" target="_blank" rel="noopener"
+>this article&lt;/a> on the
+&lt;a class="link" href="https://www.thelazyadministrator.com/" target="_blank" rel="noopener"
+>Lazy Administrator&lt;/a> that describes how to enforce a Windows lock screen wallpaper on Windows 10 for all editions ( not just Enterprise and Education which is all Microsoft allow you to do with Intune out of the box ! )&lt;/p>
+&lt;p>I will be using this script. Thanks Brad.&lt;/p></description></item><item><title>Teams Tip - Zooming shared screen</title><link>/p/teams-tip-zooming-shared-screen/</link><pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate><guid>/p/teams-tip-zooming-shared-screen/</guid><description>&lt;p>&lt;a class="link" href="https://myteamsday.com/2019/06/18/how-to-zoom-into-shared-screen-in-teams-meeting/" target="_blank" rel="noopener"
+>How to zoom into a shared screen contents in Teams meeting&lt;/a>&lt;/p></description></item><item><title>Adaptive Cards for Beginners</title><link>/p/adaptive-cards-for-beginners/</link><pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate><guid>/p/adaptive-cards-for-beginners/</guid><description>&lt;h2 id="teams-and-flow">Teams and Flow&lt;/h2>
+&lt;p>&lt;a class="link" href="https://regarding365.com" target="_blank" rel="noopener"
+>Regarding365.com&lt;/a> has this very neat how to article on creating an Adaptive Card in Teams when someone sends a specific Tweet.&lt;/p>
+&lt;p>I&amp;rsquo;ve not seen the adaptive card designer mentioned in the post but will check it out as this looks pretty useful.&lt;/p>
+&lt;p>&lt;a class="link" href="https://regarding365.com/adaptive-cards-for-beginners-monitor-a-hashtag-on-twitter-1b9c1ea6e56f" target="_blank" rel="noopener"
+>Adaptive Cards for Beginners- Monitor a Hashtag on Twitter&lt;/a>&lt;/p></description></item><item><title>Add attachments in PowerApps</title><link>/p/add-attachments-in-powerapps/</link><pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate><guid>/p/add-attachments-in-powerapps/</guid><description>&lt;p>This Microsoft guide explains how to add attachments in a PowerApps form to a Sharepoint list.&lt;/p>
+&lt;p>&lt;a class="link" href="https://powerapps.microsoft.com/en-us/blog/add-attachments-to-sharepoint-lists/" target="_blank" rel="noopener"
+>Add attachments to SharePoint lists&lt;/a>&lt;/p></description></item><item><title>Microsoft blogs of note</title><link>/p/microsoft-blogs-of-note/</link><pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate><guid>/p/microsoft-blogs-of-note/</guid><description>&lt;p>A quick list of some of the blogs I have used recently for guides and how to&amp;rsquo;s on Microsoft products.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://srdn.io/" target="_blank" rel="noopener"
+>Modern Workplace - John blogs about the Microsoft Cloud and Modern Management&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.jijitechnologies.com/blogs/index" target="_blank" rel="noopener"
+>Blog - JiJi Technologies&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://tech.nicolonsky.ch/" target="_blank" rel="noopener"
+>nicolonsky tech&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://practical365.com/" target="_blank" rel="noopener"
+>Practical 365 - Office 365 News, Tips, and Tutorials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.automateiq.rocks/" target="_blank" rel="noopener"
+>AutomateIQ - Business processes automation website&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Creating desktop shortcuts with Intune</title><link>/p/creating-desktop-shortcuts-with-intune/</link><pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate><guid>/p/creating-desktop-shortcuts-with-intune/</guid><description>&lt;p>I have previously setup a script to push simple shortcuts to Desktop with Intune but this guide from
+&lt;a class="link" href="https://tech.nicolonsky.ch" target="_blank" rel="noopener"
+>Nicolonsky Tech&lt;/a> is much better. Will re-create mine using this approach.&lt;/p>
+&lt;p>Source:
+&lt;a class="link" href="https://tech.nicolonsky.ch/intune-create-desktop-shortcut/" target="_blank" rel="noopener"
+>Intune create desktop shortcut&lt;/a>&lt;/p></description></item><item><title>Powershell connection from MFA Account</title><link>/p/powershell-connection-from-mfa-account/</link><pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate><guid>/p/powershell-connection-from-mfa-account/</guid><description>&lt;p>This is a Microsoft guide I need to use fairly regularly ! Wish connection to Exchange Online and Sharepoint Online from Powershell was a little easier to configure.&lt;/p>
+&lt;p>Interestingly when I tried this today if I ran Connect-EXOPSSesion with parameter for my UPN it didn&amp;rsquo;t seem to work. If instead just ran the command with no parameters the standard login dialog appeared fine and I could enter my email address and authenticate with my Authenticator app ! Odd one&amp;hellip;&lt;/p>
+&lt;p>via
+&lt;a class="link" href="https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell?view=exchange-ps" target="_blank" rel="noopener"
+>Connect to Exchange Online PowerShell using multi-factor authentication | Microsoft Docs&lt;/a>&lt;/p>
+&lt;h2 id="powerapps">PowerApps&lt;/h2>
+&lt;p>I definitely need to come back to this one ! One of the tips here is to enable permissions to Sharepoint lists for PowerApps. The bit I need for my current project is to enable row level permissions so that users can only see entries they created. Very useful tip..&lt;/p>
+&lt;p>via
+&lt;a class="link" href="https://www.sharepointeurope.com/3-tips-need-know-using-powerapps-forms-sharepoint-lists/" target="_blank" rel="noopener"
+>3 tips you need to know when using PowerApps forms on SharePoint lists - European SharePoint, Office 365 &amp;amp; Azure Conference, 2019, Prague, Czech Republic&lt;/a>&lt;/p>
+&lt;p>ARGHH !&lt;/p>
+&lt;p>So I have created an app that uses the AzureAD connector to find the logged in users account details (Office location) only to find that when deploying this app to actual users ( who aren&amp;rsquo;t Azure AD admins ) it doesn&amp;rsquo;t work ! The user needs admin rights to query AzureAD so the connector is effectively no good for what I want to use it for.. Ah well.. Back to the Drawing board ! See article below for more.&lt;/p>
+&lt;p>via
+&lt;a class="link" href="https://powerusers.microsoft.com/t5/Connectors/Issue-with-Azure-AD-Connector/td-p/66322" target="_blank" rel="noopener"
+>Solved: Issue with Azure AD Connector - Power Platform Community&lt;/a>&lt;/p></description></item><item><title>Sunday 28 July 2019</title><link>/p/sunday-28-july-2019/</link><pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate><guid>/p/sunday-28-july-2019/</guid><description>&lt;h2 id="powerapps">PowerApps&lt;/h2>
+&lt;p>So I am making some progress with learning PowerApps and have the start of a new app for the charity to use. Just came across this resource which will be worth having a look through, a showcase for what others have done with PowerApps&lt;/p>
+&lt;p>&lt;a class="link" href="https://powerusers.microsoft.com/t5/Community-Apps-Gallery/bd-p/AppFeedbackGallery" target="_blank" rel="noopener"
+>Community Apps Gallery - Power Platform Community&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference" target="_blank" rel="noopener"
+>A useful quick link  to the PowerApps function reference on Microsoft Docs&lt;/a>&lt;/p></description></item><item><title>Wednesday 24 July 2019</title><link>/p/wednesday-24-july-2019/</link><pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate><guid>/p/wednesday-24-july-2019/</guid><description>&lt;p>##Microsoft Forms&lt;/p>
+&lt;p>One feature that would make this process work a lot better would be to enable the initial Form to have some of the information pre-populated so when it is submitted the information can be linked to existing data in Sharepoint. It seems this is a requirement that others have found lacking in Forms at the moment&lt;/p>
+&lt;p>Discussion at 
+&lt;a class="link" href="https://techcommunity.microsoft.com/t5/Microsoft-Forms/Pre-populate-fields-in-Microsoft-Forms-via-URL-parameter/td-p/113803" target="_blank" rel="noopener"
+>Pre-populate fields in Microsoft Forms via URL parameter? - Microsoft Tech Community - 113803&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box/suggestions/18741331-allow-pre-populated-data-via-url-parameter" target="_blank" rel="noopener"
+>Vote for this requirement at Uservoice for Forms&lt;/a>&lt;/p></description></item><item><title>Daily Log - Tuesday 23 July 2019</title><link>/p/daily-log-tuesday-23-july-2019/</link><pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate><guid>/p/daily-log-tuesday-23-july-2019/</guid><description>&lt;h2 id="powershell">Powershell&lt;/h2>
+&lt;p>Following a recent re-brand of our charity the Marketing team distributed a number of new template documents to various teams throughout the organisation and it wasnt until after this had happened that I discovered the blank Word template they had issued was over 26MB !&lt;/p>
+&lt;p>Basically they had dropped a full page high resolution image onto the document to create the header and footer that resulted in a huge template. I immediately recreated ( my version was 80KB ! ) using compressed versions of the graphics cut out from their original and sent back to them, but of course the big template was already in the wild. I did manage to track down a few areas who had already created their own templates based on the huge original by running a quick Powershell script to filter out Word documents over 2MB. The script is reproduced below if you are interested&lt;/p>
+&lt;p>Get-ChildItem *.docx -File -Recurse -ErrorAction SilentlyContinue | Where-Object {$&lt;em>.Length -gt 2MB} | Sort-Object length -Descending | Select-Object Name,Directory,@{n=&amp;lsquo;GB&amp;rsquo;;e={&amp;quot;{0:N2}&amp;quot; -F ($&lt;/em>.length/ 1MB)}} | Format-List Name,Directory,GB&lt;/p>
+&lt;h2 id="intune">Intune&lt;/h2>
+&lt;p>This is something I have been waiting for… Adm template deployment to Windows 10 PC’s by Intune. I will definitely been looking at this more closely tomorrow&lt;/p>
+&lt;p>&lt;a class="link" href="https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Intune-announces-general-availability-of/ba-p/737412" target="_blank" rel="noopener"
+>Microsoft Intune announces general availability of administrative templates - Microsoft Tech Community - 737412&lt;/a>&lt;/p>
+&lt;h2 id="software">Software&lt;/h2>
+&lt;p>One of the little utilities that I use ALL the time on Windows is
+&lt;a class="link" href="https://www.microsoft.com/en-gb/p/ditto-clipboard/9nblggh3zbjq?activetab=pivot:overviewtab" target="_blank" rel="noopener"
+>Ditto&lt;/a> a nice small and unobtrusive download from the Windows Store that provides clipboard management and saves me loads of time. If you are a Mac user then check out my
+&lt;a class="link" href="http://ukmac.net/2016/04/copied-sync-clipboard-ios-os-x/" target="_blank" rel="noopener"
+>previous post on Copied&lt;/a>.&lt;/p>
+&lt;p>If you work on a PC or a Mac you should look into clipboard managers, one of those tools that you come to rely on and miss when you are using a PC without one. &lt;/p>
+&lt;p>Anyone with suggestions on how to manage clipboards across Windows AND Mac please let me know in comments…&lt;/p></description></item><item><title>Monday 22 July 2019</title><link>/p/monday-22-july-2019/</link><pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate><guid>/p/monday-22-july-2019/</guid><description>&lt;h2 id="powerapps">PowerApps&lt;/h2>
+&lt;p>*&lt;a class="link" href="https://www.spsimply.com/home/powerapps-submit-multiple-forms-at-once" target="_blank" rel="noopener"
+>PowerApps: Submit multiple forms at the same time — SharePoint Simply&lt;/a>&lt;/p>
+&lt;p>##&lt;a class="link" href="http://ukmac.net/category/microsoft/teams/" target="_blank" rel="noopener"
+>Teams&lt;/a>&lt;/p>
+&lt;p>Just discovered that you can change individual folder permissions in Sharepoint Groups Document Library using the Manage Access panel. I had been under the impression that to make changes like this you needed to drop into the Advanced Permissions settings ( something that most of the users in my organisation would not cope with easily ).&lt;/p>
+&lt;p>&lt;a class="link" href="https://support.office.com/en-us/article/Use-folders-to-create-read-only-files-for-students-or-other-team-members-0e7791d7-8c9c-4749-9bca-984289477988" target="_blank" rel="noopener"
+>This Microsoft article shows how to do it&lt;/a>. I will definitely be making use of this now I know about it, and helping my users to use it too.&lt;/p></description></item></channel></rss>

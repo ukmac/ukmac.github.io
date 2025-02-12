@@ -14,22 +14,30 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.115.4
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.115.4'
+    - name: Install Hugo CLI
+      run: |
+        wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.115.4/hugo_extended_0.115.4_linux-amd64.deb \
+        && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+    - name: Verify Hugo installation
+      run: hugo version
+
+    - name: Install Dart Sass
+      run: sudo snap install dart-sass
 
     - name: Build site
       run: hugo --minify
+
+    - name: List public directory contents
+      run: ls -la ./public
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./
+        publish_dir: ./public

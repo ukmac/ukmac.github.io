@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this to your default branch if it's not 'main'
+      - gh-pages  # Change this to your default branch if it's not 'main'
   workflow_dispatch:
 
 permissions:
@@ -36,9 +36,12 @@ jobs:
 
     - name: List public directory contents
       run: ls -la ./public
+    - name: create cname
+      run: echo "ukmac.net" > CNAME
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public 
+

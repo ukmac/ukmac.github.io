@@ -2,7 +2,7 @@ name: 'IndexNow'
 on:
   schedule:
     # Set the schedule time
-    - cron: '0 0 * * *'
+    - cron: '0 14 * * *'
 
 jobs:
   check-and-submit:

@@ -34,10 +34,11 @@ jobs:
       run: hugo --minify 
 
     - name: create cname
-      run: echo "ukmac.net" > CNAME      
+      run: cp CNAME ./public/CNAME      
 
     - name: List public directory contents
       run: ls -la ./public
+      
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3

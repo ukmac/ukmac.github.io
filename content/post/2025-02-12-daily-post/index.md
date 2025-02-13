@@ -14,3 +14,4 @@ The [frustration](https://tidbits.com/2025/02/12/you-can-now-migrate-purchases-b
 |Link|Description|
 |--------|----|
 |[You Can Now Migrate Purchases Between Your Apple Accounts](https://tidbits.com/2025/02/12/you-can-now-migrate-purchases-between-your-apple-accounts/)|TidBITS update on the new feature released today |
+

@@ -19,7 +19,6 @@ aliases:
     /2008/09/04/ipod-touch-and-iphone-slow-synching-problem-fixed/
     /posts/2023-04-01-microsoft-edge-to-incorporate-adobe-acrobat/
     /page4/
-    /wp-cron.php?doing_wp_cron=1566872236.9305989742279052734375/
     /2019/08/877/
     /page5/
     /2015/05/gorgeous-tiny-office/

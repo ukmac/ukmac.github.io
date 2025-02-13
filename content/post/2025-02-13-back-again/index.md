@@ -3,8 +3,8 @@ title: A little knowledge is a dangerous thing
 slug: 
 description: Github Pages struggles
 date: "2025-02-13T00:00:00Z"
-image: 
-categories: ghpages.png
+image: ghpages.png
+categories: 
     - Daily Post
 ---
 This site is brought to you by Hugo and Github Pages. 

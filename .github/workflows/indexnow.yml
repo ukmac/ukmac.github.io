@@ -1,7 +1,6 @@
 name: 'IndexNow'
 on:
   schedule:
-    # Set the schedule time
     - cron: '0 14 * * *'
     workflow_dispatch:
 

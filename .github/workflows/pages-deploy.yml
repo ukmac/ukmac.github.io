@@ -42,3 +42,9 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public 
+
+    - name: indexnow-action
+      uses: bojieyang/indexnow-action@v1
+      with:
+        sitemap-location: 'https://ukmac.net/sitemap.xml'
+        key: ${{ secrets.INDEXNOW_KEY }}

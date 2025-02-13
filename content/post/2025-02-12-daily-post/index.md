@@ -7,7 +7,7 @@ image:
 categories:
     - Apple
 ---
-The frustration of being an Apple enthusiast that doesn't live in the UK means often missing out on the latest features, or getting them months or years after Americans do....
+The frustration of being an Apple enthusiast that doesn't live in the UK means often missing out on the latest features, or getting them months or years after Americans do.... 
 
 ## Daily Links
 

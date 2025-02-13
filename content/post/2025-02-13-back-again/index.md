@@ -13,4 +13,6 @@ As much as I would love to be an expert in web design and publishing I have to a
 
 Last night I thought I would post a quick link to an article on [TidBITs](https://tidbits.com) that turned into two hours messing about with github workflows and ultimately with me going to bed with a broken web site. Undeterred I have recovered and the site is now visible again. The issue last night was due to part of the github workflow responsible for publishing this site being deprecated on January 30th (actions/upload-artifact: v3). The solution was made possible in part thanks to Microsoft CoPilot which I am finding increasingly useful for various aspects of my work and personal life. I am fairly sure if needed I could have got to the same point by traditional web searches and trawling through a variety of blogs and Reddit posts, but CoPilot certainly helped to shortcut that process.
 
+Now if I could just figure out why [Bing](https://bing.com) refuses to index this site I would be really happy.
+
 Today I am back in the virtual classroom on the pen-ultimate day of my CISSP (Certified Information Systems Security Professional) course. 

@@ -4,7 +4,7 @@ slug:
 description: Github Pages struggles
 date: "2025-02-13T00:00:00Z"
 image: 
-categories: ghpages.jpg
+categories: ghpages.png
     - Daily Post
 ---
 This site is brought to you by Hugo and Github Pages. 

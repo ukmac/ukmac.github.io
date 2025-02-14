@@ -18,3 +18,4 @@ CISSP is not deeply technical but is very broad in scope covering all aspects of
 |--------|----|
 |[ISC2 - CISSP](https://www.isc2.org/certifications/cissp)|Certified Information Systems Security Professional|
 |[The Knowledge Academy](https://www.theknowledgeacademy.com/)|UK based Training provider|
+|[Handshake](https://mattgemmell.scot/books/once-upon-a-time/stories/handshake/)|A short story with a twist from [Matt Gemmell](https://mattgemmell.scot/)|

@@ -3,7 +3,7 @@ title: Moving Mac Windows Quickly.
 slug: 
 description: 
 date: "2025-08-22T00:00:00Z"
-image: 
+image: moves.png
 categories:
     - Daily Post
     - Apple

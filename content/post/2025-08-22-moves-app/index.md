@@ -15,3 +15,5 @@ A new favourite utility app for MacOS is [Moves](https://mikkelmalmberg.com/move
 |Link|Description|
 |--------|----|
 |[Moves app](https://mikkelmalmberg.com/moves)|Quickly Move and Resize Windows.|
+|[$40,000 iPod](https://www.rrauction.com/auctions/lot-detail/350439307246076-apple-ipod-classic-first-generation-sealed/)|Sealed as new OG iPod sells for over $40K|
+

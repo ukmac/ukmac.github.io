@@ -2,7 +2,7 @@
 title: Aerospace Tiling Window Manager for macOS
 slug: 
 description: 
-date: "2015-04-30T00:00:00Z"
+date: "2025-12-13T00:00:00Z"
 image: 
 categories: Apple
     - 

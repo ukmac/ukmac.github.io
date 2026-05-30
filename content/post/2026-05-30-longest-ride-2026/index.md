@@ -15,4 +15,11 @@ Todays ride was my longest so far this year, only 56k so not a monster one but t
 
 After a very welcome Solero (ice cream) I headed towards the [Stafford Greenway](http://haughton-staffs.org.uk/page33.html) for a nice flat ride towards home. The greenway is a fantastic route that follows an old railway line through open countryside and is really well used by dog walkers, cyclists, families and wildlife ! I had a couple of close calls when birds shot across in front of me but again was surprised by how quiet it was compared with other recent rides where I have taken this route.
 
+## Daily Links
+
+|Link|Description|
+|--------|----|
+|[The impossible song we'll remember in 500 years](https://www.youtube.com/watch?v=XLqhOEzpWyo)|A fascinating look into the making of a Rock Classic|
+|[ScreenKite](https://www.screenkite.com/)|A fast, free native screen recorder for macOS|
+
 

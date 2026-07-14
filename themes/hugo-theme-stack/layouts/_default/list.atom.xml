@@ -3,7 +3,7 @@
     <generator uri="https://gohugo.io/" version="{{ hugo.Version }}">Hugo</generator>
     {{- $title := .Site.Title -}}
     {{- if not (eq .Kind "home") }}
-        {{- $title = printf `%s on %s` (partial "utils/title" .) $title -}}
+        {{- $title = printf `%s on %s` .Title $title -}}
     {{- end }}
     <title>{{ $title }}</title>
     {{- with .Site.Params.subtitle }}

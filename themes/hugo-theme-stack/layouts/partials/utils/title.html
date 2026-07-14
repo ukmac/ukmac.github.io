@@ -1,6 +1,0 @@
-{{- /* Returns the display title for a page: its own title, falling back to the site title on the home page. */ -}}
-{{- if .IsHome -}}
-    {{- .Site.Title -}}
-{{- else -}}
-    {{- with .Title -}}{{- . -}}{{- else -}}{{- $.Site.Title -}}{{- end -}}
-{{- end -}}

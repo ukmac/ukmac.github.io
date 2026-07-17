@@ -20,6 +20,6 @@ After a very welcome Solero (ice cream) I headed towards the [Stafford Greenway]
 |Link|Description|
 |--------|----|
 |[The impossible song we'll remember in 500 years](https://www.youtube.com/watch?v=XLqhOEzpWyo)|A fascinating look into the making of a Rock Classic|
-|[ScreenKite](https://www.screenkite.com/)|A fast, free native screen recorder for macOS|
+|[ScreenKite](https://www.screenkite.com/)|A fast free native screen recorder for macOS|
 
 
